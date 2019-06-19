@@ -8,6 +8,8 @@ This repository contains the data used for and generated during our research for
 
 <b>visualizations:</b> visualizations of the networks
 
+<b>lists:</b> lists of standardized divine and place names; frequency lists of the words analyzed
+
 <br><br>
 
 <p align="center">

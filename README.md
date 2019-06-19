@@ -1,6 +1,6 @@
 This repository contains the data used for and generated during our research for the article "Fear in Akkadian Texts." 
 
-<b>network-data:</b> edge lists and node lists used for creating networks; Gephi datasets
+<b>network-data:</b> Gephi datasets and raw data used to create the graphs
 
 <b>scripts:</b> scripts created to analyze our data
 

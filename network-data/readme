@@ -1,2 +1,5 @@
 FastText_networks.gephi and PMI_networks.gephi
 Gephi project files containing the networks created with fastText and PMI
+
+PMI_level1_10.csv, PMI_level1_50.csv, PMI_level2_10.csv and PMI_level2_50.csv
+Raw PMI data used for creating the graphs

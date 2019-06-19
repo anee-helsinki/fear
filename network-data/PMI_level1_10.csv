@@ -1,0 +1,291 @@
+source;target;weight
+adru [[dark, afraid, scared, threshing floor]];šutadduru [[constantly terrified]];0.022
+adru [[dark, afraid, scared, threshing floor]];tabriu [[fodder crop]];0.017
+adru [[dark, afraid, scared, threshing floor]];adru [[dark, afraid, scared, threshing floor]];0.016
+adru [[dark, afraid, scared, threshing floor]];tēlītu [[produce, revenue]];0.013
+adru [[dark, afraid, scared, threshing floor]];mašādu [[beat]];0.011
+adru [[dark, afraid, scared, threshing floor]];kirû [[(fruit) plantation, orchard, garden]];0.011
+adru [[dark, afraid, scared, threshing floor]];būrtu [[cistern, well, cow]];0.011
+adru [[dark, afraid, scared, threshing floor]];barārīti [[evening watch]];0.01
+adru [[dark, afraid, scared, threshing floor]];antallû [[eclipse]];0.009
+adru [[dark, afraid, scared, threshing floor]];iltāni [[north]];0.009
+adāru [[be(come) dark, be(come) afraid (of), (a tree), be(come) afraid, be afraid (of), be(come) afraid of, (be)come dark]];iltāni [[north]];0.019
+adāru [[be(come) dark, be(come) afraid (of), (a tree), be(come) afraid, be afraid (of), be(come) afraid of, (be)come dark]];šūti [[south]];0.016
+adāru [[be(come) dark, be(come) afraid (of), (a tree), be(come) afraid, be afraid (of), be(come) afraid of, (be)come dark]];šadî [[east]];0.016
+adāru [[be(come) dark, be(come) afraid (of), (a tree), be(come) afraid, be afraid (of), be(come) afraid of, (be)come dark]];šalgu [[snow]];0.012
+adāru [[be(come) dark, be(come) afraid (of), (a tree), be(come) afraid, be afraid (of), be(come) afraid of, (be)come dark]];šuribatu [[terror?]];0.011
+adāru [[be(come) dark, be(come) afraid (of), (a tree), be(come) afraid, be afraid (of), be(come) afraid of, (be)come dark]];šuttinnu [[bat]];0.011
+adāru [[be(come) dark, be(come) afraid (of), (a tree), be(come) afraid, be afraid (of), be(come) afraid of, (be)come dark]];huliam [[helmet]];0.011
+adāru [[be(come) dark, be(come) afraid (of), (a tree), be(come) afraid, be afraid (of), be(come) afraid of, (be)come dark]];antallû [[eclipse]];0.01
+adāru [[be(come) dark, be(come) afraid (of), (a tree), be(come) afraid, be afraid (of), be(come) afraid of, (be)come dark]];šāt&&urri [[who(m)&&daytime]];0.009
+adāru [[be(come) dark, be(come) afraid (of), (a tree), be(come) afraid, be afraid (of), be(come) afraid of, (be)come dark]];adāru [[be(come) dark, be(come) afraid (of), (a tree), be(come) afraid, be afraid (of), be(come) afraid of, (be)come dark]];0.009
+ezzu [[furious]];kakku [[stick, weapon]];0.014
+ezzu [[furious]];šumru [[fury]];0.012
+ezzu [[furious]];šamru [[furious, furious one, (a plant)]];0.011
+ezzu [[furious]];Girra [[1, fire(-god)]];0.011
+ezzu [[furious]];allallu [[(a kind of bird), powerful, powerful one]];0.011
+ezzu [[furious]];hamuttu [[haste]];0.009
+ezzu [[furious]];tību [[attack, arousal]];0.009
+ezzu [[furious]];ḫamāṭu [[burn (up)]];0.009
+ezzu [[furious]];mušamqitu [[overturning, one who brings to fall, one who overthrows]];0.009
+ezzu [[furious]];ziāqu [[blow]];0.007
+ezēzu [[be(come) angry]];nīdu [[l(a)ying, cumulus cloud, laying down, l(a)ying (down), (meaning uncertain)]];0.019
+ezēzu [[be(come) angry]];erhu [[aggressive]];0.017
+ezēzu [[be(come) angry]];agāgu [[be(come) furious, to be(come) furious]];0.012
+ezēzu [[be(come) angry]];purruku [[lying across, blocked]];0.01
+ezēzu [[be(come) angry]];Anum [[1]];0.009
+ezēzu [[be(come) angry]];šulû [[street]];0.007
+ezēzu [[be(come) angry]];sakāpu [[push down, rest, push away]];0.006
+ezēzu [[be(come) angry]];hašû [[lung(s), thyme?, dark, crush, to be(come) dark, thyme]];0.006
+ezēzu [[be(come) angry]];būšānu [[bad smell, (a plant)]];0.005
+ezēzu [[be(come) angry]];ṣarāhu [[heat up, flare, cry out, wail, light up, send]];0.005
+galātu [[tremble]];galātu [[tremble]];0.03
+galātu [[tremble]];daʾmu [[dark, dark one]];0.013
+galātu [[tremble]];sakālu [[balk, acquire]];0.009
+galātu [[tremble]];bašāmu [[create, sackcloth, allocate]];0.006
+galātu [[tremble]];awīlu [[man]];0.005
+galātu [[tremble]];palāhu [[fear, be(come) afraid]];0.005
+galātu [[tremble]];nâlu [[lie down, lie down (to sleep)]];0.005
+galātu [[tremble]];bāštu [[dignity]];0.005
+galātu [[tremble]];nabāṭu [[be(come) bright]];0.005
+galātu [[tremble]];mayyālu [[bed]];0.004
+gilittu [[terror]];pirittu [[terror]];0.038
+gilittu [[terror]];ašuštu [[affliction]];0.02
+gilittu [[terror]];arurtu [[famine]];0.019
+gilittu [[terror]];nakādu [[beat]];0.018
+gilittu [[terror]];šahṭu [[jumped, stripped, stripped?, attacking, formed]];0.017
+gilittu [[terror]];ḫūṣu [[pain]];0.016
+gilittu [[terror]];adirtu [[gloominess, fear]];0.016
+gilittu [[terror]];ḫīpu [[break]];0.014
+gilittu [[terror]];māru&&bārû [[son&&diviner]];0.011
+gilittu [[terror]];mūšu [[night]];0.01
+kimiltu [[wrath]];ridâtu [[persecution]];0.017
+kimiltu [[wrath]];pašāru [[release, loosen]];0.008
+kimiltu [[wrath]];ilu [[god, lament, song, pure]];0.006
+kimiltu [[wrath]];Zappu [[Bristle, 1, Pleiades]];0.005
+kimiltu [[wrath]];magir [[favourable, agreeable]];0.005
+kimiltu [[wrath]];wardu [[slave]];0.004
+kimiltu [[wrath]];awīlu [[man]];0.004
+kimiltu [[wrath]];ištaru [[goddess]];0.004
+kimiltu [[wrath]];halāqu [[be(come) lost, (be) lost]];0.003
+kimiltu [[wrath]];palāsu [[look (at), look at, see, look]];0.003
+libbātu [[rage]];malû [[full, be(come) full, abundance, matted hair, matted, dirty (body) hair, full one, be full, matted, matted (body) hair]];0.008
+libbātu [[rage]];ašarēdu [[pre-eminent one, first and foremost, first and foremost one]];0.006
+libbātu [[rage]];Nippur_P [?];0.006
+libbātu [[rage]];nêru [[kill, strike, killer]];0.005
+libbātu [[rage]];šemû [[hear, listen, hearing, heard, accept (prayer), informed]];0.003
+libbātu [[rage]];Enlil [[1]];0.003
+libbātu [[rage]];ṭēmu [[(fore)thought, reason, report]];0.002
+libbātu [[rage]];ilu [[god, lament, song, pure]];0.002
+libbātu [[rage]];Šamaš [[1]];0.002
+libbātu [[rage]];awīlu [[man]];0.002
+narāmtu [[loved one, beloved, beloved (woman)]];hīrtu [[(equal ranking) wife, (equal-ranking) wife]];0.035
+narāmtu [[loved one, beloved, beloved (woman)]];Aya [[1]];0.016
+narāmtu [[loved one, beloved, beloved (woman)]];abbūtu [[fatherhood]];0.013
+narāmtu [[loved one, beloved, beloved (woman)]];kallātu [[daughter-in-law, bride]];0.01
+narāmtu [[loved one, beloved, beloved (woman)]];ša&&ēkallu [[of&&palace]];0.009
+narāmtu [[loved one, beloved, beloved (woman)]];sekretu [[enclosed (woman)]];0.007
+narāmtu [[loved one, beloved, beloved (woman)]];awû [[speak]];0.006
+narāmtu [[loved one, beloved, beloved (woman)]];damiqtu [[good, good fortune]];0.006
+narāmtu [[loved one, beloved, beloved (woman)]];lemēnu [[be(come) bad]];0.006
+narāmtu [[loved one, beloved, beloved (woman)]];Šerʾu [[Furrow, Spica (in Virgo)]];0.005
+narāmu [[loved, loved one]];Mami [[1]];0.013
+narāmu [[loved, loved one]];narāmu [[loved, loved one]];0.012
+narāmu [[loved, loved one]];Dagan [[1]];0.012
+narāmu [[loved, loved one]];šahtu [[reverent one, reverent]];0.011
+narāmu [[loved, loved one]];šūpû [[resplendent one, made apparent]];0.01
+narāmu [[loved, loved one]];nišītu [[lifting]];0.01
+narāmu [[loved, loved one]];kašūšu [[(divine weapon), (a divine weapon)]];0.01
+narāmu [[loved, loved one]];migru [[consent]];0.009
+narāmu [[loved, loved one]];naʾdu [[praised one, attentive, praised, attentive one]];0.009
+narāmu [[loved, loved one]];Enlil [[1]];0.008
+palhu [[fearful, fearful one, fearsome, fearsome one]];šutadduru [[constantly terrified]];0.022
+palhu [[fearful, fearful one, fearsome, fearsome one]];Muskaya_E [?];0.013
+palhu [[fearful, fearful one, fearsome, fearsome one]];idāti [[ominous condition]];0.009
+palhu [[fearful, fearful one, fearsome, fearsome one]];ittāti [[sign]];0.008
+palhu [[fearful, fearful one, fearsome, fearsome one]];ēdēnû [[single]];0.008
+palhu [[fearful, fearful one, fearsome, fearsome one]];adru [[dark, afraid, scared, threshing floor]];0.007
+palhu [[fearful, fearful one, fearsome, fearsome one]];putuqqu [[regularly attentive, constantly attentive]];0.007
+palhu [[fearful, fearful one, fearsome, fearsome one]];sissiktu [[hem]];0.007
+palhu [[fearful, fearful one, fearsome, fearsome one]];wašru [[submissive, submissive one]];0.006
+palhu [[fearful, fearful one, fearsome, fearsome one]];emqu [[wise, wise one]];0.006
+palāhu [[fear, be(come) afraid]];rasānu [[soak]];0.01
+palāhu [[fear, be(come) afraid]];namurratu [[awe-inspiringly radiance, awe-inspiring radiance]];0.009
+palāhu [[fear, be(come) afraid]];nakādu [[beat]];0.008
+palāhu [[fear, be(come) afraid]];Belet-Arbail [[1]];0.008
+palāhu [[fear, be(come) afraid]];rāsinūtu [[activity of tanner]];0.007
+palāhu [[fear, be(come) afraid]];šitmuru [[very wild, praised]];0.007
+palāhu [[fear, be(come) afraid]];naquttu [[critical situation]];0.007
+palāhu [[fear, be(come) afraid]];tārītu [[nurse, stripping]];0.007
+palāhu [[fear, be(come) afraid]];haṣāṣu [[snap off, erect (reed hut)]];0.006
+palāhu [[fear, be(come) afraid]];kakku [[stick, weapon]];0.006
+parādu [[be(come) scared, be(come) fearful, separate oneself]];nashu [[torn out, deportee, torn]];0.031
+parādu [[be(come) scared, be(come) fearful, separate oneself]];tamītu [[oath]];0.029
+parādu [[be(come) scared, be(come) fearful, separate oneself]];šupêlu [[exchange]];0.025
+parādu [[be(come) scared, be(come) fearful, separate oneself]];bēru [[double hour, distant, unit, selected, selected one, choice, double-hour]];0.02
+parādu [[be(come) scared, be(come) fearful, separate oneself]];enû [[change, overturned, loincloth, changed]];0.019
+parādu [[be(come) scared, be(come) fearful, separate oneself]];māru&&bārû [[son&&diviner]];0.019
+parādu [[be(come) scared, be(come) fearful, separate oneself]];kūnu [[be(come) permanent, firmness, firm]];0.017
+parādu [[be(come) scared, be(come) fearful, separate oneself]];šâlu [[ask, rejoice]];0.014
+parādu [[be(come) scared, be(come) fearful, separate oneself]];pû [[mouth, chaff]];0.012
+parādu [[be(come) scared, be(come) fearful, separate oneself]];gilittu [[terror]];0.01
+pirittu [[terror]];ḫātu [[terror]];0.04
+pirittu [[terror]];gilittu [[terror]];0.038
+pirittu [[terror]];adirtu [[gloominess, fear]];0.025
+pirittu [[terror]];ḫīpu [[break]];0.025
+pirittu [[terror]];ḫūṣu [[pain]];0.024
+pirittu [[terror]];ašuštu [[affliction]];0.024
+pirittu [[terror]];arurtu [[famine]];0.018
+pirittu [[terror]];agašgû [[youngest son]];0.015
+pirittu [[terror]];puḫpuḫḫû [[squabble]];0.015
+pirittu [[terror]];mūšu [[night]];0.01
+pulhu [[terror]];melemmu [[fearsome radiance]];0.042
+pulhu [[terror]];sahāpu [[envelop, overwhelm]];0.029
+pulhu [[terror]];urbu [[(a work gang)]];0.01
+pulhu [[terror]];šalšu [[third]];0.007
+pulhu [[terror]];Aššur [[1, Assyria, Ashur]];0.006
+pulhu [[terror]];Hubuškayu_E [?];0.006
+pulhu [[terror]];Gilzanayu_E [?];0.006
+pulhu [[terror]];napālu [[dig, dig out, (meaning uncertain)]];0.006
+pulhu [[terror]];naqāru [[demolish]];0.006
+pulhu [[terror]];bēlūtu [[rule, lordship]];0.006
+puluhtu [[fear(someness), fear, awesomeness]];sahāpu [[envelop, overwhelm]];0.014
+puluhtu [[fear(someness), fear, awesomeness]];hātu [[terror, the sign HAD₂]];0.014
+puluhtu [[fear(someness), fear, awesomeness]];rašubbatu [[terrifying appearance, awesomeness]];0.008
+puluhtu [[fear(someness), fear, awesomeness]];pariktu [[violent act, (a wall or fence), injustice, blockage]];0.008
+puluhtu [[fear(someness), fear, awesomeness]];Dilmun_P [?];0.007
+puluhtu [[fear(someness), fear, awesomeness]];dāṣtu [[treachery]];0.007
+puluhtu [[fear(someness), fear, awesomeness]];melemmu [[fearsome radiance]];0.006
+puluhtu [[fear(someness), fear, awesomeness]];kišukku [[captivity, grating?]];0.006
+puluhtu [[fear(someness), fear, awesomeness]];namrīru [[awe-inspiring radiance]];0.006
+puluhtu [[fear(someness), fear, awesomeness]];ṣâlu [[fight]];0.006
+raʾābu [[shake, be angry]];raʾbu [[raging one, raging]];0.021
+raʾābu [[shake, be angry]];šabsu [[angry]];0.014
+raʾābu [[shake, be angry]];naʾāru [[roar]];0.012
+raʾābu [[shake, be angry]];Sarranu [[(a group of deities or their impersonators)]];0.012
+raʾābu [[shake, be angry]];raṣānu [[be powerful (of voice), be(come) powerful (of voice), roar]];0.01
+raʾābu [[shake, be angry]];qarrādu [[hero, warlike]];0.01
+raʾābu [[shake, be angry]];Arallu_P [?];0.01
+raʾābu [[shake, be angry]];uššušu [[very distressed, renew, (part of a reed)]];0.009
+raʾābu [[shake, be angry]];nagāšu [[go to(wards)]];0.008
+raʾābu [[shake, be angry]];kaṣāṣu [[grind, rain, rain?, chew]];0.008
+râmu [[love, present to, present, one who loves]];râmu [[love, present to, present, one who loves]];0.021
+râmu [[love, present to, present, one who loves]];ṣīhtu [[laughter]];0.018
+râmu [[love, present to, present, one who loves]];šangûtu [[priesthood, priest]];0.017
+râmu [[love, present to, present, one who loves]];dādu [[darling, sexual attractiveness, favourite]];0.015
+râmu [[love, present to, present, one who loves]];ṣiāhu [[laugh]];0.011
+râmu [[love, present to, present, one who loves]];buʾʾuru [[hunting]];0.011
+râmu [[love, present to, present, one who loves]];zību [[vulture, black cumin, jackal, (a blister)?, stone, (a blister), food offering]];0.009
+râmu [[love, present to, present, one who loves]];Ehiliana_P [?];0.009
+râmu [[love, present to, present, one who loves]];nahšu [[thriving, haemorrhage]];0.008
+râmu [[love, present to, present, one who loves]];kuzbu [[attractiveness]];0.008
+rāʾimu [[loving, one who loves]];šangûtu [[priesthood, priest]];0.012
+rāʾimu [[loving, one who loves]];tappûtu [[companionship, common cause]];0.011
+rāʾimu [[loving, one who loves]];akû [[weak one, cripple, crippled one, mooring pole?, weak]];0.01
+rāʾimu [[loving, one who loves]];Muʾati [[1]];0.009
+rāʾimu [[loving, one who loves]];balāṭi [[life]];0.009
+rāʾimu [[loving, one who loves]];nāṣiru [[guard, protecting]];0.009
+rāʾimu [[loving, one who loves]];šāpirūtu [[post of šāpiru]];0.008
+rāʾimu [[loving, one who loves]];mīšaru [[justice]];0.008
+rāʾimu [[loving, one who loves]];nābû [[one who names, namer, one who calls by name]];0.008
+rāʾimu [[loving, one who loves]];Ištar [[1, sex-goddess]];0.007
+uggatu [[anger, rage]];kak-dāmi [[bloodstained weapon]];0.024
+uggatu [[anger, rage]];zummû [[be(come) deprived of, deprived, (one) deprived]];0.012
+uggatu [[anger, rage]];apāru [[cover the head]];0.011
+uggatu [[anger, rage]];hamâtu [[help]];0.009
+uggatu [[anger, rage]];sāpinu [[one that flattens, flattener]];0.009
+uggatu [[anger, rage]];watmanu [[cella]];0.007
+uggatu [[anger, rage]];uzzu [[anger]];0.007
+uggatu [[anger, rage]];zāʾeru [[enemy, hostile, hostile one]];0.007
+uggatu [[anger, rage]];Egašankalama_P [?];0.007
+uggatu [[anger, rage]];rakābu [[ride, mount]];0.006
+uzzu [[anger]];uzzu [[anger]];0.042
+uzzu [[anger]];šahāṭu [[jump (on), tear away, jump, be(come) angry]];0.017
+uzzu [[anger]];šalummatu [[radiance]];0.015
+uzzu [[anger]];pasāsu [[erase, break]];0.011
+uzzu [[anger]];Nanaya [[1]];0.008
+uzzu [[anger]];askuppu [[(threshold) slab]];0.008
+uzzu [[anger]];qarrādu [[hero, warlike]];0.008
+uzzu [[anger]];uggatu [[anger, rage]];0.007
+uzzu [[anger]];nahsu [[(very) thin, meaning unclear]];0.007
+uzzu [[anger]];bāštu [[dignity]];0.006
+zenû [[angry, be(come) angry]];salāmu [[be(come) at peace, amity, be(come) at peace (with someone)]];0.025
+zenû [[angry, be(come) angry]];zenû [[angry, be(come) angry]];0.023
+zenû [[angry, be(come) angry]];puḫpuḫḫû [[squabble]];0.018
+zenû [[angry, be(come) angry]];ištaru [[goddess]];0.016
+zenû [[angry, be(come) angry]];šabsu [[angry]];0.015
+zenû [[angry, be(come) angry]];idāti [[ominous condition]];0.015
+zenû [[angry, be(come) angry]];ittāti [[sign]];0.013
+zenû [[angry, be(come) angry]];ḫātu [[terror]];0.012
+zenû [[angry, be(come) angry]];ilu [[god, lament, song, pure]];0.01
+zenû [[angry, be(come) angry]];ṭābi [[favourable, good, sweet]];0.009
+ādiru [[full of awe, fearful?, one who is full of awe]];tuqumtu [[battle]];0.021
+ādiru [[full of awe, fearful?, one who is full of awe]];āpiru [[crowned one]];0.02
+ādiru [[full of awe, fearful?, one who is full of awe]];mulaʾʾiṭu [[one who keeps in check, one who encircles]];0.017
+ādiru [[full of awe, fearful?, one who is full of awe]];šāninu [[rival]];0.015
+ādiru [[full of awe, fearful?, one who is full of awe]];išû [[have, having]];0.014
+ādiru [[full of awe, fearful?, one who is full of awe]];mušaknišu [[one who subjugates, one who makes someone bow down]];0.012
+ādiru [[full of awe, fearful?, one who is full of awe]];pādû [[forgiving, merciful one, merciful]];0.012
+ādiru [[full of awe, fearful?, one who is full of awe]];tabrītu [[appearance, (nocturnal) vision, vision]];0.011
+ādiru [[full of awe, fearful?, one who is full of awe]];māhiru [[opponent, stockade]];0.011
+ādiru [[full of awe, fearful?, one who is full of awe]];šalummatu [[radiance]];0.011
+šabāsu [[be(come) angry]];bābtu [[city quarter, city district, commercial goods]];0.012
+šabāsu [[be(come) angry]];salātu [[family, split, slit]];0.011
+šabāsu [[be(come) angry]];kimtu [[family]];0.01
+šabāsu [[be(come) angry]];zenû [[angry, be(come) angry]];0.008
+šabāsu [[be(come) angry]];salāmu [[be(come) at peace, amity, be(come) at peace (with someone)]];0.008
+šabāsu [[be(come) angry]];simtu [[appropriate symbol, appropriate thing]];0.008
+šabāsu [[be(come) angry]];Nanaya [[1]];0.007
+šabāsu [[be(come) angry]];enzu [[goat]];0.005
+šabāsu [[be(come) angry]];naptanu [[meal(-time)]];0.005
+šabāsu [[be(come) angry]];eṭemmu [[ghost]];0.004
+šahtu [[reverent one, reverent]];wašru [[submissive, submissive one]];0.026
+šahtu [[reverent one, reverent]];putuqqu [[regularly attentive, constantly attentive]];0.017
+šahtu [[reverent one, reverent]];naʾdu [[praised one, attentive, praised, attentive one]];0.011
+šahtu [[reverent one, reverent]];narāmu [[loved, loved one]];0.01
+šahtu [[reverent one, reverent]];Dagan [[1]];0.009
+šahtu [[reverent one, reverent]];kašūšu [[(divine weapon), (a divine weapon)]];0.009
+šahtu [[reverent one, reverent]];zāninu [[provisioner, providing]];0.009
+šahtu [[reverent one, reverent]];targīgu [[evildoer]];0.007
+šahtu [[reverent one, reverent]];mušteʾʾû [[one who keeps searching, repeatedly searching one, who visits assiduously, repeatedly searching]];0.007
+šahtu [[reverent one, reverent]];šakkanakku [[(military) governor, (military) general]];0.007
+šahātu [[armpit, be(come) afraid, wash (off), wash (off, away), be afraid, wash]];šahātu [[armpit, be(come) afraid, wash (off), wash (off, away), be afraid, wash]];0.033
+šahātu [[armpit, be(come) afraid, wash (off), wash (off, away), be afraid, wash]];nakādu [[beat]];0.018
+šahātu [[armpit, be(come) afraid, wash (off), wash (off, away), be afraid, wash]];bakru [[foal]];0.015
+šahātu [[armpit, be(come) afraid, wash (off), wash (off, away), be afraid, wash]];anāqāte [[she-camels]];0.012
+šahātu [[armpit, be(come) afraid, wash (off), wash (off, away), be afraid, wash]];dikuggallu [[chief justice]];0.012
+šahātu [[armpit, be(come) afraid, wash (off), wash (off, away), be afraid, wash]];nanduru [[very wild, intertwined one, intertwined]];0.011
+šahātu [[armpit, be(come) afraid, wash (off), wash (off, away), be afraid, wash]];ēpištu [[sorceress, work team, she who acts]];0.01
+šahātu [[armpit, be(come) afraid, wash (off), wash (off, away), be afraid, wash]];ibilu [[camel]];0.009
+šahātu [[armpit, be(come) afraid, wash (off), wash (off, away), be afraid, wash]];marratu [[bitter thing, (a bird)]];0.009
+šahātu [[armpit, be(come) afraid, wash (off), wash (off, away), be afraid, wash]];kaṣāṣu [[grind, rain, rain?, chew]];0.008
+šamru [[furious, furious one, (a plant)]];šiltāhu [[arrow]];0.016
+šamru [[furious, furious one, (a plant)]];ezzu [[furious]];0.011
+šamru [[furious, furious one, (a plant)]];šamru [[furious, furious one, (a plant)]];0.011
+šamru [[furious, furious one, (a plant)]];babālu [[carry]];0.011
+šamru [[furious, furious one, (a plant)]];kaškaššu [[all-powerful, all powerful, all-powerful one, all powerful one]];0.01
+šamru [[furious, furious one, (a plant)]];nêʾu [[turned back, turn back]];0.01
+šamru [[furious, furious one, (a plant)]];ziāqu [[blow]];0.01
+šamru [[furious, furious one, (a plant)]];ālilu [[brave one]];0.01
+šamru [[furious, furious one, (a plant)]];taqrubtu [[battle]];0.01
+šamru [[furious, furious one, (a plant)]];haštu [[hole, (a kind of stone), pit]];0.01
+šamāru [[gloat, gloat?, rage]];Sarranu [[(a group of deities or their impersonators)]];0.012
+šamāru [[gloat, gloat?, rage]];Meslamtaea [[1]];0.01
+šamāru [[gloat, gloat?, rage]];wiāṣu [[be(come) too little]];0.01
+šamāru [[gloat, gloat?, rage]];pušqu [[distress, narrowness]];0.009
+šamāru [[gloat, gloat?, rage]];rīšu [[celebrated]];0.008
+šamāru [[gloat, gloat?, rage]];mašāʾu [[take away by force, rob]];0.007
+šamāru [[gloat, gloat?, rage]];ṣamāru [[wish, wish (for), strive (for)]];0.007
+šamāru [[gloat, gloat?, rage]];dalīlu [[praise, (a type of frog)?]];0.007
+šamāru [[gloat, gloat?, rage]];narbû [[greatness]];0.007
+šamāru [[gloat, gloat?, rage]];tēbû [[arising, insurgent, arising one, pulsating, pulsating one]];0.006
+šitmuru [[very wild, praised]];pāru [[hymn, skin, (a three-dimensional shape)]];0.013
+šitmuru [[very wild, praised]];gegunnû [[raised temple]];0.013
+šitmuru [[very wild, praised]];nakmu [[heaped (up), (designation of people)]];0.012
+šitmuru [[very wild, praised]];pašāqu [[be(come) narrow]];0.011
+šitmuru [[very wild, praised]];ṭēhu [[vicinity, immediate vicinity, proximity]];0.01
+šitmuru [[very wild, praised]];gipšu [[uprising]];0.009
+šitmuru [[very wild, praised]];tāhāzu [[battle]];0.009
+šitmuru [[very wild, praised]];Patinayu_E [?];0.008
+šitmuru [[very wild, praised]];namurratu [[awe-inspiringly radiance, awe-inspiring radiance]];0.008
+šitmuru [[very wild, praised]];imhullu [[destructive wind]];0.008

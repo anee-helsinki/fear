@@ -1,1 +1,7 @@
+Graphs produced using PMI and fastText scores as tie strength.
 
+Level 1 includes verbs and their derivatives (e.g. adāru, ādiru and adru).
+
+On Level 2, the derivatives are combined into a single words (e.g. the word adāru includes words adāru, ādiru and adru).
+
+Numbers 10 and 50 indicate the number of context words connected to each emotion word in the graph.

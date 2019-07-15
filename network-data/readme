@@ -4,5 +4,5 @@ Gephi project files containing the networks created with fastText and PMI
 PMI_level1_10.csv, PMI_level1_50.csv, PMI_level2_10.csv and PMI_level2_50.csv
 Raw PMI data used for creating the graphs
 
-fastText_level1_10emotions
+fastText_level1_10Emotions, fastText_level1_50Emotions, fastText_level2_10Emotions, fastText_level2_50Emotions
 Raw fastText data used for creating the graphs

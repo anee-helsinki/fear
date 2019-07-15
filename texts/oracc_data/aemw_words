@@ -1,0 +1,547 @@
+aemw/X123456.2.1	form:a-na-ku	lemma:anāku	gw:I	wclass:IP	norm:anāku	sense:I	epos:IP	lang:akk-x-mbperi	signs:_
+aemw/X123456.2.2	form:{m}id-ri-mi	lemma:Idrimi	gw:1	wclass:RN	norm:Idrimi	sense:1	epos:RN	lang:akk-x-mbperi	signs:_
+aemw/X123456.2.3	form:DUMU	lemma:māru	gw:son	wclass:N	norm:mār	sense:son	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.2.4	form:{m}DINGIR-i-lim-ma	lemma:Ili-ilimma	gw:1	wclass:PN	norm:Ili-ilimma	sense:1	epos:PN	lang:akk-x-mbperi	signs:_
+aemw/X123456.3.1	form:ARAD	lemma:wardu	gw:slave	wclass:N	norm:arad	sense:servant	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.3.2	form:{d}IM	lemma:IM	gw:(Addu or Teššub)	wclass:DN	norm:IM	sense:(Addu or Teššub)	epos:DN	lang:akk-x-mbperi	signs:_
+aemw/X123456.3.3	form:{d}he₂-bat	lemma:Hebat	gw:1	wclass:DN	norm:Hebat	sense:1	epos:DN	lang:akk-x-mbperi	signs:_
+aemw/X123456.3.4	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.3.5	form:{d}iš₈-tar₂	lemma:IŠTAR	gw:(Ištar or Šauška)	wclass:DN	norm:IŠTAR	sense:(Ištar or Šauška)	epos:DN	lang:akk-x-mbperi	signs:_
+aemw/X123456.3.6	form:NIN	lemma:bēltu	gw:lady	wclass:N	norm:bēlet	sense:lady	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.3.7	form:{iri}a-la-la-ah	lemma:Alalah	gw:1	wclass:GN	norm:Alalah	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.3.8	form:NIN	lemma:bēltu	gw:lady	wclass:N	norm:bēlti	sense:lady	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.3.9	form:NIN-ia	lemma:bēltu	gw:lady	wclass:N	norm:bēltiya	sense:lady	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.4.1	form:i-na	lemma:ina	gw:in	wclass:PRP	norm:ina	sense:in	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.4.2	form:{iri}ha-la-ab{ki}	lemma:Halab	gw:1	wclass:GN	norm:Halab	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.4.3	form:E₂	lemma:bītu	gw:house	wclass:N	norm:bīt	sense:house	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.4.4	form:a-bi-ia	lemma:abu	gw:father	wclass:N	norm:abiya	sense:father	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.5.1	form:ma-ši-ik-tu₂	lemma:masiktu	gw:badness	wclass:N	norm:mašiktu	sense:badness	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.5.2	form:it-tab-ši	lemma:bašû	gw:be(come at hand)	wclass:V	norm:ittabši	sense:happen	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.5.3	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:so	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.5.4	form:hal-qa₃-nu	lemma:halqu	gw:lost	wclass:AJ	norm:halqānu	sense:flee	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.5.5	form:IGI	lemma:pānu	gw:front	wclass:N	norm:pān	sense:to	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.6.1	form:LU₂-HI.A	lemma:awīlu	gw:man	wclass:N	norm:awīlī	sense:citizen	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.6.2	form:{iri}e-mar{ki}	lemma:Emar	gw:1	wclass:GN	norm:Emar	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.6.3	form:a-ha-te-HI.A	lemma:ahhātu	gw:kin	wclass:N	norm:ahhāte	sense:kin	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.7.1	form:ša	lemma:ša	gw:of	wclass:DET	norm:ša	sense:of	epos:DET	lang:akk-x-mbperi	signs:_
+aemw/X123456.7.2	form:um-mi-ia	lemma:ummu	gw:mother	wclass:N	norm:ummiya	sense:mother	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.7.3	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.7.4	form:aš-ba-nu	lemma:wašbu	gw:inhabited	wclass:AJ	norm:ašbānu	sense:residing	epos:AJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.7.5	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:in	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.7.6	form:{iri}e-mar{ki}	lemma:Emar	gw:1	wclass:GN	norm:Emar	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.8.1	form:ah-he₂-HI.A-ia	lemma:ahu	gw:brother	wclass:N	norm:ahhēya	sense:brother	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.8.2	form:ša	lemma:ša	gw:that	wclass:REL	norm:ša	sense:who	epos:REL	lang:akk-x-mbperi	signs:_
+aemw/X123456.8.3	form:UGU-ia	lemma:eli	gw:on	wclass:PRP	norm:eliya	sense:more than	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.8.4	form:GAL.GAL-HI.A	lemma:rabû	gw:big	wclass:AJ	norm:rabû	sense:old	epos:AJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.9.1	form:it-ti-ia-ma	lemma:itti	gw:with	wclass:PRP	norm:ittiya	sense:with	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.9.2	form:aš-bu-u₂	lemma:wašbu	gw:inhabited	wclass:AJ	norm:ašbū	sense:residing	epos:AJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.9.3	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:but	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.9.4	form:ma-an-nu-um-ma	lemma:mannummê	gw:who(so)ever	wclass:XP	norm:mannumma	sense:who(so)ever	epos:XP	lang:akk-x-mbperi	signs:_
+aemw/X123456.10.1	form:a-wa-te.MEŠ	lemma:awātu	gw:word	wclass:N	norm:awâte	sense:matter	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.10.2	form:ša	lemma:ša	gw:that	wclass:REL	norm:ša	sense:which	epos:REL	lang:akk-x-mbperi	signs:_
+aemw/X123456.10.3	form:ah-šu-šu	lemma:hasāsu	gw:be(come) conscious	wclass:V	norm:ahšušu	sense:deliberate	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.10.4	form:u₂-ul	lemma:ul	gw:not	wclass:MOD	norm:ul	sense:not	epos:MOD	lang:akk-x-mbperi	signs:_
+aemw/X123456.10.5	form:ih-šu-uš	lemma:hasāsu	gw:be(come) conscious	wclass:V	norm:ihšuš	sense:deliberate	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.11.1	form:um-ma	lemma:umma	gw:saying	wclass:PRP	norm:umma	sense:saying	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.11.2	form:a-na-ku-ma	lemma:anāku	gw:I	wclass:IP	norm:anākuma	sense:I	epos:IP	lang:akk-x-mbperi	signs:_
+aemw/X123456.11.3	form:ma-an-nu-um	lemma:mannu	gw:who	wclass:QP	norm:mannum	sense:who	epos:QP	lang:akk-x-mbperi	signs:_
+aemw/X123456.11.4	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:for	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.11.5	form:E₂	lemma:bītu	gw:house	wclass:N	norm:bīt	sense:house	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.11.6	form:a-bi-šu	lemma:abu	gw:father	wclass:N	norm:abišu	sense:father	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.12.1	form:lu-u₂	lemma:lū	gw:indeed	wclass:MOD	norm:lū	sense:indeed	epos:MOD	lang:akk-x-mbperi	signs:_
+aemw/X123456.12.2	form:TUR	lemma:ṣehru	gw:small	wclass:AJ	norm:ṣehru	sense:low rank	epos:AJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.12.3	form:MURUB₄	lemma:qablû	gw:central	wclass:AJ	norm:qablû	sense:middle rank	epos:AJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.12.4	form:GAL	lemma:rabû	gw:big	wclass:AJ	norm:rabû	sense:high rank	epos:AJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.12.5	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:but	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.12.6	form:ma-an-nu-um	lemma:mannu	gw:who	wclass:QP	norm:mannum	sense:who	epos:QP	lang:akk-x-mbperi	signs:_
+aemw/X123456.13.1	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:for	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.13.2	form:DUMU-HI.A	lemma:māru	gw:son	wclass:N	norm:mārī	sense:resident	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.13.3	form:{iri}e-mar{ki}	lemma:Emar	gw:1	wclass:GN	norm:Emar	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.13.4	form:lu-u₂	lemma:lū	gw:indeed	wclass:MOD	norm:lū	sense:indeed	epos:MOD	lang:akk-x-mbperi	signs:_
+aemw/X123456.13.5	form:ARAD	lemma:wardu	gw:slave	wclass:N	norm:ardu	sense:slave	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.14.1	form:ANŠE.KUR.RA-ia	lemma:sisû	gw:horse	wclass:N	norm:sisiya	sense:horse	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.14.2	form:{giš}GIGIR-ia	lemma:narkabtu	gw:chariot	wclass:N	norm:narkabtiya	sense:chariot	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.14.3	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.14.4	form:{lu₂}KUŠ₇-ia	lemma:kizû	gw:animal-trainer	wclass:N	norm:kiziya	sense:groom	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.15.1	form:el-te-qi₂-šu-nu	lemma:leqû	gw:take	wclass:V	norm:elteqišunu	sense:take	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.15.2	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.15.3	form:i-na	lemma:ina	gw:in	wclass:PRP	norm:ina	sense:into	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.15.4	form:ma-at	lemma:mātu	gw:land	wclass:N	norm:māt	sense:land	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.15.5	form:hu-ri-ib-te{ki}	lemma:huribtu	gw:desert	wclass:N	norm:huribte	sense:desert	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.16.1	form:e-te-ti-iq	lemma:etēqu	gw:go past	wclass:V	norm:ētetiq	sense:cross over	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.16.2	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.16.3	form:li-bi	lemma:libbu	gw:interior	wclass:N	norm:libbi	sense:among	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.16.4	form:ERIN₂-MEŠ	lemma:ṣābu	gw:people	wclass:N	norm:ṣābī	sense:people	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.16.5	form:su-tu-u₂{ki}	lemma:Sutu	gw:1	wclass:GN	norm:Sutu	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.17.1	form:e-te-ru-ub	lemma:erēbu	gw:enter	wclass:V	norm:ēterub	sense:enter	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.17.2	form:iš-ti-šu-nu	lemma:išti	gw:with	wclass:PRP	norm:ištišunu	sense:with	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.17.3	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:in	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.17.4	form:li-bi	lemma:libbu	gw:interior	wclass:N	norm:libbi	sense:interior	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.18.1	form:{giš}ma-ṣa-li	lemma:maṣallu	gw:sleeping place	wclass:N	norm:maṣallī	sense:shelter	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.18.2	form:EDIN	lemma:ṣēru	gw:back	wclass:N	norm:ṣēri	sense:steppe	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.18.3	form:bi-da-ku	lemma:bītu	gw:spending the night	wclass:AJ	norm:bīdāku	sense:spending the night	epos:AJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.18.4	form:i-na	lemma:ina	gw:in	wclass:PRP	norm:ina	sense:in	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.18.5	form:ša-ni	lemma:šanû	gw:second	wclass:AJ	norm:šanî	sense:next	epos:AJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.18.6	form:u₄-mi	lemma:ūmu	gw:day	wclass:N	norm:ūmi	sense:day	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.19.1	form:an-mu-uš-ma	lemma:namāšu	gw:set oneself in motion	wclass:V	norm:anmuš	sense:set oneself in motion	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.19.2	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.19.3	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:for	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.19.4	form:ma-at	lemma:mātu	gw:land	wclass:N	norm:māt	sense:land	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.19.5	form:ki-in-a-nim{ki}	lemma:Kinaʾanu	gw:1	wclass:GN	norm:Kinʾanim	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.20.1	form:al-li-ik	lemma:alāku	gw:go	wclass:V	norm:allik	sense:go	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.20.2	form:i-na	lemma:ina	gw:in	wclass:PRP	norm:ina	sense:in	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.20.3	form:ma-at	lemma:mātu	gw:land	wclass:N	norm:māt	sense:land	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.20.4	form:ki-in-a-nim{ki}	lemma:Kinaʾanu	gw:1	wclass:GN	norm:Kinʾanim	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.21.1	form:{iri}am-mi-ia{ki}	lemma:Ammiya	gw:1	wclass:GN	norm:Ammiya	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.21.2	form:aš-bu	lemma:wašbu	gw:inhabited	wclass:AJ	norm:ašbu	sense:situated	epos:AJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.21.3	form:i-na	lemma:ina	gw:in	wclass:PRP	norm:ina	sense:in	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.21.4	form:{iri}am-mi-ia{ki}	lemma:Ammiya	gw:1	wclass:GN	norm:Ammiya	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.22.1	form:DUMU-MEŠ	lemma:māru	gw:son	wclass:N	norm:mārū	sense:resident	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.22.2	form:{iri}ha-la-ab{ki}	lemma:Halab	gw:1	wclass:GN	norm:Halab	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.22.3	form:DUMU-MEŠ	lemma:māru	gw:son	wclass:N	norm:mārū	sense:resident	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.22.4	form:ma-at	lemma:mātu	gw:land	wclass:N	norm:māt	sense:land	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.22.5	form:mu-ki-iš-he{ki}	lemma:Mukiš	gw:1	wclass:GN	norm:Mukišhe	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.23.1	form:DUMU-MEŠ	lemma:māru	gw:son	wclass:N	norm:mārū	sense:resident	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.23.2	form:ma-at	lemma:mātu	gw:land	wclass:N	norm:māt	sense:land	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.23.3	form:ni-hi{ki}	lemma:Niya	gw:1	wclass:GN	norm:Nihi	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.23.4	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.23.5	form:DUMU-MEŠ	lemma:māru	gw:son	wclass:N	norm:mārū	sense:resident	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.23.6	form:ma-at	lemma:mātu	gw:land	wclass:N	norm:māt	sense:land	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.24.1	form:a-ma-e{ki}	lemma:Amaʾe	gw:1	wclass:GN	norm:Amaʾe	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.24.2	form:aš-bu	lemma:wašbu	gw:inhabited	wclass:AJ	norm:ašbū	sense:resided	epos:AJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.25.1	form:i-mu-ru-un-ni-ma	lemma:amāru	gw:see	wclass:V	norm:īmurūnnima	sense:see	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.26.1	form:i-nu-ma	lemma:inūma	gw:when	wclass:SBJ	norm:inūma	sense:that	epos:REL	lang:akk-x-mbperi	signs:_
+aemw/X123456.26.2	form:DUMU	lemma:māru	gw:son	wclass:N	norm:mār	sense:son	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.26.3	form:be-li-šu-nu	lemma:bēlu	gw:lord	wclass:N	norm:bēlišunu	sense:lord	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.26.4	form:a-na-ku	lemma:anāku	gw:I	wclass:IP	norm:anāku	sense:I	epos:IP	lang:akk-x-mbperi	signs:_
+aemw/X123456.26.5	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:then	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.26.6	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:for	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.26.7	form:UGU-ia	lemma:muhhu	gw:skull	wclass:N	norm:muhhiya	sense:own	epos:RP	lang:akk-x-mbperi	signs:_
+aemw/X123456.27.1	form:ip-hu-ru-nim-ma	lemma:pahāru	gw:gather	wclass:V	norm:iphurūnimma	sense:gather	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.27.2	form:a-ka-a-na-ka	lemma:akannaka	gw:there	wclass:AV	norm:akannaka	sense:there	epos:AV	lang:akk-x-mbperi	signs:_
+aemw/X123456.27.3	form:ur-tab-bi-a-ku	lemma:rabû	gw:be(come) big	wclass:V	norm:urtabbiʾāku	sense:be(come) elevated in rank	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.28.1	form:u₂-ra-ak	lemma:arāku	gw:be(come) long	wclass:V	norm:urrak	sense:do at length	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.28.2	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.28.3	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:in	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.28.4	form:li-bi	lemma:libbu	gw:interior	wclass:N	norm:libbi	sense:interior	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.28.5	form:ERIN₂-MEŠ	lemma:ṣābu	gw:people	wclass:N	norm:ṣābī	sense:people	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.28.6	form:{lu₂}SA.GAZ	lemma:hāpiru	gw:(class of) vagrant	wclass:N	norm:habiri	sense:habiru-people	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.29.1	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:for	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.29.2	form:MU	lemma:šattu	gw:year	wclass:N	norm:šanāti	sense:year	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.29.3	form:7-KAM-MEŠ	lemma:_	gw:_	wclass:n	norm:_	sense:_	epos:_	lang:akk-x-mbperi	signs:_
+aemw/X123456.29.4	form:aš-ba-ku	lemma:wašbu	gw:inhabited	wclass:AJ	norm:ašbāku	sense:resided	epos:AJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.29.5	form:MUŠEN-HI.A	lemma:iṣṣūru	gw:bird	wclass:N	norm:iṣṣūrī	sense:bird	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.29.6	form:u₂-za-ki	lemma:zakû	gw:be(come) clear	wclass:V	norm:uzakki	sense:free	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.30.1	form:SILA₄-HI.A	lemma:puhādu	gw:lamb	wclass:N	norm:puhādī	sense:lamb	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.30.2	form:ab-ri-ma	lemma:barû	gw:see	wclass:V	norm:abrima	sense:inspect	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.30.3	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.30.4	form:še-eb-i	lemma:sebe	gw:seven	wclass:NU	norm:šebʾi	sense:seven	epos:NU	lang:akk-x-mbperi	signs:_
+aemw/X123456.30.5	form:ša-na-ti	lemma:šattu	gw:year	wclass:N	norm:šanāti	sense:year	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.30.6	form:{d}IM	lemma:IM	gw:(Addu or Teššub)	wclass:DN	norm:IM	sense:(Addu or Teššub)	epos:DN	lang:akk-x-mbperi	signs:_
+aemw/X123456.31.1	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:for	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.31.2	form:SAG.DU-ia	lemma:qaqqadu	gw:head	wclass:N	norm:qaqqadiya	sense:own	epos:RP	lang:akk-x-mbperi	signs:_
+aemw/X123456.31.3	form:it-tu-ru	lemma:târu	gw:turn	wclass:V	norm:ittūru	sense:turn	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.31.4	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:(full stop)	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.31.5	form:e-te-pu-uš	lemma:epēšu	gw:do	wclass:V	norm:ētepuš	sense:build	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.31.6	form:{giš}MA₂-HI.A	lemma:eleppu	gw:ship	wclass:N	norm:eleppāti	sense:ship	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.32.1	form:ERIN₂-MEŠ	lemma:ṣābu	gw:people	wclass:N	norm:ṣābī	sense:people	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.32.2	form:nu-ul-la	lemma:nullu	gw:(a type of soldier)	wclass:N	norm:nulla	sense:(a type of soldier)	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.32.3	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:onto	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.32.4	form:{giš}MA₂-HI.A	lemma:eleppu	gw:ship	wclass:N	norm:eleppāti	sense:ship	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.32.5	form:u₂-šar-ki-ib-šu-nu	lemma:rakābu	gw:ride	wclass:V	norm:ušarkibšunu	sense:load	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.33.1	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:then	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.33.2	form:A.AB.BA	lemma:tâmtu	gw:sea	wclass:N	norm:tâmta	sense:sea	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.33.3	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:in	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.33.4	form:ma-at	lemma:mātu	gw:land	wclass:N	norm:māt	sense:land	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.33.5	form:mu-ki-iš-he₂{ki}	lemma:Mukiš	gw:1	wclass:GN	norm:Mukišhe	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.34.1	form:eṭ-he₂-e-ku	lemma:ṭehû	gw:be(come) near to	wclass:V	norm:eṭhêku	sense:approach	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.34.2	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:then	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.34.3	form:pa-an	lemma:pānu	gw:front	wclass:N	norm:pān	sense:in front of	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.34.4	form:HUR.SAG	lemma:šadû	gw:mountain	wclass:N	norm:šadî	sense:mountain	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.34.5	form:ha-zi	lemma:Hazi	gw:1	wclass:GN	norm:Hazi	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.35.1	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:for	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.35.2	form:ta₂-ba₂-lim	lemma:tābalu	gw:dry land	wclass:N	norm:tābalim	sense:dry land	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.35.3	form:ak-šu-ud	lemma:kašādu	gw:reach	wclass:V	norm:akšud	sense:reach	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.35.4	form:e-li-a-ku	lemma:elû	gw:go up	wclass:V	norm:ēliʾāku	sense:move inland	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.36.1	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.36.2	form:ma-ti-ia	lemma:mātu	gw:land	wclass:N	norm:mātiya	sense:land	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.36.3	form:iš-mu-un-ni-ma	lemma:šemû	gw:hear	wclass:V	norm:išmûnnimma	sense:hear	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.36.4	form:GUD-HI.A	lemma:alpu	gw:bull	wclass:N	norm:alpī	sense:ox	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.36.5	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.36.6	form:UDU-HI.A	lemma:immeru	gw:sheep	wclass:N	norm:immerī	sense:sheep	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.37.1	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:for	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.37.2	form:pa-ni-ia	lemma:pānu	gw:front	wclass:N	norm:pāniya	sense:presence	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.37.3	form:ub-lu-u₂-nim	lemma:wabālu	gw:carry	wclass:V	norm:ublunim	sense:bring	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.37.4	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:then	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.37.5	form:i-na	lemma:ina	gw:in	wclass:PRP	norm:ina	sense:in	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.37.6	form:UD	lemma:ūmu	gw:day	wclass:N	norm:ūmi	sense:day	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.37.7	form:1-KAM	lemma:_	gw:_	wclass:n	norm:_	sense:_	epos:_	lang:akk-x-mbperi	signs:_
+aemw/X123456.38.1	form:ki-ma	lemma:kīma	gw:like	wclass:PRP	norm:kīma	sense:like	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.38.2	form:1{+en}	lemma:ištēn	gw:one	wclass:NU	norm:ištēn	sense:one	epos:NU	lang:akk-x-mbperi	signs:_
+aemw/X123456.38.3	form:LU₂	lemma:awīlu	gw:man	wclass:N	norm:awīli	sense:man	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.38.4	form:ma-at	lemma:mātu	gw:land	wclass:N	norm:māt	sense:land	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.38.5	form:ni-hi{ki}	lemma:Niya	gw:1	wclass:GN	norm:Nihi	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.38.6	form:ma-at	lemma:mātu	gw:land	wclass:N	norm:māt	sense:land	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.38.7	form:a-ma-e{ki}	lemma:Amaʾe	gw:1	wclass:GN	norm:Amaʾe	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.39.1	form:ma-at	lemma:mātu	gw:land	wclass:N	norm:māt	sense:land	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.39.2	form:mu-ki-iš-he₂{ki}	lemma:Mukiš	gw:1	wclass:GN	norm:Mukišhe	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.39.3	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.39.4	form:{iri}a-la-la-ah{ki}	lemma:Alalah	gw:1	wclass:GN	norm:Alalah	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.39.5	form:IRI.KI-ia	lemma:ālu	gw:city	wclass:N	norm:āliya	sense:city	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.40.1	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:for	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.40.2	form:ia-si-im	lemma:yâšim	gw:to me	wclass:IP	norm:yâsim	sense:to me	epos:IP	lang:akk-x-mbperi	signs:_
+aemw/X123456.40.3	form:it-tu-ru-nim	lemma:târu	gw:turn	wclass:V	norm:ittūrūnim	sense:turn	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.40.4	form:ŠEŠ-MEŠ-ia	lemma:ahu	gw:brother	wclass:N	norm:ahhēya	sense:brother	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.41.1	form:iš-mu-u₂-ma	lemma:šemû	gw:hear	wclass:V	norm:išmûma	sense:hear	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.41.2	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:so	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.41.3	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:in	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.41.4	form:mah-ri-ia	lemma:mahru	gw:front	wclass:N	norm:mahriya	sense:presence	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.41.5	form:il-li-ku-u₂	lemma:alāku	gw:go	wclass:V	norm:illikū	sense:come	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.42.1	form:ah-he-HI.A-ia	lemma:ahu	gw:brother	wclass:N	norm:ahhēya	sense:brother	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.42.2	form:it-ti-ia-ma	lemma:itti	gw:with	wclass:PRP	norm:ittiya	sense:with	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.42.3	form:in-na-hu-u₂	lemma:ahû	gw:fraternize	wclass:V	norm:innahû	sense:join forces	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.43.1	form:ah-he₂-HI.A-ia	lemma:ahu	gw:brother	wclass:N	norm:ahhēya	sense:brother	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.43.2	form:aṣ-ṣur-šu-nu	lemma:naṣāru	gw:guard	wclass:V	norm:aṣṣuršunu	sense:protect	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.43.3	form:ap-pu-na	lemma:appūna	gw:moreover	wclass:AV	norm:appūna	sense:moreover	epos:AV	lang:akk-x-mbperi	signs:_
+aemw/X123456.44.1	form:MU	lemma:šattu	gw:year	wclass:N	norm:šanāti	sense:year	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.44.2	form:7-KAM-HI.A	lemma:_	gw:_	wclass:n	norm:_	sense:_	epos:_	lang:akk-x-mbperi	signs:_
+aemw/X123456.44.3	form:{m}ba-ra-at-tar-na	lemma:Barattarna	gw:1	wclass:RN	norm:Barattarna	sense:1	epos:RN	lang:akk-x-mbperi	signs:_
+aemw/X123456.44.4	form:LUGAL	lemma:šarru	gw:king	wclass:N	norm:šarru	sense:king	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.44.5	form:dan-nu	lemma:dannu	gw:strong	wclass:AJ	norm:dannu	sense:strong	epos:AJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.45.1	form:LUGAL	lemma:šarru	gw:king	wclass:N	norm:šar	sense:king	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.45.2	form:ERIN₂-MEŠ	lemma:ṣābu	gw:people	wclass:N	norm:ṣābī	sense:people	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.45.3	form:hur-ri{ki}	lemma:Hurri	gw:1	wclass:GN	norm:Hurri	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.45.4	form:u₂-na-kir-an-ni	lemma:nakāru	gw:be(come) different	wclass:V	norm:unakkiranni	sense:make hostile	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.46.1	form:i-na	lemma:ina	gw:in	wclass:PRP	norm:ina	sense:in	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.46.2	form:še-eb-i	lemma:sebe	gw:seven	wclass:NU	norm:šebʾi	sense:seven	epos:NU	lang:akk-x-mbperi	signs:_
+aemw/X123456.46.3	form:ša-na-ti	lemma:šattu	gw:year	wclass:N	norm:šanāti	sense:year	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.46.4	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:for	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.46.5	form:{m}ba-ra-at-ar-na	lemma:Barattarna	gw:1	wclass:RN	norm:Barattarna	sense:1	epos:RN	lang:akk-x-mbperi	signs:_
+aemw/X123456.46.6	form:LUGAL{+ri}	lemma:šarru	gw:king	wclass:N	norm:šarri	sense:king	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.47.1	form:LUGAL	lemma:šarru	gw:king	wclass:N	norm:šar	sense:king	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.47.2	form:ERIN₂-MEŠ-an-wa-an-da	lemma:Umman-manda	gw:1	wclass:EN	norm:Umman-wanda	sense:1	epos:EN	lang:akk-x-mbperi	signs:_
+aemw/X123456.47.3	form:aš-ta₂-par₂	lemma:šapāru	gw:send	wclass:V	norm:aštapar	sense:write	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.47.4	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.47.5	form:ad-bu-ub	lemma:dabābu	gw:speak	wclass:V	norm:adbub	sense:speak	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.48.1	form:ma-na-ha-te-HE₂	lemma:mānahtu	gw:weariness	wclass:N	norm:mānahāte	sense:service	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.48.2	form:ša	lemma:ša	gw:of	wclass:DET	norm:ša	sense:of	epos:DET	lang:akk-x-mbperi	signs:_
+aemw/X123456.48.3	form:a-bu-te-HI.A-ia	lemma:abu	gw:father	wclass:N	norm:abbūteya	sense:forefather	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.48.4	form:i-nu-ma	lemma:inūma	gw:when	wclass:SBJ	norm:inūma	sense:that	epos:REL	lang:akk-x-mbperi	signs:_
+aemw/X123456.49.1	form:a-bu-te-HI.A	lemma:abu	gw:father	wclass:N	norm:abbūte	sense:forefather	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.49.2	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:for	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.49.3	form:UGU-šu-nu	lemma:muhhu	gw:skull	wclass:N	norm:muhhišunu	sense:own	epos:RP	lang:akk-x-mbperi	signs:_
+aemw/X123456.49.4	form:in-na-hu-u₂	lemma:ahû	gw:fraternize	wclass:V	norm:innahû	sense:join forces	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.50.1	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:so	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.50.2	form:a-wa-ti-ni	lemma:awātu	gw:word	wclass:N	norm:awâtini	sense:word	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.50.3	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:for	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.50.4	form:LUGAL-HI.A	lemma:šarru	gw:king	wclass:N	norm:šarrāni	sense:king	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.50.5	form:ša	lemma:ša	gw:of	wclass:DET	norm:ša	sense:of	epos:DET	lang:akk-x-mbperi	signs:_
+aemw/X123456.50.6	form:ERIN₂-MEŠ	lemma:ṣābu	gw:people	wclass:N	norm:ṣābī	sense:people	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.50.7	form:hur-ri{ki}	lemma:Hurri	gw:1	wclass:GN	norm:Hurri	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.50.8	form:da-mi-iq	lemma:damqu	gw:good	wclass:AJ	norm:damiq	sense:good	epos:AJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.51.1	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.51.2	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:in	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.51.3	form:bi-ri-šu-nu	lemma:biri	gw:among	wclass:PRP	norm:birišunu	sense:between	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.51.4	form:NAM.ERIM₂	lemma:māmītu	gw:oath	wclass:N	norm:māmīta	sense:oath	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.51.5	form:dan-na	lemma:dannu	gw:strong	wclass:AJ	norm:danna	sense:strong	epos:AJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.52.1	form:iš-ku-nu-nim-na	lemma:šakānu	gw:put	wclass:V	norm:iškunūnimna	sense:establish	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.52.2	form:LUGAL	lemma:šarru	gw:king	wclass:N	norm:šarru	sense:king	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.52.3	form:dan-nu	lemma:dannu	gw:strong	wclass:AJ	norm:dannu	sense:strong	epos:AJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.52.4	form:ma-na-ha-te-HI.A	lemma:mānahtu	gw:weariness	wclass:N	norm:mānahāte	sense:service	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.53.1	form:ša	lemma:ša	gw:of	wclass:DET	norm:ša	sense:of	epos:DET	lang:akk-x-mbperi	signs:_
+aemw/X123456.53.2	form:pa-nu-ti-ni	lemma:pānû	gw:first one	wclass:N	norm:pānûtini	sense:ancestor	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.53.3	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.53.4	form:NAM.ERIM₂	lemma:māmītu	gw:oath	wclass:N	norm:māmīta	sense:oath	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.53.5	form:ša	lemma:ša	gw:that	wclass:REL	norm:ša	sense:which	epos:REL	lang:akk-x-mbperi	signs:_
+aemw/X123456.53.6	form:bi-ri-šu-nu	lemma:biri	gw:among	wclass:PRP	norm:birišunu	sense:between	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.53.7	form:iš-me-ma	lemma:šemû	gw:hear	wclass:V	norm:išmema	sense:hear	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.54.1	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.54.2	form:A₂{+ti}	lemma:ittu	gw:sign	wclass:N	norm:itti	sense:sign	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.54.3	form:ma-mi-ti	lemma:māmītu	gw:oath	wclass:N	norm:māmīti	sense:oath	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.54.4	form:ip-ta-la-ah	lemma:pālahu	gw:fear	wclass:V	norm:iptalah	sense:respect	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.54.5	form:aš-šum	lemma:aššu	gw:because (of)	wclass:PRP	norm:aššum	sense:because (of)	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.54.6	form:a-wa-at	lemma:awātu	gw:word	wclass:N	norm:awāt	sense:matter	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.55.1	form:ma-mi-ti	lemma:māmītu	gw:oath	wclass:N	norm:māmīti	sense:oath	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.55.2	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.55.3	form:aš-šum	lemma:aššu	gw:because (of)	wclass:PRP	norm:aššum	sense:because (of)	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.55.4	form:ma-na-ha-te-MEŠ-ni	lemma:mānahtu	gw:weariness	wclass:N	norm:mānahāteni	sense:service	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.55.5	form:šu-ul-mi-ia	lemma:šulmu	gw:completeness	wclass:N	norm:šulmiya	sense:greeting gift	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.56.1	form:im-da-har	lemma:mahāru	gw:face	wclass:V	norm:imdahar	sense:receive	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.56.2	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:then	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.56.3	form:KI	lemma:_	gw:_	wclass:X	norm:_	sense:_	epos:_	lang:akk-x-mbperi	signs:_
+aemw/X123456.56.4	form:BU	lemma:_	gw:_	wclass:X	norm:_	sense:_	epos:_	lang:akk-x-mbperi	signs:_
+aemw/X123456.56.5	form:ŠA	lemma:_	gw:_	wclass:X	norm:_	sense:_	epos:_	lang:akk-x-mbperi	signs:_
+aemw/X123456.56.6	form:RI	lemma:_	gw:_	wclass:X	norm:_	sense:_	epos:_	lang:akk-x-mbperi	signs:_
+aemw/X123456.56.7	form:DU-U₂	lemma:_	gw:_	wclass:X	norm:_	sense:_	epos:_	lang:akk-x-mbperi	signs:_
+aemw/X123456.56.8	form:ša	lemma:ša	gw:of	wclass:DET	norm:ša	sense:of	epos:DET	lang:akk-x-mbperi	signs:_
+aemw/X123456.56.9	form:SISKUR₂	lemma:nīqu	gw:offering	wclass:N	norm:nīqi	sense:offering	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.57.1	form:u₂-šar-bi	lemma:rabû	gw:be(come) big	wclass:V	norm:ušarbi	sense:be(come) big	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.57.2	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:so	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.57.3	form:E₂	lemma:bītu	gw:house	wclass:N	norm:bītu	sense:house	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.57.4	form:hal-qu₂	lemma:halqu	gw:lost	wclass:AJ	norm:halqu	sense:lost	epos:AJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.57.5	form:u₂-te-er-šu	lemma:târu	gw:turn	wclass:V	norm:uttēršu	sense:return	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.58.1	form:i-na	lemma:ina	gw:in	wclass:PRP	norm:ina	sense:in	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.58.2	form:LU₂-ti-ia	lemma:awīlūtu	gw:mankind	wclass:N	norm:awīlūtiya	sense:status of a retainer	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.58.3	form:i-na	lemma:ina	gw:in	wclass:PRP	norm:ina	sense:in	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.58.4	form:ki-nu-ti-ia	lemma:kīnūtu	gw:loyalty	wclass:N	norm:kīnūtiya	sense:loyalty	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.58.5	form:PAD₃	lemma:PAD₃	gw:(an oath)	wclass:N	norm:PAD₃	sense:(an oath)	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.58.6	form:an-na-am	lemma:annû	gw:this	wclass:DP	norm:annâm	sense:earlier	epos:DP	lang:akk-x-mbperi	signs:_
+aemw/X123456.59.1	form:az-kur-šu	lemma:zakāru	gw:speak	wclass:V	norm:azkuršu	sense:speak	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.59.2	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:then	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.59.3	form:LUGAL-ku	lemma:šarru	gw:king	wclass:N	norm:šarrāku	sense:king	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.59.4	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:for	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.59.5	form:{iri}a-la-la-ah{ki}	lemma:Alalah	gw:1	wclass:GN	norm:Alalah	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.60.1	form:LUGAL-MEŠ	lemma:šarru	gw:king	wclass:N	norm:šarrānu	sense:king	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.60.2	form:ša	lemma:ša	gw:of	wclass:DET	norm:ša	sense:of	epos:DET	lang:akk-x-mbperi	signs:_
+aemw/X123456.60.3	form:ZAG-ia	lemma:imittu	gw:right	wclass:N	norm:imittiya	sense:right	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.60.4	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.60.5	form:GUB₃-ia	lemma:šumēlu	gw:left	wclass:N	norm:šumēliya	sense:left	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.60.6	form:e-li-lu-an-ni-ma	lemma:elēlu	gw:(meaning unknown)	wclass:V	norm:ēlilūʾannima	sense:(meaning unknown)	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.61.1	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:so	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.61.2	form:ki-ma	lemma:kīma	gw:like	wclass:PRP	norm:kīma	sense:like	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.61.3	form:šu-nu-ti-ma	lemma:šunūti	gw:them	wclass:IP	norm:šunūtima	sense:them	epos:IP	lang:akk-x-mbperi	signs:_
+aemw/X123456.61.4	form:um-da-ši-la-ku	lemma:mašālu	gw:equal	wclass:V	norm:umdaššilāku	sense:equal	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.61.5	form:ki	lemma:kī	gw:like	wclass:PRP	norm:kī	sense:because	epos:SBJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.61.6	form:BAD₃-šu-nu	lemma:dūru	gw:(city) wall	wclass:N	norm:dūršunu	sense:(city) wall	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.62.1	form:ša	lemma:ša	gw:of	wclass:DET	norm:ša	sense:of	epos:DET	lang:akk-x-mbperi	signs:_
+aemw/X123456.62.2	form:a-bu-te-HI.A	lemma:abu	gw:father	wclass:N	norm:abbūte	sense:forefather	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.62.3	form:i-na	lemma:ina	gw:in	wclass:PRP	norm:ina	sense:onto	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.62.4	form:qa-qa-ri	lemma:qaqqaru	gw:ground	wclass:N	norm:qaqqari	sense:ground	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.62.5	form:tab-ku-u₂	lemma:tabku	gw:poured out	wclass:AJ	norm:tabku	sense:tumbled down	epos:AJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.63.1	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:(hypotaxis)	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.63.2	form:a-na-ku	lemma:anāku	gw:I	wclass:IP	norm:anāku	sense:I	epos:IP	lang:akk-x-mbperi	signs:_
+aemw/X123456.63.3	form:i-na	lemma:ina	gw:in	wclass:PRP	norm:ina	sense:from	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.63.4	form:qa-qa-ri	lemma:qaqqaru	gw:ground	wclass:N	norm:qaqqari	sense:ground	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.63.5	form:u₂-ša-at-bu-u₂	lemma:tebû	gw:get up	wclass:V	norm:ušatbû	sense:raise	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.64.1	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.64.2	form:a-na-an-ta₂	lemma:anantu	gw:battle	wclass:N	norm:ananta	sense:battle	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.64.3	form:u₂-šaq-qu₂-u₂-šu-nu	lemma:šaqû	gw:be(come) high	wclass:V	norm:ušaqqûšunu	sense:set high	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.65.1	form:ERIN₂-MEŠ{+ba₂}	lemma:ṣābu	gw:people	wclass:N	norm:ṣāba	sense:troops	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.65.2	form:el-te-qi₂	lemma:leqû	gw:take	wclass:V	norm:elteqi	sense:take	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.65.3	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.65.4	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:for	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.65.5	form:ma-at	lemma:mātu	gw:land	wclass:N	norm:māt	sense:land	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.65.6	form:ha-at-te{ki}	lemma:Hatti	gw:1	wclass:GN	norm:Hatte	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.66.1	form:e-te-li	lemma:elû	gw:go up	wclass:V	norm:ēteli	sense:go upland	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.66.2	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.66.3	form:7	lemma:_	gw:_	wclass:n	norm:_	sense:_	epos:_	lang:akk-x-mbperi	signs:_
+aemw/X123456.66.4	form:IRI.DIDLI-HI.A	lemma:ālu	gw:city	wclass:N	norm:ālāni	sense:city	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.66.5	form:aṣ-bat-šu-nu	lemma:ṣabātu	gw:seize	wclass:V	norm:aṣbatšunu	sense:capture	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.67.1	form:{iri}pa-aš-ša-he₂{ki}	lemma:Paššahe	gw:1	wclass:GN	norm:Paššahe	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.67.2	form:{iri}da-ma-ru-ut-la{ki}	lemma:Damarutla	gw:1	wclass:GN	norm:Damarutla	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.68.1	form:{iri}hu-lah₃-ha-an{ki}	lemma:Hulahhan	gw:1	wclass:GN	norm:Hulahhan	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.68.2	form:{iri}zi-la{ki}	lemma:Zila	gw:1	wclass:GN	norm:Zila	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.68.3	form:{iri}i-e{ki}	lemma:Iʾe	gw:1	wclass:GN	norm:Iʾe	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.69.1	form:{iri}u₂-lu-zi-la{ki}	lemma:Uluzila	gw:1	wclass:GN	norm:Uluzila	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.69.2	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.69.3	form:{iri}za-ru-na{ki}	lemma:Zaruna	gw:1	wclass:GN	norm:Zaruna	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.70.1	form:an-mu-u₂	lemma:anmû	gw:this	wclass:DP	norm:anmû	sense:these	epos:DP	lang:akk-x-mbperi	signs:_
+aemw/X123456.70.2	form:IRI.DIDLI-HI.A	lemma:ālu	gw:city	wclass:N	norm:ālāni	sense:city	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.70.3	form:aṣ-bat-šu-nu	lemma:ṣabātu	gw:seize	wclass:V	norm:aṣbatšunu	sense:capture	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.70.4	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.70.5	form:ul-lu-u₂	lemma:ullû	gw:that	wclass:DP	norm:ullû	sense:those	epos:DP	lang:akk-x-mbperi	signs:_
+aemw/X123456.71.1	form:ah-te-pe₃-šu-nu-ti	lemma:hepû	gw:break	wclass:V	norm:ahtepešunūti	sense:destroy	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.71.2	form:ma-at	lemma:mātu	gw:land	wclass:N	norm:māt	sense:land	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.71.3	form:ha-at-te{ki}	lemma:Hatti	gw:1	wclass:GN	norm:Hatte	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.72.1	form:u₂-ul	lemma:ul	gw:not	wclass:MOD	norm:ul	sense:not	epos:MOD	lang:akk-x-mbperi	signs:_
+aemw/X123456.72.2	form:ip-hur	lemma:pahāru	gw:gather	wclass:V	norm:iphur	sense:gather	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.72.3	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.72.4	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:in	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.72.5	form:UGU-ia	lemma:eli	gw:on	wclass:PRP	norm:eliya	sense:against	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.72.6	form:u₂-ul	lemma:ul	gw:not	wclass:MOD	norm:ul	sense:not	epos:MOD	lang:akk-x-mbperi	signs:_
+aemw/X123456.72.7	form:il-li-ku	lemma:alāku	gw:go	wclass:V	norm:illikū	sense:come	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.73.1	form:ša	lemma:ša	gw:that	wclass:REL	norm:ša	sense:which	epos:REL	lang:akk-x-mbperi	signs:_
+aemw/X123456.73.2	form:ŠA₃{+bi}-ia	lemma:libbu	gw:interior	wclass:N	norm:libbiya	sense:heart	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.73.3	form:e-te-pu-uš	lemma:epēšu	gw:do	wclass:V	norm:ētepuš	sense:build	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.73.4	form:šal-la-te-HI.A-šu-nu	lemma:šallatu	gw:plundered thing(s)	wclass:N	norm:šallātešunu	sense:captive	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.74.1	form:aš-lu-ul-ma	lemma:šalālu	gw:carry off	wclass:V	norm:ašlulma	sense:carry off	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.74.2	form:nam-ku-ri-šu-nu	lemma:namkūru	gw:property	wclass:N	norm:namkūrīšunu	sense:property	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.74.3	form:bu-še-šu-nu	lemma:būšu	gw:goods	wclass:N	norm:būšēšunu	sense:goods	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.74.4	form:ba-ši-tu-šu-nu	lemma:bāšītu	gw:what is present	wclass:N	norm:bāšītušunu	sense:what is present	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.75.1	form:el-te-qi₂	lemma:leqû	gw:take	wclass:V	norm:elteqi	sense:take	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.75.2	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.75.3	form:u₂-za-iz	lemma:zâzu	gw:divide	wclass:V	norm:uzaʾiz	sense:distribute	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.75.4	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:for	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.75.5	form:ERIN₂-MEŠ	lemma:ṣābu	gw:people	wclass:N	norm:ṣābī	sense:troops	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.75.6	form:til-la-ti-ia	lemma:tillatu	gw:help	wclass:N	norm:tillatiya	sense:military support	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.76.1	form:{lu₂-meš}ah-he₂-HI.A-ia	lemma:ahu	gw:brother	wclass:N	norm:ahhēya	sense:brother	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.77.1	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.77.2	form:{lu₂-meš}ib-ru-te-HI.A-ia	lemma:ibru	gw:friend	wclass:N	norm:ibrūteya	sense:ally	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.77.3	form:ka-ka₄-šu-nu-ma	lemma:kakku	gw:stick	wclass:N	norm:kakkašunuma	sense:weapon	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.78.1	form:a-na-ku	lemma:anāku	gw:I	wclass:IP	norm:anāku	sense:I	epos:IP	lang:akk-x-mbperi	signs:_
+aemw/X123456.78.2	form:el-te-qi₂	lemma:leqû	gw:take	wclass:V	norm:elteqi	sense:take	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.78.3	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:(full stop)	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.78.4	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:in	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.78.5	form:ma-at	lemma:mātu	gw:land	wclass:N	norm:māt	sense:land	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.78.6	form:mu-ki-iš-he{ki}	lemma:Mukiš	gw:1	wclass:GN	norm:Mukišhe	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.78.7	form:at-tu-ur	lemma:târu	gw:turn	wclass:V	norm:attūr	sense:return	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.79.1	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.79.2	form:e-ru-ub	lemma:erēbu	gw:enter	wclass:V	norm:ērub	sense:enter	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.79.3	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:into	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.79.4	form:{iri}a-la-la-ah{ki}	lemma:Alalah	gw:1	wclass:GN	norm:Alalah	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.79.5	form:IRI.KI-ia	lemma:ālu	gw:city	wclass:N	norm:āliya	sense:city	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.79.6	form:i-na	lemma:ina	gw:in	wclass:PRP	norm:ina	sense:by means of	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.79.7	form:šal-la-tim	lemma:šallatu	gw:plundered thing(s)	wclass:N	norm:šallātim	sense:captive	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.80.1	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.80.2	form:i-na	lemma:ina	gw:in	wclass:PRP	norm:ina	sense:by means of	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.80.3	form:mar-ši-tim	lemma:maršītu	gw:property	wclass:N	norm:maršītim	sense:livestock	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.80.4	form:i-na	lemma:ina	gw:in	wclass:PRP	norm:ina	sense:by means of	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.80.5	form:nam-ku-ri	lemma:namkūru	gw:property	wclass:N	norm:namkūrī	sense:property	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.80.6	form:i-na	lemma:ina	gw:in	wclass:PRP	norm:ina	sense:by means of	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.80.7	form:bu-si	lemma:būšu	gw:goods	wclass:N	norm:būsī	sense:goods	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.80.8	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.80.9	form:i-na	lemma:ina	gw:in	wclass:PRP	norm:ina	sense:by means of	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.80.10	form:ba-ši-tam	lemma:bāšītu	gw:what is present	wclass:N	norm:bāšītam	sense:what is present	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.81.1	form:ša	lemma:ša	gw:that	wclass:REL	norm:ša	sense:which	epos:REL	lang:akk-x-mbperi	signs:_
+aemw/X123456.81.2	form:iš-tu	lemma:ištu	gw:from	wclass:PRP	norm:ištu	sense:from	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.81.3	form:ma-at	lemma:mātu	gw:land	wclass:N	norm:māt	sense:land	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.81.4	form:ha-at-te{ki}	lemma:Hatti	gw:1	wclass:GN	norm:Hatte	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.81.5	form:u₂-še-ri-du	lemma:warādu	gw:go down	wclass:V	norm:ušēridu	sense:go down	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.81.6	form:E₂	lemma:bītu	gw:house	wclass:N	norm:bīta	sense:house	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.81.7	form:uš₁₀-te-pi₂-iš	lemma:epēšu	gw:do	wclass:V	norm:uštēpiš	sense:build	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.82.1	form:{giš}GU.ZA-ia	lemma:kussû	gw:chair	wclass:N	norm:kussiya	sense:throne	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.82.2	form:ki-ma	lemma:kīma	gw:like	wclass:PRP	norm:kīma	sense:like	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.82.3	form:GU.ZA-MEŠ	lemma:kussû	gw:chair	wclass:N	norm:kussâti	sense:throne	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.82.4	form:ša	lemma:ša	gw:of	wclass:DET	norm:ša	sense:of	epos:DET	lang:akk-x-mbperi	signs:_
+aemw/X123456.82.5	form:LUGAL-MEŠ	lemma:šarru	gw:king	wclass:N	norm:šarrāni	sense:king	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.82.6	form:u₂-ma-ši-il	lemma:mašālu	gw:equal	wclass:V	norm:umaššil	sense:equal	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.83.1	form:{lu₂-meš}ŠEŠ-MEŠ-ia	lemma:ahu	gw:brother	wclass:N	norm:ahhēya	sense:brother	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.83.2	form:ki-ma	lemma:kīma	gw:like	wclass:PRP	norm:kīma	sense:like	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.83.3	form:ŠEŠ-MEŠ	lemma:ahu	gw:brother	wclass:N	norm:ahhē	sense:brother	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.83.4	form:ša	lemma:ša	gw:of	wclass:DET	norm:ša	sense:of	epos:DET	lang:akk-x-mbperi	signs:_
+aemw/X123456.83.5	form:LUGAL-MEŠ	lemma:šarru	gw:king	wclass:N	norm:šarrāni	sense:king	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.83.6	form:DUMU-MEŠ-ia	lemma:māru	gw:son	wclass:N	norm:mārīya	sense:son	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.84.1	form:ki-ma	lemma:kīma	gw:like	wclass:PRP	norm:kīma	sense:like	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.84.2	form:DUMU-MEŠ-šu-nu	lemma:māru	gw:son	wclass:N	norm:mārīšunu	sense:son	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.84.3	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.84.4	form:{lu₂-meš}tap-pu-te-HI.A-ia	lemma:tappû	gw:companion	wclass:N	norm:tappûteya	sense:companion	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.84.5	form:ki-ma	lemma:kīma	gw:like	wclass:PRP	norm:kīma	sense:like	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.84.6	form:tap-pu-te-HI.A-šu-nu	lemma:tappû	gw:companion	wclass:N	norm:tappûtešunu	sense:companion	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.85.1	form:u₂-ma-ši-lu-u₂-šu-nu	lemma:mašālu	gw:equal	wclass:V	norm:umaššilušunu	sense:equal	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.85.2	form:TUŠ-MEŠ	lemma:wāšibu	gw:inhabitant	wclass:N	norm:āšibūti	sense:inhabitant	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.85.3	form:ša	lemma:ša	gw:of	wclass:DET	norm:ša	sense:of	epos:DET	lang:akk-x-mbperi	signs:_
+aemw/X123456.85.4	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:in	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.85.5	form:ŠA₃{+bi}	lemma:libbu	gw:interior	wclass:N	norm:libbi	sense:interior	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.85.6	form:ma-ti-ia{ki}	lemma:mātu	gw:land	wclass:N	norm:mātiya	sense:land	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.86.1	form:KI.TUŠ-šu-nu	lemma:šubtu	gw:seat	wclass:N	norm:šubatšunu	sense:dwelling	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.86.2	form:DUG₃{+tam}	lemma:ṭābu	gw:good	wclass:AJ	norm:ṭābtam	sense:comfortable	epos:AJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.86.3	form:u₂-še-ši-ib-šu-nu	lemma:wašābu	gw:sit (down)	wclass:V	norm:ušēšibšunu	sense:dwell	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.86.4	form:ša	lemma:ša	gw:that	wclass:REL	norm:ša	sense:who	epos:REL	lang:akk-x-mbperi	signs:_
+aemw/X123456.86.5	form:KI.TUŠ	lemma:šubtu	gw:seat	wclass:N	norm:šubta	sense:dwelling	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.86.6	form:la	lemma:lā	gw:not	wclass:MOD	norm:lā	sense:not	epos:MOD	lang:akk-x-mbperi	signs:_
+aemw/X123456.86.7	form:u₂-uš-ša-bu	lemma:wašābu	gw:sit (down)	wclass:V	norm:uššabū	sense:dwell	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.87.1	form:a-na-ku	lemma:anāku	gw:I	wclass:IP	norm:anāku	sense:I	epos:IP	lang:akk-x-mbperi	signs:_
+aemw/X123456.87.2	form:u₂-še-ši-bu-šu-nu	lemma:wašābu	gw:sit (down)	wclass:V	norm:ušēšibušunu	sense:dwell	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.87.3	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:so	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.87.4	form:ma-ti{ki}-ia	lemma:mātu	gw:land	wclass:N	norm:mātiya	sense:land	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.87.5	form:u₂-ki-in-nu	lemma:kânu	gw:be(come) permanent	wclass:V	norm:ukinnu	sense:stabilize	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.88.1	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.88.2	form:u₂-ma-ši-il	lemma:mašālu	gw:equal	wclass:V	norm:umaššil	sense:equal	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.88.3	form:IRI-DIDLI-HI.A-ia	lemma:ālu	gw:city	wclass:N	norm:ālāniya	sense:city	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.88.4	form:ki-me-e	lemma:kīmê	gw:like	wclass:PRP	norm:kīmê	sense:like	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.88.5	form:pa-nu-ti-ni-ma	lemma:pānû	gw:first one	wclass:N	norm:pānûtinima	sense:previous one	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.88.6	form:ki-ma	lemma:kīma	gw:like	wclass:PRP	norm:kīma	sense:just as	epos:SBJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.88.7	form:A.A-ni-ma	lemma:abu	gw:father	wclass:N	norm:abbūtunima	sense:forefather	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.89.1	form:A₂{+te}-MEŠ	lemma:ittu	gw:sign	wclass:N	norm:ittāte	sense:sign	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.89.2	form:ša	lemma:ša	gw:of	wclass:DET	norm:ša	sense:of	epos:DET	lang:akk-x-mbperi	signs:_
+aemw/X123456.89.3	form:DINGIR-MEŠ	lemma:ilu	gw:god	wclass:N	norm:ilāni	sense:god	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.89.4	form:ša	lemma:ša	gw:of	wclass:DET	norm:ša	sense:of	epos:DET	lang:akk-x-mbperi	signs:_
+aemw/X123456.89.5	form:{iri}a-la-lah₃{ki}	lemma:Alalah	gw:1	wclass:GN	norm:Alalah	sense:1	epos:GN	lang:akk-x-mbperi	signs:_
+aemw/X123456.89.6	form:u₂-ki-in-nu-u₂-ma	lemma:kânu	gw:be(come) permanent	wclass:V	norm:ukinnūma	sense:establish	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.90.1	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:(hypotaxis)	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.90.2	form:SISKUR-HI.A	lemma:ikribu	gw:prayer	wclass:N	norm:ikribī	sense:prayer	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.90.3	form:ni-iq-qi₂-HI.A	lemma:nīqu	gw:offering	wclass:N	norm:niqqī	sense:offering	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.90.4	form:ša	lemma:ša	gw:of	wclass:DET	norm:ša	sense:of	epos:DET	lang:akk-x-mbperi	signs:_
+aemw/X123456.90.5	form:a-bi-i-ni	lemma:abu	gw:father	wclass:N	norm:abbīni	sense:father	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.90.6	form:ša	lemma:ša	gw:that	wclass:REL	norm:ša	sense:which	epos:REL	lang:akk-x-mbperi	signs:_
+aemw/X123456.90.7	form:uš-te-pi₂-šu-u₂-šu-nu	lemma:epēšu	gw:do	wclass:V	norm:ušteppišūšunu	sense:perform	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.91.1	form:a-na-ku	lemma:anāku	gw:I	wclass:IP	norm:anāku	sense:I	epos:IP	lang:akk-x-mbperi	signs:_
+aemw/X123456.91.2	form:e-te-ne-pu-uš₁₀-šu-nu	lemma:epēšu	gw:do	wclass:V	norm:ēteneppuššunu	sense:perform	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.91.3	form:an-mu-u₂	lemma:anmû	gw:this	wclass:DP	norm:anmû	sense:these	epos:DP	lang:akk-x-mbperi	signs:_
+aemw/X123456.91.4	form:e-te-pu-uš₁₀-šu-nu	lemma:epēšu	gw:do	wclass:V	norm:ētepuššunu	sense:perform	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.92.1	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:then	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.92.2	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:for	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.92.3	form:qa-ti	lemma:qātu	gw:hand	wclass:N	norm:qāti	sense:authority	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.92.4	form:{m}{d}IM-ne₂-ra-ri	lemma:Addu-nerari	gw:1	wclass:PN	norm:Addu-nerari	sense:1	epos:PN	lang:akk-x-mbperi	signs:_
+aemw/X123456.92.5	form:DUMU-ia	lemma:māru	gw:son	wclass:N	norm:mārīya	sense:son	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.92.6	form:ap-ta-qi₂-id-šu-nu	lemma:paqādu	gw:entrust	wclass:V	norm:aptaqidšunu	sense:entrust	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.93.1	form:ma-an-nu-um-me-e	lemma:mannummê	gw:who(so)ever	wclass:XP	norm:mannummê	sense:who(so)ever	epos:XP	lang:akk-x-mbperi	signs:_
+aemw/X123456.93.2	form:ALAM-ia	lemma:ṣalmu	gw:effigy	wclass:N	norm:ṣalmiya	sense:statue	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.93.3	form:an-ni-na-ti	lemma:annīnati	gw:this	wclass:DP	norm:annīnati	sense:this	epos:DP	lang:akk-x-mbperi	signs:_
+aemw/X123456.93.4	form:i-na-as-sah₂-šu	lemma:nasāhu	gw:tear out	wclass:V	norm:inassahšu	sense:remove	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.94.1	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:(hypotaxis)	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.94.4	form:AN{+ša-mu}	lemma:šamû	gw:sky	wclass:N	norm:šamû	sense:heaven	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.94.5	form:li-iz-zu-ur-šu	lemma:nazāru	gw:revile	wclass:V	norm:lizzuršu	sense:curse	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.95.1	form:ša-ap-la-tu₂	lemma:šaplītu	gw:lower part	wclass:AJ	norm:šaplâtu	sense:underworld	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.95.2	form:er-ṣe-tu₂	lemma:erṣetu	gw:earth	wclass:N	norm:erṣetu	sense:underworld	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.95.3	form:pe₂-re-eh-šu	lemma:perʾu	gw:bud	wclass:N	norm:perehšu	sense:offspring	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.95.4	form:li-il-qu₂-ut	lemma:laqātu	gw:gather up	wclass:V	norm:lilqut	sense:gather up	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.96.1	form:DINGIR-MEŠ	lemma:ilu	gw:god	wclass:N	norm:ilānu	sense:god	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.96.2	form:ša	lemma:ša	gw:of	wclass:DET	norm:ša	sense:of	epos:DET	lang:akk-x-mbperi	signs:_
+aemw/X123456.96.3	form:AN	lemma:šamû	gw:sky	wclass:N	norm:šamê	sense:sky	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.96.4	form:u	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.96.5	form:KI	lemma:erṣetu	gw:earth	wclass:N	norm:erṣeti	sense:earth	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.96.6	form:LUGAL-ut-šu	lemma:šarrūtu	gw:kingship	wclass:N	norm:šarrūtšu	sense:reign	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.96.7	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.96.8	form:ma-at-šu{ki}	lemma:mātu	gw:land	wclass:N	norm:mātšu	sense:land	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.96.9	form:lim-du-du-šu	lemma:madādu	gw:measure (out)	wclass:V	norm:limdudūšu	sense:measure (out)	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.97.1	form:ma-an-nu-um-me-e	lemma:mannummê	gw:who(so)ever	wclass:XP	norm:mannummê	sense:who(so)ever	epos:XP	lang:akk-x-mbperi	signs:_
+aemw/X123456.97.2	form:u₂-na-ak-kar₃-ma	lemma:nakāru	gw:be(come) different	wclass:V	norm:unakkarma	sense:alter	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.97.3	form:i-ip-pa-aš-ši-su	lemma:pašāṭu	gw:erase	wclass:V	norm:ippaššissu	sense:erase	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.98.1	form:{d}IM	lemma:IM	gw:(Addu or Teššub)	wclass:DN	norm:IM	sense:(Addu or Teššub)	epos:DN	lang:akk-x-mbperi	signs:_
+aemw/X123456.98.2	form:EN	lemma:bēlu	gw:lord	wclass:N	norm:bēl	sense:lord	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.98.3	form:AN	lemma:šamû	gw:sky	wclass:N	norm:šamê	sense:sky	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.98.4	form:KI{+er-ṣe-ti}	lemma:erṣetu	gw:earth	wclass:N	norm:erṣeti	sense:earth	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.98.5	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.98.6	form:DINGIR-MEŠ	lemma:ilu	gw:god	wclass:N	norm:ilāni	sense:god	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.98.7	form:GAL.GAL.E.NE	lemma:rabû	gw:big	wclass:AJ	norm:rabûti	sense:great	epos:AJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.98.8	form:šu-ma-šu	lemma:šumu	gw:name	wclass:N	norm:šumašu	sense:name	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.99.1	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.99.2	form:NUMUN-MEŠ-šu	lemma:zēru	gw:seed	wclass:N	norm:zērīšu	sense:seed	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.99.3	form:li-hal-liq	lemma:halāqu	gw:be(come) lost	wclass:V	norm:lihalliq	sense:destroy	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.99.4	form:i-na	lemma:ina	gw:in	wclass:PRP	norm:ina	sense:in	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.99.5	form:ma-ti-šu	lemma:mātu	gw:land	wclass:N	norm:mātišu	sense:land	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.99.6	form:{m}šar-ru-wa	lemma:Šarruwa	gw:1	wclass:PN	norm:Šarruwa	sense:1	epos:PN	lang:akk-x-mbperi	signs:_
+aemw/X123456.99.7	form:DUB.SAR	lemma:ṭupšarru	gw:scribe	wclass:N	norm:ṭupšarru	sense:scribe	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.99.8	form:{lu₂}ARAD	lemma:wardu	gw:slave	wclass:N	norm:arad	sense:servant	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.99.9	form:10	lemma:10	gw:(Addu or Teššub)	wclass:DN	norm:10	sense:(Addu or Teššub)	epos:DN	lang:akk-x-mbperi	signs:_
+aemw/X123456.99.10	form:20	lemma:20	gw:(Šamaš or Šimigi)	wclass:DN	norm:20	sense:(Šamaš or Šimigi)	epos:DN	lang:akk-x-mbperi	signs:_
+aemw/X123456.99.11	form:30	lemma:30	gw:(Sîn or Kušuh)	wclass:DN	norm:30	sense:(Sîn or Kušuh)	epos:DN	lang:akk-x-mbperi	signs:_
+aemw/X123456.99.12	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.99.13	form:{d}INANNA	lemma:IŠTAR	gw:(Ištar or Šauška)	wclass:DN	norm:IŠTAR	sense:(Ištar or Šauška)	epos:DN	lang:akk-x-mbperi	signs:_
+aemw/X123456.100.1	form:{m}šar-ru-wa	lemma:Šarruwa	gw:1	wclass:PN	norm:Šarruwa	sense:1	epos:PN	lang:akk-x-mbperi	signs:_
+aemw/X123456.100.2	form:{lu₂}DUB.SAR	lemma:ṭupšarru	gw:scribe	wclass:N	norm:ṭupšarru	sense:scribe	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.100.3	form:ša	lemma:ša	gw:that	wclass:REL	norm:ša	sense:who	epos:REL	lang:akk-x-mbperi	signs:_
+aemw/X123456.100.4	form:{d}ALAM	lemma:ṣalmu	gw:effigy	wclass:N	norm:ṣalma	sense:statue	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.100.5	form:an-ni-na-tim	lemma:annīnati	gw:this	wclass:DP	norm:annīnatim	sense:this	epos:DP	lang:akk-x-mbperi	signs:_
+aemw/X123456.100.6	form:iš-ṭu₂-ru-šu	lemma:šaṭāru	gw:write (down)	wclass:V	norm:išṭurušu	sense:write (down)	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.100.7	form:DINGIR-MEŠ	lemma:ilu	gw:god	wclass:N	norm:ilānu	sense:god	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.100.8	form:ša	lemma:ša	gw:of	wclass:DET	norm:ša	sense:of	epos:DET	lang:akk-x-mbperi	signs:_
+aemw/X123456.100.9	form:AN	lemma:šamû	gw:sky	wclass:N	norm:šamê	sense:sky	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.100.10	form:u	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.100.11	form:KI	lemma:erṣetu	gw:earth	wclass:N	norm:erṣeti	sense:earth	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.101.1	form:li-bal-li-ṭu₂-u₂-šu	lemma:balāṭu	gw:live	wclass:V	norm:liballiṭūšu	sense:live	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.101.2	form:li-na-ṣa-ru-šu	lemma:naṣāru	gw:guard	wclass:V	norm:linaṣṣarūšu	sense:protect	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.101.3	form:lu-u₂	lemma:lū	gw:may	wclass:MOD	norm:lū	sense:may	epos:MOD	lang:akk-x-mbperi	signs:_
+aemw/X123456.101.4	form:SIG₅-u₂-šu	lemma:damqu	gw:good	wclass:AJ	norm:damqūšu	sense:good	epos:AJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.101.5	form:{d}UTU	lemma:UTU	gw:(Šamaš or Šimigi)	wclass:DN	norm:UTU	sense:(Šamaš or Šimigi)	epos:DN	lang:akk-x-mbperi	signs:_
+aemw/X123456.101.6	form:EN	lemma:bēlu	gw:lord	wclass:N	norm:bēl	sense:lord	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.101.7	form:e-lu-ti	lemma:elītu	gw:that which is above	wclass:AJ	norm:elûti	sense:that which is above	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.102.2	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:and	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.102.3	form:šap-li-ti	lemma:šaplītu	gw:lower part	wclass:AJ	norm:šaplīti	sense:that which is below	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.102.4	form:EN	lemma:bēlu	gw:lord	wclass:N	norm:bēl	sense:lord	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.102.6	form:e-ṭemₓ(DIM)-mi	lemma:eṭemmu	gw:ghost	wclass:N	norm:eṭemmī	sense:ghost	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.102.7	form:lu-u₂	lemma:lū	gw:may	wclass:MOD	norm:lū	sense:may	epos:MOD	lang:akk-x-mbperi	signs:_
+aemw/X123456.102.8	form:TI.LA-šu	lemma:bulṭu	gw:life	wclass:N	norm:buluṭšu	sense:cure	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.103.1	form:MU	lemma:šattu	gw:year	wclass:N	norm:šanāti	sense:year	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.103.2	form:30-KAM-MEŠ	lemma:_	gw:_	wclass:n	norm:_	sense:_	epos:_	lang:akk-x-mbperi	signs:_
+aemw/X123456.103.3	form:LUGAL-ku	lemma:šarru	gw:king	wclass:N	norm:šarrāku	sense:king	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.104.1	form:ma-na-ah-ti-ia	lemma:mānahtu	gw:weariness	wclass:N	norm:mānahtiya	sense:labors	epos:N	lang:akk-x-mbperi	signs:_
+aemw/X123456.104.2	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:onto	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.104.3	form:UGU-ia	lemma:muhhu	gw:skull	wclass:N	norm:muhhiya	sense:own	epos:RP	lang:akk-x-mbperi	signs:_
+aemw/X123456.104.4	form:aš-ṭu₂-ur	lemma:ṣaṭāru	gw:write (down)	wclass:V	norm:ašṭur	sense:write (down)	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.104.5	form:li-da₂-na-gal-šu-nu	lemma:dagālu	gw:see	wclass:V	norm:liddanaggalšunu	sense:look upon	epos:V	lang:akk-x-mbperi	signs:_
+aemw/X123456.105.1	form:u₃	lemma:u	gw:and	wclass:CNJ	norm:u	sense:so that	epos:CNJ	lang:akk-x-mbperi	signs:_
+aemw/X123456.105.2	form:a-na	lemma:ana	gw:to	wclass:PRP	norm:ana	sense:for	epos:PRP	lang:akk-x-mbperi	signs:_
+aemw/X123456.105.3	form:UGU-ia	lemma:muhhu	gw:skull	wclass:N	norm:muhhiya	sense:own	epos:RP	lang:akk-x-mbperi	signs:_
+aemw/X123456.105.4	form:li-ik-ta-na-ra-bu	lemma:karābu	gw:pray	wclass:V	norm:liktanarrabū	sense:pray	epos:V	lang:akk-x-mbperi	signs:_

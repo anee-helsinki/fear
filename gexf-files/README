@@ -1,1 +1,14 @@
-gexf files used for producing the visualisations with Gephi.
+Gexf files used for producing the visualisations with Gephi.
+
+The ForceAtlas2 algorithm that we use in Gephi is a force directed algorithm where the nodes try to get as far away from each other but the connecting edges pull the nodes closer. The bigger the weight of an edge is the closer the nodes end up to each other. All the values we got from fastText and PMI that were used for edge weights were made bigger in order to prevent the nodes from getting too far away from each other in the graphs. This helps the analysis of the results. The operations did not in anyway change the connections between the nodes.
+
+The edge weight values have been counted as follows:
+
+FastText:
+The cosine distance value supplied by fastText * 10.
+
+PMI:
+Score_trimmed value + 0.001 * 1000. The 0.001 was added to all values in order to prevent value 0 which is ignored by Gephi.
+
+All the nodes have an attribute called ‘size’ which is set to 1.0 for all the emotion words under scrutiny and to 0.0 for all other words.
+

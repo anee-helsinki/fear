@@ -10,7 +10,7 @@ synonymsToBeCombined.txt
 = List of words with synonymous translations, that cannot be combined automatically
 
 wantedWords_level1 and wantedWords_level2
-= lists of words under scritiny
+= lists of words under scrutiny
 
 wordsWithTranslations_level1 and wordsWithTranslations_level2
 = lists of all the words in the text files that were analysed with the translations given in Oracc

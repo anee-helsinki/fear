@@ -1,0 +1,251 @@
+source;target;weight
+adāru_2 [be afraid 159];adāru_2 [be afraid 159];0.012
+adāru_2 [be afraid 159];šudlupu_1 [sleepless 5];0.012
+adāru_2 [be afraid 159];huliam_1 [helmet 7];0.011
+adāru_2 [be afraid 159];šalgu_1 [snow 9];0.011
+adāru_2 [be afraid 159];šuribatu_1 [terror 10];0.01
+adāru_2 [be afraid 159];tāhāzu_1 [battle 550];0.01
+adāru_2 [be afraid 159];šuttinnu_1 [bat 8];0.01
+adāru_2 [be afraid 159];sipittu_1 [mourning rites 6];0.009
+adāru_2 [be afraid 159];palāhu_1 [afraid 640];0.009
+adāru_2 [be afraid 159];arurtu_1 [famine 5];0.009
+adāru_2 [be afraid 159];sariyam_1 [coat of armour 10];0.009
+adāru_2 [be afraid 159];tuqumtu_1 [battle 83];0.008
+adāru_2 [be afraid 159];āpiru_1 [crowned 7];0.008
+adāru_2 [be afraid 159];lumnu_1 [evil 259];0.007
+adāru_2 [be afraid 159];padû_1 [spare 6];0.007
+adāru_2 [be afraid 159];išû_1 [have 240];0.007
+adāru_2 [be afraid 159];hūṣu_1 [pain 13];0.007
+adāru_2 [be afraid 159];mulaʾʾiṭu_2 [who encircles 18];0.007
+adāru_2 [be afraid 159];halluptu_1 [armour 8];0.007
+adāru_2 [be afraid 159];nigiṣṣu_1 [crack 5];0.007
+adāru_2 [be afraid 159];Nagite-raqqi_P [?];0.007
+adāru_2 [be afraid 159];ittāti_1 [sign 9];0.006
+adāru_2 [be afraid 159];galātu_1 [tremble 88];0.006
+adāru_2 [be afraid 159];ezēzu_1 [be angry 205];0.006
+adāru_2 [be afraid 159];ašuštu_1 [affliction 10];0.006
+adāru_2 [be afraid 159];šāninu_1 [rival 53];0.006
+adāru_2 [be afraid 159];edû_2 [flood 29];0.006
+adāru_2 [be afraid 159];akṣu_1 [brazen 58];0.006
+adāru_2 [be afraid 159];namurratu_1 [aweinspiring radiance 62];0.006
+adāru_2 [be afraid 159];tību_1 [attack 205];0.006
+adāru_2 [be afraid 159];ittu_2 [peculiarity 36];0.005
+adāru_2 [be afraid 159];hātu_1 [terror 51];0.005
+adāru_2 [be afraid 159];arratu_1 [curse 47];0.005
+adāru_2 [be afraid 159];mušaknišu_1 [who makes someone bow down 33];0.005
+adāru_2 [be afraid 159];pādû_1 [forgiving 67];0.005
+adāru_2 [be afraid 159];Ništun_P [?];0.005
+adāru_2 [be afraid 159];šapṣu_1 [recalcitrant 34];0.005
+adāru_2 [be afraid 159];apāru_1 [cover head 29];0.005
+adāru_2 [be afraid 159];lazzu_1 [enduring 9];0.005
+adāru_2 [be afraid 159];Iadnana_P [?];0.005
+adāru_2 [be afraid 159];rapāsu_1 [beat 8];0.005
+adāru_2 [be afraid 159];šuttu_1 [dream 114];0.004
+adāru_2 [be afraid 159];ṭehû_2 [approach 184];0.004
+adāru_2 [be afraid 159];šikkû_1 [mongoose 21];0.004
+adāru_2 [be afraid 159];mahāru_1 [face 1048];0.004
+adāru_2 [be afraid 159];parādu_1 [be scared 169];0.004
+adāru_2 [be afraid 159];nêʾu_1 [turn back 18];0.004
+adāru_2 [be afraid 159];ṣāltu_1 [combat 69];0.004
+adāru_2 [be afraid 159];tabrītu_1 [vision 60];0.004
+adāru_2 [be afraid 159];gapšu_1 [arisen 80];0.004
+galātu_1 [tremble 88];parādu_1 [be scared 169];0.02
+galātu_1 [tremble 88];galātu_1 [tremble 88];0.014
+galātu_1 [tremble 88];Badnigerimhuluha_1 [Badnigerimhuluha 5];0.013
+galātu_1 [tremble 88];ašuštu_1 [affliction 10];0.012
+galātu_1 [tremble 88];nakādu_1 [beat 21];0.012
+galātu_1 [tremble 88];arurtu_1 [famine 5];0.012
+galātu_1 [tremble 88];hūṣu_1 [pain 13];0.01
+galātu_1 [tremble 88];daʾmu_1 [dark 19];0.008
+galātu_1 [tremble 88];naṣmadu_1 [harness 6];0.007
+galātu_1 [tremble 88];mūšu_1 [night 390];0.007
+galātu_1 [tremble 88];hātu_1 [terror 51];0.007
+galātu_1 [tremble 88];sakālu_1 [balk 8];0.007
+galātu_1 [tremble 88];zāwiānu_1 [enemy 41];0.007
+galātu_1 [tremble 88];māru&&bārû_1 [sondiviner 114];0.007
+galātu_1 [tremble 88];niqittu_1 [anxiety 18];0.006
+galātu_1 [tremble 88];adāru_2 [be afraid 159];0.006
+galātu_1 [tremble 88];tamītu_1 [oath 231];0.006
+galātu_1 [tremble 88];aršu_1 [dirty 190];0.006
+galātu_1 [tremble 88];labšu_1 [clothed 204];0.006
+galātu_1 [tremble 88];ūmu_2 [stormdemon 14];0.005
+galātu_1 [tremble 88];nissatu_1 [wailing 28];0.005
+galātu_1 [tremble 88];bašāmu_1 [create 17];0.005
+galātu_1 [tremble 88];nashu_1 [torn 170];0.005
+galātu_1 [tremble 88];abūbu_1 [flood 94];0.004
+galātu_1 [tremble 88];agû_2 [crown 168];0.004
+galātu_1 [tremble 88];mayyālu_1 [bed 81];0.004
+galātu_1 [tremble 88];awīlu_1 [man 1627];0.004
+galātu_1 [tremble 88];maqātu_1 [fall 579];0.004
+galātu_1 [tremble 88];palāhu_1 [afraid 640];0.004
+galātu_1 [tremble 88];šahāṭu_1 [jump 45];0.004
+galātu_1 [tremble 88];hīpu_2 [break 227];0.004
+galātu_1 [tremble 88];šalhû_1 [outer wall 61];0.004
+galātu_1 [tremble 88];ṣubātu_1 [textile 286];0.004
+galātu_1 [tremble 88];ginû_1 [regular contribution 322];0.004
+galātu_1 [tremble 88];kūnu_1 [firm 132];0.004
+galātu_1 [tremble 88];rašû_1 [acquire 491];0.003
+galātu_1 [tremble 88];ṣamādu_1 [tie up 29];0.003
+galātu_1 [tremble 88];amāru_1 [appear 3124];0.003
+galātu_1 [tremble 88];qātu_1 [hand 2819];0.003
+galātu_1 [tremble 88];rabāṣu_1 [sit 78];0.003
+galātu_1 [tremble 88];rigmu_1 [voice 131];0.003
+galātu_1 [tremble 88];šakānu_1 [put 3683];0.003
+galātu_1 [tremble 88];bārtu_1 [rebellion 151];0.003
+galātu_1 [tremble 88];lišānu_1 [tongue 117];0.003
+galātu_1 [tremble 88];arratu_1 [curse 47];0.003
+galātu_1 [tremble 88];pû_1 [mouth 1392];0.003
+galātu_1 [tremble 88];nâlu_1 [lie down 47];0.003
+galātu_1 [tremble 88];šapālu_1 [deep 66];0.003
+galātu_1 [tremble 88];bāštu_1 [dignity 44];0.003
+galātu_1 [tremble 88];nabāṭu_1 [bright 35];0.003
+palāhu_1 [afraid 640];melemmu_1 [fearsome radiance 121];0.016
+palāhu_1 [afraid 640];sahāpu_1 [envelop 195];0.014
+palāhu_1 [afraid 640];namurratu_1 [aweinspiring radiance 62];0.011
+palāhu_1 [afraid 640];adāru_2 [be afraid 159];0.008
+palāhu_1 [afraid 640];hātu_1 [terror 51];0.008
+palāhu_1 [afraid 640];rasānu_1 [soak 10];0.008
+palāhu_1 [afraid 640];ilu_1 [god 4706];0.007
+palāhu_1 [afraid 640];šarru_1 [king 18514];0.006
+palāhu_1 [afraid 640];nakādu_1 [beat 21];0.006
+palāhu_1 [afraid 640];niqittu_1 [anxiety 18];0.006
+palāhu_1 [afraid 640];kakku_1 [stick 952];0.006
+palāhu_1 [afraid 640];rašû_1 [acquire 491];0.006
+palāhu_1 [afraid 640];pānu_1 [front 4310];0.006
+palāhu_1 [afraid 640];wašru_1 [submissive 25];0.006
+palāhu_1 [afraid 640];rāsinūtu_1 [activity of tanner 22];0.006
+palāhu_1 [afraid 640];naquttu_1 [critical situation 23];0.006
+palāhu_1 [afraid 640];Belet-Arbail [?];0.006
+palāhu_1 [afraid 640];libbu_1 [heart 5823];0.005
+palāhu_1 [afraid 640];bēlu_1 [lord 11805];0.005
+palāhu_1 [afraid 640];ilūtu_1 [divinity 912];0.005
+palāhu_1 [afraid 640];haṣāṣu_1 [snap off 6];0.005
+palāhu_1 [afraid 640];ramānu_1 [self 314];0.005
+palāhu_1 [afraid 640];palāhu_1 [afraid 640];0.005
+palāhu_1 [afraid 640];ṣabātu_1 [seize 1796];0.005
+palāhu_1 [afraid 640];bēlūtu_1 [lordship 709];0.005
+palāhu_1 [afraid 640];putuqqu_1 [constantly attentive 16];0.005
+palāhu_1 [afraid 640];Aššur [?];0.005
+palāhu_1 [afraid 640];šitmuru_1 [very wild 27];0.005
+palāhu_1 [afraid 640];šarrūtu_1 [kingship 1307];0.005
+palāhu_1 [afraid 640];wašāru_1 [sink down 248];0.005
+palāhu_1 [afraid 640];tabāku_2 [heap up 67];0.005
+palāhu_1 [afraid 640];tārītu_1 [nurse 7];0.005
+palāhu_1 [afraid 640];rahṣu_2 [confident 14];0.005
+palāhu_1 [afraid 640];šakānu_1 [put 3683];0.004
+palāhu_1 [afraid 640];ālu_1 [city 2993];0.004
+palāhu_1 [afraid 640];šeʾû_1 [seek 177];0.004
+palāhu_1 [afraid 640];šemû_1 [hear 1150];0.004
+palāhu_1 [afraid 640];zikru_1 [utterance 288];0.004
+palāhu_1 [afraid 640];alāku_1 [go 4530];0.004
+palāhu_1 [afraid 640];šadû_1 [mountain 1114];0.004
+palāhu_1 [afraid 640];napištu_1 [throat 799];0.004
+palāhu_1 [afraid 640];ištaru_1 [goddess 262];0.004
+palāhu_1 [afraid 640];tāhāzu_1 [battle 550];0.004
+palāhu_1 [afraid 640];muhhu_1 [skull 4151];0.004
+palāhu_1 [afraid 640];salāmu_1 [at peace 101];0.004
+palāhu_1 [afraid 640];ROYALTY [?];0.004
+palāhu_1 [afraid 640];mūdû_1 [knower 99];0.004
+palāhu_1 [afraid 640];rabû_1 [big 4299];0.004
+palāhu_1 [afraid 640];emqu_1 [wise 52];0.004
+palāhu_1 [afraid 640];šēpu_1 [foot 1131];0.004
+parādu_1 [be scared 169];nashu_1 [torn 170];0.029
+parādu_1 [be scared 169];bēru_2 [distant 128];0.029
+parādu_1 [be scared 169];tamītu_1 [oath 231];0.027
+parādu_1 [be scared 169];šupêlu_1 [exchange 110];0.023
+parādu_1 [be scared 169];galātu_1 [tremble 88];0.02
+parādu_1 [be scared 169];māru&&bārû_1 [sondiviner 114];0.02
+parādu_1 [be scared 169];enû_1 [change 187];0.018
+parādu_1 [be scared 169];kūnu_1 [firm 132];0.016
+parādu_1 [be scared 169];hūṣu_1 [pain 13];0.014
+parādu_1 [be scared 169];pû_1 [mouth 1392];0.012
+parādu_1 [be scared 169];ašuštu_1 [affliction 10];0.012
+parādu_1 [be scared 169];šuttu_1 [dream 114];0.011
+parādu_1 [be scared 169];šâlu_1 [ask 670];0.011
+parādu_1 [be scared 169];labšu_1 [clothed 204];0.01
+parādu_1 [be scared 169];mūšu_1 [night 390];0.009
+parādu_1 [be scared 169];arurtu_1 [famine 5];0.009
+parādu_1 [be scared 169];hātu_1 [terror 51];0.008
+parādu_1 [be scared 169];hinqu_1 [constriction 6];0.008
+parādu_1 [be scared 169];aršu_1 [dirty 190];0.008
+parādu_1 [be scared 169];agašgû_1 [youngest son 5];0.007
+parādu_1 [be scared 169];parādu_1 [be scared 169];0.007
+parādu_1 [be scared 169];dūtu_1 [virility 7];0.006
+parādu_1 [be scared 169];dalhu_1 [troubled 37];0.006
+parādu_1 [be scared 169];išallim_1 [favourable 33];0.006
+parādu_1 [be scared 169];tazzimtu_1 [complaint 9];0.006
+parādu_1 [be scared 169];Šamaš [?];0.006
+parādu_1 [be scared 169];tarṣu_2 [stretched out 9];0.006
+parādu_1 [be scared 169];šāʾilu_1 [asker 5];0.006
+parādu_1 [be scared 169];šatû_1 [drink 294];0.006
+parādu_1 [be scared 169];pašāšu_1 [anoint 383];0.006
+parādu_1 [be scared 169];haṭû_1 [do wrong 138];0.006
+parādu_1 [be scared 169];wardatu&&lilî_1 [girla demon 11];0.005
+parādu_1 [be scared 169];puhpuhhû_1 [squabble 12];0.005
+parādu_1 [be scared 169];ardu_1 [slave 2166];0.005
+parādu_1 [be scared 169];ṣubātu_1 [textile 286];0.005
+parādu_1 [be scared 169];ginû_1 [regular contribution 322];0.005
+parādu_1 [be scared 169];ittu_2 [peculiarity 36];0.004
+parādu_1 [be scared 169];lemnu_1 [bad 412];0.004
+parādu_1 [be scared 169];kabbaru_1 [very thick 17];0.004
+parādu_1 [be scared 169];qātu_1 [hand 2819];0.004
+parādu_1 [be scared 169];ittu_1 [sign 241];0.004
+parādu_1 [be scared 169];hīpu_2 [break 227];0.004
+parādu_1 [be scared 169];išdihu_1 [profitable business 19];0.004
+parādu_1 [be scared 169];adāru_2 [be afraid 159];0.004
+parādu_1 [be scared 169];arratu_1 [curse 47];0.004
+parādu_1 [be scared 169];diliptu_1 [sleeplessnes 14];0.004
+parādu_1 [be scared 169];qūlu_1 [silence 13];0.004
+parādu_1 [be scared 169];kūru_1 [depression 15];0.004
+parādu_1 [be scared 169];šabāsu_1 [be angry 42];0.004
+parādu_1 [be scared 169];rabû_1 [big 4299];0.004
+šahātu_2 [be afraid 51];wašru_1 [submissive 25];0.021
+šahātu_2 [be afraid 51];nakādu_1 [beat 21];0.014
+šahātu_2 [be afraid 51];putuqqu_1 [constantly attentive 16];0.013
+šahātu_2 [be afraid 51];napšu_2 [life 7];0.012
+šahātu_2 [be afraid 51];bakru_1 [foal 8];0.012
+šahātu_2 [be afraid 51];naʾdu_1 [attentive 89];0.009
+šahātu_2 [be afraid 51];anāqāte_1 [shecamels 13];0.009
+šahātu_2 [be afraid 51];dikuggallu_1 [chief justice 14];0.009
+šahātu_2 [be afraid 51];Dagan [?];0.007
+šahātu_2 [be afraid 51];kašūšu_1 [divine weapon 18];0.007
+šahātu_2 [be afraid 51];zāninu_1 [provisioner 83];0.007
+šahātu_2 [be afraid 51];ibilu_1 [camel 22];0.007
+šahātu_2 [be afraid 51];marratu_1 [bitter thing 18];0.007
+šahātu_2 [be afraid 51];ilittu_1 [birth 28];0.006
+šahātu_2 [be afraid 51];āmiru_1 [seer 32];0.006
+šahātu_2 [be afraid 51];Išum [?];0.006
+šahātu_2 [be afraid 51];ahû_2 [foreign 42];0.005
+šahātu_2 [be afraid 51];zikru_1 [utterance 288];0.005
+šahātu_2 [be afraid 51];kamāsu_1 [kneel 53];0.005
+šahātu_2 [be afraid 51];rubû_1 [ruler 752];0.005
+šahātu_2 [be afraid 51];mēsū_1 [cult 14];0.005
+šahātu_2 [be afraid 51];râmu_1 [love 489];0.005
+šahātu_2 [be afraid 51];migru_1 [consent 93];0.005
+šahātu_2 [be afraid 51];nindabû_1 [food offering 43];0.005
+šahātu_2 [be afraid 51];targīgu_1 [evildoer 11];0.005
+šahātu_2 [be afraid 51];terṣu_1 [pointing 40];0.005
+šahātu_2 [be afraid 51];mušteʾʾû_1 [who keeps searching 37];0.005
+šahātu_2 [be afraid 51];šakkanakku_1 [military governor 215];0.005
+šahātu_2 [be afraid 51];mutnennû_1 [pious 26];0.005
+šahātu_2 [be afraid 51];palāhu_1 [afraid 640];0.004
+šahātu_2 [be afraid 51];šahātu_2 [be afraid 51];0.004
+šahātu_2 [be afraid 51];eṭlu_1 [manly 147];0.004
+šahātu_2 [be afraid 51];mulaʾʾiṭu_2 [who encircles 18];0.004
+šahātu_2 [be afraid 51];karāšu_2 [military camp 110];0.004
+šahātu_2 [be afraid 51];iltu_1 [goddess 42];0.004
+šahātu_2 [be afraid 51];qurdu_1 [warriorhood 37];0.004
+šahātu_2 [be afraid 51];mūtu_1 [death 93];0.003
+šahātu_2 [be afraid 51];rabû_1 [big 4299];0.003
+šahātu_2 [be afraid 51];ilu_1 [god 4706];0.003
+šahātu_2 [be afraid 51];Marduk [?];0.003
+šahātu_2 [be afraid 51];mūdû_1 [knower 99];0.003
+šahātu_2 [be afraid 51];muštēširu_1 [who sets straight 33];0.003
+šahātu_2 [be afraid 51];alkakātu_1 [ways of life 30];0.003
+šahātu_2 [be afraid 51];mušallimu_1 [that delivers safely 41];0.003
+šahātu_2 [be afraid 51];Enlil [?];0.003
+šahātu_2 [be afraid 51];šangûtu_1 [priest 92];0.003
+šahātu_2 [be afraid 51];Ekur_P [?];0.003
+šahātu_2 [be afraid 51];bēlūtu_1 [lordship 709];0.003
+šahātu_2 [be afraid 51];pālihu_1 [who reveres 139];0.003
+šahātu_2 [be afraid 51];qarrādu_2 [warlike 39];0.003

@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http:///www.gexf.net/1.1draft/viz" version="1.1" xmlns="http://www.gexf.net/1.1draft"><meta lastmodifieddate="2010-03-03+23:44"><creator>Gephi 0.7</creator></meta><graph defaultedgetype="undirected" idtype="string" type="static">
+<attributes class="node" mode="static">
+<attribute id="size" type="string"/>
+</attributes>
+<nodes count="14">
+<node id="1.0" label="adāru_2[be afraid]">
+<attvalues>
+<attvalue for="size" value="1.0"/>
+</attvalues>
+</node>
+<node id="2.0" label="ezēzu_1[be angry]">
+<attvalues>
+<attvalue for="size" value="1.0"/>
+</attvalues>
+</node>
+<node id="3.0" label="išû_1[have]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="4.0" label="maqātu_1[fall]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="5.0" label="māhiru_1[opponent]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="6.0" label="palāhu_1[afraid]">
+<attvalues>
+<attvalue for="size" value="1.0"/>
+</attvalues>
+</node>
+<node id="7.0" label="rēṣūtu_1[help]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="8.0" label="tuqumtu_1[battle]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="9.0" label="tāhāzu_1[battle]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="10.0" label="tību_1[attack]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="11.0" label="šuttinnu_1[bat]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="12.0" label="agāgu_1[be furious]">
+<attvalues>
+<attvalue for="size" value="1.0"/>
+</attvalues>
+</node>
+<node id="13.0" label="epištu_1[deed]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="14.0" label="hurbāšu_1[frost]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="15.0" label="ištaru_1[goddess]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="16.0" label="kabattu_1[liver]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="17.0" label="nâhu_1[rest]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="18.0" label="pašāhu_2[at rest]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="19.0" label="salāmu_1[at peace]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="20.0" label="šanû_3[do twice]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="21.0" label="gašru_1[strong]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="22.0" label="kakku_1[stick]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="23.0" label="namurratu_1[aweinspiring radiance]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="24.0" label="nêʾu_1[turn back]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="25.0" label="qablu_2[battle]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="26.0" label="qardūtu_1[heroism]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="27.0" label="šamāru_1[rage]">
+<attvalues>
+<attvalue for="size" value="1.0"/>
+</attvalues>
+</node>
+<node id="28.0" label="galātu_1[tremble]">
+<attvalues>
+<attvalue for="size" value="1.0"/>
+</attvalues>
+</node>
+<node id="29.0" label="akālu_1[eat]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="30.0" label="ašuštu_1[affliction]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="31.0" label="enû_1[change]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="32.0" label="labšu_1[clothed]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="33.0" label="māru#bārû_1[sondiviner]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="34.0" label="parādu_1[be scared]">
+<attvalues>
+<attvalue for="size" value="1.0"/>
+</attvalues>
+</node>
+<node id="35.0" label="urru_1[day]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="36.0" label="šatû_1[drink]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="37.0" label="šupêlu_1[exchange]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="38.0" label="kamālu_1[be angry]">
+<attvalues>
+<attvalue for="size" value="1.0"/>
+</attvalues>
+</node>
+<node id="39.0" label="aqāru_1[rare]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="40.0" label="ekēpu_1[come close]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="41.0" label="išallim_1[favourable]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="42.0" label="išdihu_1[profitable business]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="43.0" label="kadru_1[rearing up]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="44.0" label="pašāru_1[release]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="45.0" label="rašû_1[acquire]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="46.0" label="zenû_1[be angry]">
+<attvalues>
+<attvalue for="size" value="1.0"/>
+</attvalues>
+</node>
+<node id="47.0" label="labābu_1[rage]">
+<attvalues>
+<attvalue for="size" value="1.0"/>
+</attvalues>
+</node>
+<node id="48.0" label="Utulu">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="49.0" label="dandannu_1[allpowerful]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="50.0" label="dapīnu_1[overbearing]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="51.0" label="gāmilu_1[merciful]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="52.0" label="ilittu_1[birth]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="53.0" label="munehhu_1[who repulses]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="54.0" label="mūdû_1[knower]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="55.0" label="uʾʾurtu_1[commission]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="56.0" label="ṣerretu_1[noserope]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="57.0" label="hātu_1[terror]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="58.0" label="melemmu_1[fearsome radiance]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="59.0" label="naquttu_1[critical situation]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="60.0" label="qibītu_1[speech]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="61.0" label="sahāpu_1[envelop]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="62.0" label="suppû_1[pray]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="63.0" label="aršu_1[dirty]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="64.0" label="bēru_2[distant]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="65.0" label="kūnu_1[firm]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="66.0" label="nashu_1[torn]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="67.0" label="tamītu_1[oath]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="68.0" label="raʾābu_1[shake from anger]">
+<attvalues>
+<attvalue for="size" value="1.0"/>
+</attvalues>
+</node>
+<node id="69.0" label="kamû_1[bind]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="70.0" label="nanduru_1[very wild]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="71.0" label="qarrādu_1[hero]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="72.0" label="qarāru_1[writhe]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="73.0" label="qâlu_1[pay attention]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="74.0" label="uššušu_1[very distressed]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="75.0" label="šasû_1[shout]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="76.0" label="šuharruru_1[deathly still]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="77.0" label="râmu_1[love]">
+<attvalues>
+<attvalue for="size" value="1.0"/>
+</attvalues>
+</node>
+<node id="78.0" label="Dagan">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="79.0" label="hīrtu_1[equal ranking wife]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="80.0" label="ilu_1[god]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="81.0" label="kittu_1[steadiness]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="82.0" label="maštaku_1[chamber]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="83.0" label="migru_1[consent]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="84.0" label="palāsu_1[look]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="85.0" label="šangûtu_1[priest]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="86.0" label="dābibu_1[legal advocate]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="87.0" label="ebēbu_1[bright]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="88.0" label="lummunu_1[very bad]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="89.0" label="lumnu_1[evil]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="90.0" label="tazzimtu_1[complaint]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="91.0" label="šabāsu_1[be angry]">
+<attvalues>
+<attvalue for="size" value="1.0"/>
+</attvalues>
+</node>
+<node id="92.0" label="ennettu_1[sin]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="93.0" label="enēnu_1[punish]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="94.0" label="ešertu_1[chapel]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="95.0" label="maruṣtu_1[evil]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="96.0" label="teslītu_1[appeal]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="97.0" label="šemû_1[hear]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="98.0" label="šeʾû_1[seek]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="99.0" label="šahātu_2[be afraid]">
+<attvalues>
+<attvalue for="size" value="1.0"/>
+</attvalues>
+</node>
+<node id="100.0" label="kibru_1[bank]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="101.0" label="kullatu_1[totality]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="102.0" label="malku_1[prince]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="103.0" label="mušteʾʾû_1[who keeps searching]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="104.0" label="naʾdu_1[attentive]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="105.0" label="wašru_1[submissive]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="106.0" label="zāninu_1[provisioner]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="107.0" label="abūbu_1[flood]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="108.0" label="dadmū_1[villages]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="109.0" label="qurādu_1[hero]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+<node id="110.0" label="ālilu_1[brave]">
+<attvalues>
+<attvalue for="size" value="0.0"/>
+</attvalues>
+</node>
+</nodes>
+<edges count="140">
+<edge id="0" source="1.0" target="2.0" weight="7.98"/>
+<edge id="1" source="1.0" target="3.0" weight="7.46"/>
+<edge id="2" source="1.0" target="4.0" weight="7.3"/>
+<edge id="3" source="1.0" target="5.0" weight="7.42"/>
+<edge id="4" source="1.0" target="6.0" weight="7.45"/>
+<edge id="5" source="1.0" target="7.0" weight="7.42"/>
+<edge id="6" source="1.0" target="8.0" weight="7.75"/>
+<edge id="7" source="1.0" target="9.0" weight="7.32"/>
+<edge id="8" source="1.0" target="10.0" weight="7.27"/>
+<edge id="9" source="1.0" target="11.0" weight="7.53"/>
+<edge id="10" source="12.0" target="13.0" weight="7.29"/>
+<edge id="11" source="12.0" target="2.0" weight="7.32"/>
+<edge id="12" source="12.0" target="14.0" weight="7.05"/>
+<edge id="13" source="12.0" target="15.0" weight="7.23"/>
+<edge id="14" source="12.0" target="16.0" weight="7.57"/>
+<edge id="15" source="12.0" target="17.0" weight="7.82"/>
+<edge id="16" source="12.0" target="6.0" weight="7.04"/>
+<edge id="17" source="12.0" target="18.0" weight="7.25"/>
+<edge id="18" source="12.0" target="19.0" weight="7.01"/>
+<edge id="19" source="12.0" target="20.0" weight="7.24"/>
+<edge id="20" source="2.0" target="1.0" weight="7.98"/>
+<edge id="21" source="2.0" target="21.0" weight="7.98"/>
+<edge id="22" source="2.0" target="22.0" weight="7.89"/>
+<edge id="23" source="2.0" target="23.0" weight="7.82"/>
+<edge id="24" source="2.0" target="24.0" weight="7.98"/>
+<edge id="25" source="2.0" target="25.0" weight="7.8"/>
+<edge id="26" source="2.0" target="26.0" weight="7.87"/>
+<edge id="27" source="2.0" target="8.0" weight="8.06"/>
+<edge id="28" source="2.0" target="9.0" weight="7.91"/>
+<edge id="29" source="2.0" target="27.0" weight="8.85"/>
+<edge id="30" source="28.0" target="1.0" weight="7"/>
+<edge id="31" source="28.0" target="29.0" weight="6.86"/>
+<edge id="32" source="28.0" target="30.0" weight="6.69"/>
+<edge id="33" source="28.0" target="31.0" weight="7.06"/>
+<edge id="34" source="28.0" target="32.0" weight="7.19"/>
+<edge id="35" source="28.0" target="33.0" weight="6.97"/>
+<edge id="36" source="28.0" target="34.0" weight="8.14"/>
+<edge id="37" source="28.0" target="35.0" weight="7.05"/>
+<edge id="38" source="28.0" target="36.0" weight="6.79"/>
+<edge id="39" source="28.0" target="37.0" weight="7.28"/>
+<edge id="40" source="38.0" target="39.0" weight="7.5"/>
+<edge id="41" source="38.0" target="40.0" weight="7.25"/>
+<edge id="42" source="38.0" target="41.0" weight="7.35"/>
+<edge id="43" source="38.0" target="42.0" weight="7.4"/>
+<edge id="44" source="38.0" target="15.0" weight="7.47"/>
+<edge id="45" source="38.0" target="43.0" weight="7.44"/>
+<edge id="46" source="38.0" target="44.0" weight="7.55"/>
+<edge id="47" source="38.0" target="45.0" weight="7.36"/>
+<edge id="48" source="38.0" target="19.0" weight="7.18"/>
+<edge id="49" source="38.0" target="46.0" weight="7.22"/>
+<edge id="50" source="47.0" target="48.0" weight="7.17"/>
+<edge id="51" source="47.0" target="49.0" weight="7.35"/>
+<edge id="52" source="47.0" target="50.0" weight="7.71"/>
+<edge id="53" source="47.0" target="51.0" weight="7.12"/>
+<edge id="54" source="47.0" target="52.0" weight="7.54"/>
+<edge id="55" source="47.0" target="53.0" weight="7.38"/>
+<edge id="56" source="47.0" target="54.0" weight="7.24"/>
+<edge id="57" source="47.0" target="8.0" weight="7.25"/>
+<edge id="58" source="47.0" target="55.0" weight="7.32"/>
+<edge id="59" source="47.0" target="56.0" weight="7.16"/>
+<edge id="60" source="6.0" target="1.0" weight="7.45"/>
+<edge id="61" source="6.0" target="2.0" weight="7.79"/>
+<edge id="62" source="6.0" target="14.0" weight="7.6"/>
+<edge id="63" source="6.0" target="57.0" weight="7.43"/>
+<edge id="64" source="6.0" target="58.0" weight="8.3"/>
+<edge id="65" source="6.0" target="23.0" weight="8.5"/>
+<edge id="66" source="6.0" target="59.0" weight="7.92"/>
+<edge id="67" source="6.0" target="60.0" weight="7.48"/>
+<edge id="68" source="6.0" target="61.0" weight="7.91"/>
+<edge id="69" source="6.0" target="62.0" weight="7.41"/>
+<edge id="70" source="34.0" target="63.0" weight="7.41"/>
+<edge id="71" source="34.0" target="64.0" weight="7.48"/>
+<edge id="72" source="34.0" target="31.0" weight="8.2"/>
+<edge id="73" source="34.0" target="28.0" weight="8.14"/>
+<edge id="74" source="34.0" target="65.0" weight="7.4"/>
+<edge id="75" source="34.0" target="32.0" weight="7.48"/>
+<edge id="76" source="34.0" target="33.0" weight="8.31"/>
+<edge id="77" source="34.0" target="66.0" weight="7.57"/>
+<edge id="78" source="34.0" target="67.0" weight="6.7"/>
+<edge id="79" source="34.0" target="37.0" weight="8.84"/>
+<edge id="80" source="68.0" target="2.0" weight="7.08"/>
+<edge id="81" source="68.0" target="69.0" weight="7.12"/>
+<edge id="82" source="68.0" target="70.0" weight="7.24"/>
+<edge id="83" source="68.0" target="6.0" weight="7.15"/>
+<edge id="84" source="68.0" target="71.0" weight="7.19"/>
+<edge id="85" source="68.0" target="72.0" weight="7.22"/>
+<edge id="86" source="68.0" target="73.0" weight="7.68"/>
+<edge id="87" source="68.0" target="74.0" weight="6.95"/>
+<edge id="88" source="68.0" target="75.0" weight="7.08"/>
+<edge id="89" source="68.0" target="76.0" weight="6.91"/>
+<edge id="90" source="77.0" target="78.0" weight="7.76"/>
+<edge id="91" source="77.0" target="13.0" weight="7.93"/>
+<edge id="92" source="77.0" target="79.0" weight="7.77"/>
+<edge id="93" source="77.0" target="80.0" weight="7.95"/>
+<edge id="94" source="77.0" target="81.0" weight="7.87"/>
+<edge id="95" source="77.0" target="82.0" weight="7.64"/>
+<edge id="96" source="77.0" target="83.0" weight="8.27"/>
+<edge id="97" source="77.0" target="84.0" weight="7.83"/>
+<edge id="98" source="77.0" target="60.0" weight="7.79"/>
+<edge id="99" source="77.0" target="85.0" weight="7.79"/>
+<edge id="100" source="46.0" target="86.0" weight="7.19"/>
+<edge id="101" source="46.0" target="87.0" weight="7.22"/>
+<edge id="102" source="46.0" target="42.0" weight="7.03"/>
+<edge id="103" source="46.0" target="15.0" weight="8.26"/>
+<edge id="104" source="46.0" target="38.0" weight="7.22"/>
+<edge id="105" source="46.0" target="88.0" weight="7.25"/>
+<edge id="106" source="46.0" target="89.0" weight="7.44"/>
+<edge id="107" source="46.0" target="19.0" weight="8.51"/>
+<edge id="108" source="46.0" target="90.0" weight="7.86"/>
+<edge id="109" source="46.0" target="91.0" weight="8.23"/>
+<edge id="110" source="91.0" target="92.0" weight="7.21"/>
+<edge id="111" source="91.0" target="93.0" weight="7.08"/>
+<edge id="112" source="91.0" target="94.0" weight="7"/>
+<edge id="113" source="91.0" target="15.0" weight="8.77"/>
+<edge id="114" source="91.0" target="95.0" weight="7.49"/>
+<edge id="115" source="91.0" target="19.0" weight="7.16"/>
+<edge id="116" source="91.0" target="96.0" weight="7.03"/>
+<edge id="117" source="91.0" target="46.0" weight="8.23"/>
+<edge id="118" source="91.0" target="97.0" weight="7.01"/>
+<edge id="119" source="91.0" target="98.0" weight="7.31"/>
+<edge id="120" source="99.0" target="94.0" weight="7.52"/>
+<edge id="121" source="99.0" target="100.0" weight="7.36"/>
+<edge id="122" source="99.0" target="101.0" weight="7.76"/>
+<edge id="123" source="99.0" target="102.0" weight="7.51"/>
+<edge id="124" source="99.0" target="83.0" weight="7.89"/>
+<edge id="125" source="99.0" target="103.0" weight="8.05"/>
+<edge id="126" source="99.0" target="104.0" weight="7.59"/>
+<edge id="127" source="99.0" target="77.0" weight="7.61"/>
+<edge id="128" source="99.0" target="105.0" weight="7.51"/>
+<edge id="129" source="99.0" target="106.0" weight="7.71"/>
+<edge id="130" source="27.0" target="107.0" weight="7.54"/>
+<edge id="131" source="27.0" target="108.0" weight="7.45"/>
+<edge id="132" source="27.0" target="2.0" weight="8.85"/>
+<edge id="133" source="27.0" target="21.0" weight="7.75"/>
+<edge id="134" source="27.0" target="25.0" weight="7.96"/>
+<edge id="135" source="27.0" target="109.0" weight="7.87"/>
+<edge id="136" source="27.0" target="8.0" weight="8.03"/>
+<edge id="137" source="27.0" target="9.0" weight="7.89"/>
+<edge id="138" source="27.0" target="10.0" weight="7.68"/>
+<edge id="139" source="27.0" target="110.0" weight="7.41"/>
+</edges>
+</graph>
+</gexf>

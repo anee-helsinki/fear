@@ -3,3 +3,6 @@ Frequencies_level1.txt and Frequencies_level2.txt
 
 gods_combined_variants.txt and places_combined_variants.txt
 = Lists of standardized divine and place names  
+
+synonymsToBeCombined.txt
+= List of words with synonymous translations, that cannot be combined automatically

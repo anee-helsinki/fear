@@ -1,8 +1,10 @@
 #PLACES, COMBINED VARIANTS, Based on json files from February 2019.
 
-#The preferred normalisation is on the left side of the equal signs and the variants on the right side.
+#We standardized nouns that in Oracc have been tagged either as a geographical name (GN), settlement name (SN), or temple name (TN). The point of departure were the full lists 2,867 lemmas of place names in our Oracc dataset. Of these names we processed lists where 688 place names are normalized to 290 lemmas the same way as the lemmas for divine names. Different ancient names of a place were combined if they were clearly referring to one and the same geographical location. Babili was used to replace, among others, Babylon, Tintir, and Ka-diŋira.
 
 #Due to the nature of the data and time constraints, it has not been possible to differentiate between homonymous but distinct place names. Accordingly, a single lemma can cover several different geographical locations.
+
+#The preferred normalisation is on the left side of the equal signs and the variants on the right side.
 
 
 Adauš == Addauš

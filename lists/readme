@@ -1,4 +1,8 @@
 VARIOUS LISTS ABOUT THE DATA AND USED FOR PRODUCING THE TEXT FILES / RESULTS
+Various lists of words may contain the same word several time if the letters/diacritics are not exactly the same, 
+i.e. different projects in Oracc have used a different way of writing a word. For example,
+the word rebû	'fourth' appears with two different û-letters and is, hence, listed twice.
+
 
 Frequencies_level1.txt and Frequencies_level2.txt
 = Frequencies of the words on Levels 1 and 2
@@ -20,8 +24,6 @@ wantedWords_level1 and wantedWords_level2
 
 wordsWithTranslations_level1 and wordsWithTranslations_level2
 = lists of all the words in the text files that were analysed with the translations given in Oracc
-Lists may contain the same word several time if the letters/diacritics are not exactly the same. For example,
-the word rebû	'fourth' appears with two different û-letters and is, hence, listed twice.
 
 words_EmotionDerivativesCombinedToRoot
 = list of all words after the derivatives of emotion verbs had been combined with their verbal root

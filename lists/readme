@@ -19,4 +19,7 @@ words_EmotionDerivativesCombinedToRoot
 = list of all words after the derivatives of emotion verbs had been combined with their verbal root
 
 words_automaticHomonymSeparation
-= list of all words after homonyms had been separated automatically according to the translation (synonymous translations collapsed automatically
+= list of all words after homonyms had been separated automatically according to the translation (synonymous 
+translations collapsed automatically
+
+

@@ -6,6 +6,9 @@ Frequencies_level1.txt and Frequencies_level2.txt
 DuplicateTexts
 =list of documents (Oracc numbers) that have been left out because the text is a duplicate of an other document in Oracc
 
+genres
+= list of different genres represented in the data used (as specified in Oracc) with the frequency of each genre
+
 gods_combined_variants.txt and places_combined_variants.txt
 = Lists of standardized divine and place names  
 

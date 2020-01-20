@@ -7,11 +7,8 @@ the word rebû 'fourth' appears with two different û-letters and is, hence, lis
 Frequencies_level1.txt and Frequencies_level2.txt
 = Frequencies of the words on Levels 1 and 2
 
-DuplicateTexts
-=list of documents (Oracc numbers) that have been left out because the text is a duplicate of an other document in Oracc
-
-genres
-= list of different genres represented in the data used (as specified in Oracc) with the frequency of each genre
+notHomonyms
+= list of word pares that look like homonyms but are not and should be concidered the same word
 
 gods_combined_variants.txt and places_combined_variants.txt
 = Lists of standardized divine and place names  

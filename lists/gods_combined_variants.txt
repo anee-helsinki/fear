@@ -1,5 +1,8 @@
 # GODS, COMBINED VARIANTS
 
+Lemmas referring to divine names were standardized manually with some help from automated data processing. The point of 
+departure was a list of  dictionary forms of divine names in our full Oracc dataset. The names with no variant spellings were left as they were. The remaining 791 divine names were standardized to 339 lemmas. To help the process of combining the lemmas, we processed lists which grouped lemmas according to strings of letters they shared. The full lists of lemmas were manually analyzed with the aid of the lists of grouped lemmas, using transliterations in the Oracc data to check if suspect lemmas actually referred to one and the same Akkadian or Sumerian word in the transliteration. When several lemmas in Oracc referred to a single Akkadian or Sumerian word, we chose the most common lemma in Oracc to represent the word and replaced all other lemmas with the most common lemma. However, different ancient names of a deity were kept distinct. For instance, the lemma Ištar was used to replace Issar and IŠTAR but not Inanna. Accordingly, the names Bēl and Marduk were not combined, although Bēl was a common byname of Marduk in antiquity.
+
 # The preferred normalization is on the left side of the equals signs and the variants on the right side. In most cases, the preferred normalization is the most common one in our corpus. Based on json files from February 2019.
 
 

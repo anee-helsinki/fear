@@ -1,0 +1,832 @@
+adāru	(a tree); be(come) afraid; be(come) afraid (of); be(come) afraid of; be(come) dark;
+idu		arm; 		0.733137
+ezzu		furious; 		0.702585
+ezēbu		leave; 		0.701384
+tību		arousal; attack; 		0.695969
+ṣimittu		(an architectural feature); binding; 		0.689559
+maqātu		fall; 		0.687583
+šalgu		snow; 		0.687201
+šuttinnu		bat; 		0.681331
+marṣu		invalid; sick; sick one; 		0.661892
+mehû		storm; 		0.661137
+ṣabātu		seize; 		0.660339
+ummānu		army; military force; 		0.656912
+urru		day; daytime; 		0.656017
+napāṣu		push away; 		0.655362
+šapṣu		recalcitant; recalcitrant; recalcitrant one; 		0.650784
+šakānu		put; 		0.649737
+mupparšu		flying; flying one; 		0.64836
+nakru		enemy; hostile; strange; 		0.641448
+natbāku		pouring; 		0.641192
+harrānu		path; road; way; 		0.640277
+gerru		way; 		0.640058
+šadû		(a mineral component of glaze); east; east wind; mountain; mountain(s); 		0.63897
+abūbu		flood; 		0.638689
+šamru		furious; 		0.638095
+huliam		helmet; 		0.638091
+tāhāzu		battle; 		0.636628
+mūtu		death; 		0.634967
+tebû		arise; arisen; get up; rising; 		0.631079
+tiklu		help; 		0.631071
+sariyam		(coat of) armour; 		0.629526
+wašṭu		obdurate one; stiff; stiff one; 		0.629067
+kakku		stick; weapon; 		0.628301
+iltānu		north; north wind; 		0.626321
+ziāqu		blow; 		0.625673
+lābu		lion; 		0.625088
+mahāru		face; 		0.624986
+rēṣūtu		help; 		0.623192
+naparšudu		flee; 		0.622733
+šurrû		begin; fast; start; 		0.621884
+wašāru		sink down; 		0.620065
+sipittu		mourning (rites); 		0.61843
+hātu		terror; the sign HAD₂; 		0.617439
+redû		(meaning uncertain); accompanied; accompany; accompanying; be(come) suitable; soldier; 		0.616665
+kabtu		heavy; heavy one; important one; 		0.615392
+Elamtu_P		 		0.612897
+šittu		excrement; remnant; sleep; 		0.610253
+alāku		go; multiply; travel; 		0.610153
+lumnu&&libbu		evil&&interior; misdeed&&interior; 		0.610092
+narkabtu		chariot; 		0.609763
+šurīnu		(divine) emblem; 		0.60567
+
+adirtu	fear; gloominess;
+pirittu		terror; 		0.727047
+hūṣu		pain; 		0.71297
+gilittu		terror; 		0.687336
+ašuštu		affliction; 		0.684553
+puhpuhhû		quarrel; squabble; 		0.683957
+niziqtu		worry; 		0.665608
+ešītu		confusion; 		0.665184
+nissatu		wailing; 		0.661018
+diliptu		sleeplessnes; sleeplessness; 		0.660332
+šadî		east; 		0.660202
+arurtu		famine; 		0.652588
+qūlu		silence; 		0.649909
+arratu		curse; 		0.645088
+urru		day; daytime; 		0.636856
+hātu		terror; the sign HAD₂; 		0.63322
+barārītu		dusk; 		0.62546
+šūti		south; 		0.624326
+Urim_P		 		0.621967
+imṭû		loss(es); 		0.618035
+ebēṭu		swell up; 		0.612246
+antalû		eclipse; 		0.606446
+kūru		depression; kiln; 		0.606418
+mātāti		land; 		0.606084
+rahāṣu		flood; move; trample; trust; 		0.605335
+ṣâdu		melt (down); prowl; 		0.603277
+tānēhu		moaning; wailing; 		0.603037
+idirtu		misery; 		0.600746
+aqāru		be(come) rare; 		0.600056
+barāru		flicker; 		0.597585
+lumnu		evil; 		0.595151
+warāqu		be(come) green-yellow; be(come) yellow-green; 		0.593904
+zenû		angry; be(come) angry; 		0.59176
+iltāni		north; 		0.591676
+Subartu_P		 		0.591247
+šāt&&urri		who(m)&&daytime; 		0.590877
+eṣēlu		paralyse; 		0.588591
+qatāru		incense; smoke; 		0.587403
+mašû		(meaning unknown); forget; forgotten; forgotten one; 		0.586977
+zīqu		draught; torch; 		0.585901
+šāt&&urru		of&&daytime; who(m)&&daytime; 		0.58212
+lumnu&&libbu		evil&&interior; misdeed&&interior; 		0.58049
+adīru		(an enclosure?); fear; 		0.57979
+sahmaštu		rebellion; 		0.574759
+belû		be(come) extinguished; 		0.574735
+tašrītu		beginning; 		0.574527
+šamāmu		injure; 		0.57343
+mašādu		beat; 		0.573186
+šulû		street; 		0.573004
+qablīti		middle watch; 		0.572578
+damāmu		wail; 		0.570158
+
+ādiru	fearful?; full of awe;
+tuqumtu		battle; 		0.864004
+lâdiru		fearless; 		0.838078
+uršānu		warrior; 		0.788695
+muribbu		one who makes tremble; 		0.77916
+šalummatu		radiance; 		0.767405
+āpiru		crowned one; 		0.763649
+māhiru		opponent; stockade; 		0.759591
+šāninu		rival; 		0.75765
+tizqāru		exalted; supreme; supreme one; 		0.755146
+pādû		forgiving; merciful one; 		0.750582
+kibru		bank; riverbank; 		0.744166
+mulaʾʾiṭu		one who encircles; one who keeps in check; 		0.743027
+anantu		battle; 		0.73356
+munehhu		who repulses; 		0.731666
+qardu		hero; valiant; valiant one; 		0.731034
+išû		have; having; 		0.720353
+malku		prince; 		0.718298
+lābu		lion; 		0.717099
+mušaknišu		one who makes someone bow down; one who subjugates; 		0.703834
+wašru		submissive; submissive one; 		0.699949
+edû		flood; know; known; 		0.692131
+tabrītu		(nocturnal) vision; vision; 		0.689279
+wašṭu		obdurate one; stiff; stiff one; 		0.687556
+munêru		one who strikes; 		0.685373
+eṭlu		manly; manly one; young man; 		0.681028
+mupattû		one who opens; 		0.677726
+mumtalku		counsellor; deliberate; deliberate one; 		0.677388
+mušerbu		one who makes surpassing; 		0.66832
+naʾdu		attentive; praised; 		0.66818
+ušumgallu		great dragon; lion-dragon; 		0.663339
+šākinu		one who places; that places; 		0.652907
+šarhu		proud; proud one; 		0.651806
+puluhtu		awesomeness; fear(someness); 		0.648979
+šašmu		(single) combat; 		0.648569
+kanšu		submissive; submissive one; 		0.637655
+gapšu		arisen; 		0.637355
+dāʾipu		one who knocks; one who pushes away; repeller; 		0.635432
+šamru		furious; 		0.634551
+kašūšu		(divine weapon); 		0.634245
+tukultu		trust; 		0.631795
+naʾāru		roar; 		0.628629
+šapšāqu		constraint; 		0.627345
+lēʾû		powerful; powerful one; powerful/competent; 		0.627085
+muttarrû		guide; 		0.623345
+huršānu		mountain; mountain(s); 		0.622144
+šahtu		reverent; reverent one; 		0.620523
+qaštu		bow; 		0.620488
+rašbu		awe-inspiring; terrifying; 		0.61804
+migru		consent; 		0.6171
+watû		find; 		0.616673
+
+adru	afraid; dark; scared; threshing floor;
+šāt&&urri		who(m)&&daytime; 		0.7132
+šūti		south; 		0.682417
+arqu		green; yellow; 		0.677469
+barārīti		evening watch; 		0.668283
+šadî		east; 		0.665987
+tabriu		fodder crop; 		0.661071
+šutadduru		constantly terrified; 		0.659202
+antallû		eclipse; 		0.641636
+iltāni		north; 		0.639013
+innamrū		appear; see; 		0.637269
+iltānu		north; north wind; 		0.634517
+amurri		west; 		0.624138
+qablīti		middle watch; 		0.618847
+miqittu		(down)fall; epidemic; 		0.615328
+šīqu		(an illness); irrigation; levelling off (of grain in measuring vessel); watering; 		0.613131
+attallê		eclipse; 		0.608028
+ṣētu		bright light; fever; light; 		0.607533
+kakkabū		star; 		0.604324
+šahluqtu		destruction; 		0.604011
+mazrūtu		(area or state of) cultivation; 		0.595836
+nuhša		abundance; 		0.593788
+šegû		be(come) wild; wild; 		0.59235
+rabû&&ṭupšarru		big one&&scribe; 		0.590589
+Subartu_P		 		0.588077
+qību		command; 		0.58642
+lumnu		evil; 		0.584133
+nišū		people; 		0.583322
+ubbuṭu		famine; starvation; 		0.581374
+mātāti		land; 		0.580558
+iššir		go well; succeed; thrive; 		0.579832
+ibaššû		exist; occur; 		0.576381
+duʾʾumu		very dark; 		0.572592
+kakkabu		star; 		0.570656
+ṭurru		binding; 		0.570069
+diliptu		sleeplessnes; sleeplessness; 		0.56894
+mašālu		equal; 		0.568713
+innamir		appear; 		0.568654
+rahāṣu		flood; move; trample; trust; 		0.566553
+mēseru		confinement; 		0.566201
+mašādu		beat; 		0.566041
+ṭehû		approach; approaching; be(come) near; be(come) near to; coming near; near; 		0.565954
+Bit-abi-ilaya_P		 		0.564601
+gišparru		trap; 		0.563929
+qarnu		horn; 		0.563201
+nannāru		light of the sky; 		0.563135
+zakû		be(come) clear; clear; pure; 		0.561342
+gišimmaru		date palm; 		0.559991
+bibbulu		(day of the) New Moon; (day of the) new moon; day of moon's disappearance; flood; 		0.559774
+mašāʾu		rob; take away by force; 		0.559536
+kepû		bent back; curved; 		0.559532
+
+šutadduru	constantly terrified;
+idāti		ominous condition; 		0.685864
+lumnu		evil; 		0.684355
+upīšū		(magical) procedures; 		0.662219
+adru		afraid; dark; scared; threshing floor; 		0.659202
+upšaššû		(magical) procedure(s); 		0.657804
+ruhû		sorcery; 		0.657795
+ittāti		sign; 		0.655622
+šūnuhu		much troubled; 		0.654326
+palhu		fearful; fearful one; fearsome; fearsome one; 		0.652631
+rusû		dissolution?; sorcery; 		0.652394
+padû		spare; 		0.638712
+pārisu		one who decides; one who divides; 		0.635879
+ittu		peculiarity; sign; 		0.629382
+gimillu		favour; requital; 		0.613602
+kišpu		sorcery; 		0.611102
+šudlupu		sleepless; 		0.610616
+lemnu		bad; bad one; evil; evil one; 		0.606192
+Sarranu		 		0.604715
+pardu		afraid; frightened; terrifying; 		0.603646
+qutru		smoke; 		0.602474
+purussû		(legal) decision; decision; verdict; 		0.592418
+anhu		(meaning unknown); tired; tired one; 		0.589428
+urru		day; daytime; 		0.588635
+šerru		(young) child; 		0.588488
+dalīlu		(a type of frog)?; praise; 		0.582823
+nihistu		retreat; 		0.580881
+ištaru		goddess; 		0.580829
+DÙ.DÙ.BI		ritual (instructions); 		0.580622
+tēlītu		produce; revenue; 		0.578909
+nesû		be(come) distant; far; 		0.578728
+zumru		body; 		0.577243
+niziqtu		worry; 		0.576347
+iltānu		north; north wind; 		0.573386
+salmu		peaceful; 		0.569423
+epuštu		deed; 		0.56786
+šīmāti		destiny; fate; 		0.566139
+šipat		incantation; wording; 		0.56592
+iltāni		north; 		0.563712
+duppuru		move away; 		0.563316
+bibbulu		(day of the) New Moon; (day of the) new moon; day of moon's disappearance; flood; 		0.562762
+kaššaptu		sorceress; 		0.56116
+nūru		light; 		0.560721
+bêšu		go away; 		0.559835
+nissatu		wailing; 		0.558941
+Kayyamanu		Saturn; 		0.557314
+piššatu		oil allotment; ointment; 		0.557281
+bānītu		creator; 		0.557189
+ubāru		(resident) alien; 		0.556099
+kamāsu		gather in; kneel; squat; 		0.555888
+tānēhu		moaning; wailing; 		0.555641
+
+galātu	tremble;
+binītu		creation; 		0.700235
+ebēṭu		swell up; 		0.694348
+mâtu		die; 		0.675597
+kanānu		roll up; 		0.674511
+qablīti		middle watch; 		0.67434
+suhhuru		curved; curves; 		0.671637
+maqātu		fall; 		0.669163
+irrikū		be(come) long; 		0.667789
+ikkalāšu		hurt; 		0.663875
+rābiṣu		'lurker' demon; (an official representative of and commissioned by a higher authority); bailiff; lurker; 		0.661667
+bāštu		dignity; 		0.652205
+hūdu&&libbu		happiness&&interior; 		0.651662
+lānu		form; 		0.645093
+šamāmu		injure; 		0.640271
+raʾību		shivering; 		0.636626
+dipāru		torch; 		0.636174
+âru		go (up to); 		0.632678
+daʾmu		dark; 		0.630815
+kamāsu		gather in; kneel; squat; 		0.627802
+sakālu		acquire; balk; 		0.625931
+šasû		shout; 		0.625809
+attallê		eclipse; 		0.625634
+mūtu		death; 		0.623217
+ziqtu		sting; 		0.622995
+Nipur_P		 		0.620722
+nabāṭu		be(come) bright; 		0.617288
+marṣu		invalid; sick; sick one; 		0.617285
+ziʾpu		(a skin disease); mould; 		0.614601
+erpetu		cloud; 		0.61433
+šēpīšu		foot; 		0.614311
+hīpu		break; break(age); purified; 		0.612816
+qātīšu		hand; 		0.611627
+awīlu		man; 		0.611085
+rihṣu		destruction; devastation; flood(ing); 		0.609567
+zaqātu		sting; 		0.609412
+hammāʾu		rebel; 		0.608685
+ṭehû		approach; approaching; be(come) near; be(come) near to; coming near; near; 		0.607985
+mehṣu		blow; 		0.60798
+utukku		(an evil demon); 		0.607342
+ramānu		self; 		0.607113
+šunūl		buried; 		0.606559
+naṭālu		look; 		0.605414
+qurādu		hero; warrior; 		0.605284
+nasqu		chosen; chosen one; 		0.604939
+šēpu		foot; 		0.604711
+qalālu		be(come) light; 		0.603842
+dāmu		blood; 		0.603486
+puhpuhhû		quarrel; squabble; 		0.602325
+lābu		lion; 		0.60223
+mašālu		equal; 		0.601139
+
+gilittu	terror;
+pirittu		terror; 		0.932853
+ašuštu		affliction; 		0.745536
+qūlu		silence; 		0.696456
+adirtu		fear; gloominess; 		0.687336
+šatû		drink; knotted; 		0.674219
+māru&&bārû		son&&diviner; 		0.671772
+šupêlu		exchange; 		0.665142
+enû		change; changed; overturned; 		0.660244
+parādu		be(come) fearful; be(come) scared; separate oneself; 		0.657396
+labšu		clothed; 		0.653114
+ṣubātu		textile; 		0.652653
+mūšu		night; 		0.641612
+labû		howl; 		0.639593
+nuppuhu		swollen; 		0.63879
+illātu		saliva; 		0.635676
+hūṣu		pain; 		0.633972
+hātu		terror; the sign HAD₂; 		0.63005
+arurtu		famine; 		0.625072
+ašāšu		be(come) distressed; catch; encampment(?); 		0.622783
+aršu		dirty; 		0.616927
+mānahtu		weariness; 		0.610218
+akālu		eat; hurt; 		0.60977
+muṣlālu		siesta; siesta(-time); 		0.601442
+niziqtu		worry; 		0.599237
+kaṣû		be(come) cold; cold; 		0.596457
+nissatu		wailing; 		0.596285
+diliptu		sleeplessnes; sleeplessness; 		0.59422
+urru		day; daytime; 		0.593139
+ṣâdu		melt (down); prowl; 		0.590135
+nasāsu		lament; 		0.589057
+šatānu		urinate; 		0.587878
+maṣhatu		(a kind of flour); 		0.587342
+mihhu		(a type of beer); 		0.583389
+hīpu		break; break(age); purified; 		0.579461
+zenû		angry; be(come) angry; 		0.579198
+pû		chaff; mouth; 		0.575014
+labāṣu		(a disease demon); 		0.574735
+idirtu		misery; 		0.574181
+himtu		leather skin; 		0.571782
+eṣēlu		paralyse; 		0.567374
+kūnu		be(come) permanent; firm; firmness; 		0.564426
+uzzu		anger; 		0.560663
+kūru		depression; kiln; 		0.555704
+šittu		excrement; remnant; sleep; 		0.552648
+hayyattu		(pathological) terror; terror; 		0.551193
+šillatu		booty; impudence; 		0.550969
+ešītu		confusion; 		0.549398
+palāqu		slaughter; 		0.549379
+šaggāšu		murderer; 		0.546443
+pūṣu		whiteness; 		0.545224
+
+palāhu	be(come) afraid; fear;
+naquttu		critical situation; 		0.762562
+namurratu		awe-inspiring radiance; 		0.731957
+šâbu		tremble; 		0.726555
+supû		(meaning uncertain); prayer; 		0.722446
+sullû		appeal; impudence; pray to; 		0.714737
+suppû		pray; 		0.70488
+dekû		raise; raised; 		0.704442
+magāru		consent; 		0.703793
+nâhu		(meaning unknown); rest; 		0.702469
+ramānu		self; 		0.702229
+šamāru		gloat; gloat?; rage; 		0.702169
+puluhtu		awesomeness; fear(someness); 		0.698813
+wâru		approached; go (up to); 		0.694663
+karāšu		catastrophe; military camp; 		0.68505
+ṣullû		beseech; 		0.684339
+kizû		animal-trainer; 		0.682388
+qaštu		bow; 		0.676146
+rêmu		be merciful; be(come) merciful; 		0.672673
+adû		(treaty-)oath; 		0.672456
+abu		father; 		0.6724
+šapru		envoy; pledge; sent; 		0.667481
+šemû		accept (prayer); hear; heard; hearing; informed; 		0.667188
+qardu		hero; valiant; valiant one; 		0.665962
+šittu		excrement; remnant; sleep; 		0.664722
+awātu		word; 		0.664614
+ilu		god; 		0.663981
+qabû		said; say; speech; spoken; 		0.663791
+nagāšu		go to(wards); 		0.661394
+tēmīqu		(deep) prayer; well-conceived presentation of a case; 		0.660349
+ekēmu		remove; take away; 		0.659694
+šašmu		(single) combat; 		0.659337
+naʾādu		be(come) attentive; praise; 		0.659046
+puhru		assembly; gathered; 		0.658092
+kakku		stick; weapon; 		0.654897
+ṣābu		people; troops; 		0.65431
+šalāṭu		cut (into); rule; 		0.652519
+ezēbu		leave; 		0.652189
+wabālu		bring; carry; 		0.651052
+kuṣṣuru		thoroughly knotted; 		0.650423
+epištu		deed; 		0.650333
+šipṭu		judgement; thread; threat; 		0.649794
+šapāru		send; 		0.649212
+pālihu		guardian; one who reveres; reverent one; 		0.648516
+alkakātu		ways of life; 		0.648067
+dāṣtu		treachery; 		0.646917
+maqātu		fall; 		0.644556
+ezzu		furious; 		0.642832
+emūqu		strength; 		0.642701
+naṣru		guarded; guarded one; 		0.642175
+dibbu		words; 		0.641432
+
+palhu	fearful; fearful one; fearsome; fearsome one;
+ṣaddu		(wooden) signal; 		0.72342
+kamāsu		gather in; kneel; squat; 		0.709927
+anhu		(meaning unknown); tired; tired one; 		0.706668
+niqittu		anxiety; retaliation; 		0.701192
+makû		be(come) absent; destitute; want; 		0.697361
+lamādu		learn; 		0.689441
+šuttu		dream; 		0.689388
+qiāpu		(en)trust; trust; 		0.68819
+etku		alert; 		0.683166
+ištaru		goddess; 		0.672134
+puqqu		attentive; heed; pay attention to; 		0.66892
+awātu		word; 		0.665467
+putuqqu		constantly attentive; regularly attentive; 		0.660982
+naṣru		guarded; guarded one; 		0.658217
+šeʾû		seek; seek (out); 		0.653747
+šutadduru		constantly terrified; 		0.652631
+zinnātu		support; 		0.652017
+šumruṣu		very painful; 		0.650956
+mūdû		knower; knowing; 		0.647534
+qarābu		battle; 		0.644264
+kamsu		gathered; squatting; 		0.64288
+salmu		peaceful; 		0.640721
+diʾu		(a disease affecting the head); (a disease of the head); (deity's) throne-platform; 		0.637131
+šapāru		send; 		0.636711
+awû		speak; 		0.631155
+qâlu		pay attention; 		0.629502
+ṣullû		beseech; 		0.626775
+šūtuqu		surpassing; 		0.626593
+mušallimu		one that delivers safely; one who keeps safe; that delivers safely; 		0.625589
+ittu		peculiarity; sign; 		0.623416
+wašru		submissive; submissive one; 		0.623136
+salāmu		amity; be(come) at peace; be(come) at peace (with someone); 		0.622939
+ahītu		outside; side; 		0.622254
+naquttu		critical situation; 		0.622165
+šūnuhu		much troubled; 		0.622122
+pahru		gathered; 		0.621617
+ṭēmu		(fore)thought; report; 		0.6208
+puluhtu		awesomeness; fear(someness); 		0.619727
+wālidu		begetting; one who begets; 		0.619239
+kayyānu		constant; 		0.618696
+niklu		skill; 		0.617319
+bāšû		existing; 		0.616591
+palāhu		be(come) afraid; fear; 		0.616002
+nakādu		beat; 		0.614905
+dalpu		sleepless; 		0.614218
+šapru		envoy; pledge; sent; 		0.613832
+salīmu		peace; 		0.612099
+zenû		angry; be(come) angry; 		0.608781
+sissiktu		hem; 		0.608231
+rabûti		great; 		0.606723
+
+pulhu	fearsomeness; terror;
+melemmu		fearsome radiance; 		0.925558
+sahāpu		envelop; overwhelm; 		0.876689
+namurratu		awe-inspiring radiance; 		0.769411
+Gilzanayu_E		 		0.7661
+Hubuškayu_E		 		0.723051
+Halman_P		 		0.716508
+maddattu		payment; 		0.71576
+takālu		trust; 		0.712927
+Bit-Adini_E		 		0.695121
+Namri_P		 		0.681251
+puluhtu		awesomeness; fear(someness); 		0.679175
+Aribi_P		 		0.674874
+Idayu_E		 		0.673157
+Qarqar_P		 		0.673047
+namāšu		set (o.s.) in motion; set (oneself) in motion; set oneself in motion; 		0.670182
+gerru		way; 		0.667839
+Bit-Halupe_P		 		0.665516
+Gurgumayu_E		 		0.665376
+Temannayu_E		 		0.66482
+Urarṭayu_E		 		0.664168
+abātu		destroy; run away; 		0.64646
+Til-abnayu_E		 		0.646214
+dannūtu		strength; 		0.644225
+Suru_P		 		0.643539
+mundahṣu		fighting; fighting one; 		0.643226
+Patinayu_E		 		0.643225
+wašāru		sink down; 		0.641369
+tiāmtu		sea; 		0.639253
+akṣu		brazen; brazen one; 		0.639173
+nammušīšu		mobile; mobile one; 		0.637125
+bēlūtu		lordship; rule; 		0.634932
+Barayu_E		 		0.633654
+wardūtu		slavery; 		0.632781
+Ṣidunu_P		 		0.631378
+diāšu		tread down; 		0.629888
+hātu		terror; the sign HAD₂; 		0.629393
+ušmannu		(military) camp; camp; 		0.627581
+Hubuškaya_E		 		0.625871
+šarrūtu		kingship; 		0.624754
+Hanigalbat_P		 		0.623617
+sebû		seventh; 		0.623349
+dabdû		defeat; 		0.621819
+Arwadayu_E		 		0.621533
+nabalkutu		cross over; crossed over; having crossed over; 		0.61845
+Bit-Dakkuri_E		 		0.616494
+abšānu		yoke; 		0.615896
+šuribatu		terror?; 		0.615772
+Tarzi_P		 		0.615252
+ṣullû		beseech; 		0.61483
+Dagara_P		 		0.61401
+
+puluhtu	awesomeness; fear(someness);
+namurratu		awe-inspiring radiance; 		0.774525
+ṣullû		beseech; 		0.773167
+sahāpu		envelop; overwhelm; 		0.762895
+zaʾānu		be(come) adorned; 		0.759945
+melemmu		fearsome radiance; 		0.758194
+suppû		pray; 		0.746063
+hātu		terror; the sign HAD₂; 		0.745444
+naquttu		critical situation; 		0.739711
+edēqu		dress; 		0.726222
+qibītu		speech; 		0.724379
+šašmu		(single) combat; 		0.722865
+supû		(meaning uncertain); prayer; 		0.720823
+tāhāzu		battle; 		0.720638
+rēṣūtu		help; 		0.71978
+bēlūtu		lordship; rule; 		0.717188
+abātu		destroy; run away; 		0.714269
+epištu		deed; 		0.708235
+Elamu_E		 		0.705942
+wāšibu		inhabitant; sitting; 		0.702952
+palāhu		be(come) afraid; fear; 		0.698812
+šemû		accept (prayer); hear; heard; hearing; informed; 		0.697917
+šahātu		armpit; be(come) afraid; wash (off); 		0.697388
+tuqumtu		battle; 		0.695667
+tukultu		trust; 		0.695302
+šalummatu		radiance; 		0.692426
+šūtuqu		surpassing; 		0.688627
+takālu		trust; 		0.686744
+hassu		clever; 		0.685601
+dadmū		villages; 		0.684616
+Mempi_P		 		0.682052
+wâru		approached; go (up to); 		0.681943
+hurbāšu		frost; 		0.679556
+zikru		utterance; 		0.679427
+pulhu		fearsomeness; terror; 		0.679175
+ramānu		self; 		0.677886
+palāsu		look; look (at); look at; see; 		0.675043
+Elamtu_P		 		0.674196
+lēʾûtu		competence; 		0.671646
+akṣu		brazen; brazen one; 		0.671576
+gerru		way; 		0.669597
+tanittu		(hymn of) praise; praise; 		0.669275
+ahāzu		take; 		0.668829
+šarrūtu		kingship; 		0.668024
+simtu		appropriate symbol; 		0.667723
+šamāmū		heavens; 		0.665761
+ṭēmu		(fore)thought; report; 		0.664642
+šarāku		present; suppurate; 		0.663456
+apluhtu		armour; 		0.663207
+namrīru		awe-inspiring radiance; 		0.663181
+mithuṣūtu		battle; 		0.662385
+
+parādu	be(come) fearful; be(come) scared; separate oneself;
+nashu		deportee; torn; torn out; 		0.873111
+šupêlu		exchange; 		0.838661
+māru&&bārû		son&&diviner; 		0.833305
+enû		change; changed; overturned; 		0.807315
+labšu		clothed; 		0.736777
+aršu		dirty; 		0.716202
+kūnu		be(come) permanent; firm; firmness; 		0.70738
+bēru		distant; double hour; selected; unit; 		0.697821
+šâlu		ask; rejoice; 		0.673768
+gilittu		terror; 		0.657396
+šatû		drink; knotted; 		0.649085
+ilūtu		divinity; godhead; 		0.628182
+apālu		answer; pay; 		0.625622
+bēl-zakār-šumi		subject of the query; 		0.621288
+tamītu		oath; 		0.609878
+pirittu		terror; 		0.608984
+pû		chaff; mouth; 		0.597659
+annu		(word of) consent; 		0.590005
+kīnu		correct; permanent; permanent one; true; 		0.585438
+atāru		be(come) outsize; 		0.582717
+lāpitu		one who touches; 		0.571814
+mihhu		(a type of beer); 		0.571502
+sahru		turned; 		0.566807
+nahīru		nostril; 		0.563388
+Iškuzaya_E		 		0.562405
+rêqu		be distant; be(come) distant; withdraw; 		0.560317
+Til-Ašurri_P		 		0.558949
+ṣabtu		captive; captured; seized; 		0.557873
+šēmû		hearer; one who hears; 		0.554018
+bārû		diviner; 		0.55336
+sapādu		mourn; 		0.552254
+nesû		be(come) distant; far; 		0.551276
+qātāšu		hand; 		0.548415
+têrtu		instruction; 		0.544154
+pašṭu		erased; obliterated; 		0.542914
+quliptu		skin of scales; 		0.542505
+sissiktu		hem; 		0.541965
+šalmu		healthy; intact; intact one; 		0.540549
+Pitanu_P		 		0.538014
+bīru		divination; 		0.536609
+pušqu		distress; narrowness; 		0.536291
+kunnu		established; fixed; 		0.535421
+Mihranu_P		 		0.535347
+šēpāšu		foot; 		0.534033
+āmeru		one who sees; that sees; 		0.533869
+nasāku		throw (down); 		0.529839
+nuppuhu		swollen; 		0.52917
+qibītu		speech; 		0.528083
+haṣbu		broken off; pottery; 		0.52772
+rubātu		princess; queen; 		0.52717
+
+pardu	afraid; frightened; terrifying;
+ittu		peculiarity; sign; 		0.831773
+šuttu		dream; 		0.785413
+parsu		cut off; divided; divided one; 		0.757225
+lemnu		bad; bad one; evil; evil one; 		0.742869
+lumnu		evil; 		0.735553
+išdihu		profit(able business); 		0.729218
+ukkulu		darkened; very dark; 		0.727549
+idāti		ominous condition; 		0.726916
+ekēpu		come close; 		0.72325
+ittāti		sign; 		0.718626
+šāʾilu		asker; dream interpreter; 		0.690905
+bārû		diviner; 		0.689768
+bārûtu		lore of the diviner; work of the diviner; work, lore of the diviner; 		0.689012
+urru		day; daytime; 		0.675296
+karṣu		slander; 		0.673036
+dalhu		troubled; troubled one; 		0.671796
+ašqulālu		(a marine plant); (a weapon); whirlwind; 		0.664137
+purussû		(legal) decision; decision; verdict; 		0.660294
+ešû		confuse; confused; confusion; 		0.660078
+damqu		good; good one; 		0.658252
+murṣu		illness; 		0.657782
+ištaru		goddess; 		0.655037
+binītu		creation; 		0.653476
+ahû		fraternize; outside; outside(r); outsider; strange; 		0.64907
+nissatu		wailing; 		0.648033
+lupputu		tainted; 		0.64232
+mūdû		knower; knowing; 		0.639918
+zenû		angry; be(come) angry; 		0.634946
+kalāma		all (of it); everything; 		0.634219
+ušburrudû		ritual to dispel sorcery; 		0.633292
+upšaššû		(magical) procedure(s); 		0.632508
+zumru		body; 		0.630166
+šiknu		act of putting; act of putting/setting; setting; 		0.629399
+šāt-urri		(the watch) of dawn; 		0.628808
+ruhû		sorcery; 		0.628715
+egerrû		utterance; 		0.623781
+bāšû		existing; 		0.622231
+lubūšu		garment; 		0.621581
+nūru		light; 		0.62112
+nēpeštu		work(manship); workman(ship); 		0.620635
+ṣibittu		captivity; seizure; 		0.620359
+ipšu		deed; 		0.620258
+entu		high priestess; priestess; 		0.620105
+DÙ.DÙ.BI		ritual (instructions); 		0.61681
+mišittu		(medical) stroke; 		0.615755
+mūšu		night; 		0.615145
+ṣamāru		strive (for); wish; wish (for); 		0.613355
+epuštu		deed; 		0.613341
+barārītu		dusk; 		0.613311
+damāqu		be(come) good; 		0.612872
+
+pirittu	terror;
+gilittu		terror; 		0.932853
+ašuštu		affliction; 		0.761619
+adirtu		fear; gloominess; 		0.727047
+illātu		saliva; 		0.717814
+hūṣu		pain; 		0.697424
+ṣubātu		textile; 		0.691122
+šatû		drink; knotted; 		0.686278
+qūlu		silence; 		0.684911
+nissatu		wailing; 		0.679243
+labšu		clothed; 		0.67773
+enû		change; changed; overturned; 		0.670567
+ašāšu		be(come) distressed; catch; encampment(?); 		0.647822
+kūru		depression; kiln; 		0.64618
+māru&&bārû		son&&diviner; 		0.643524
+hātu		terror; the sign HAD₂; 		0.640201
+diliptu		sleeplessnes; sleeplessness; 		0.637984
+labû		howl; 		0.633771
+kaṣû		be(come) cold; cold; 		0.631128
+ebēṭu		swell up; 		0.627246
+ṣâdu		melt (down); prowl; 		0.623516
+šupêlu		exchange; 		0.622615
+nuppuhu		swollen; 		0.6185
+mihhu		(a type of beer); 		0.615435
+nasāsu		lament; 		0.614872
+arratu		curse; 		0.612099
+kaṣû		be(come) cold; 		0.611638
+aršu		dirty; 		0.611347
+billu		(a stone); (ad)mixture; 		0.610256
+parādu		be(come) fearful; be(come) scared; separate oneself; 		0.608984
+šatānu		urinate; 		0.608964
+mūšu		night; 		0.608617
+urru		day; daytime; 		0.604403
+pû		chaff; mouth; 		0.603405
+ruʾtu		saliva; spittle; 		0.598764
+šīru		flesh; ominous part; 		0.598521
+kūnu		be(come) permanent; firm; firmness; 		0.597383
+ebēbu		be(come) bright; 		0.596962
+našāku		bite; 		0.594896
+puhpuhhû		quarrel; squabble; 		0.59428
+niziqtu		worry; 		0.592399
+zenû		angry; be(come) angry; 		0.591547
+mānahtu		weariness; 		0.590065
+šaggāšu		murderer; 		0.588628
+miqtu&&šamê		fall&&heaven; 		0.582916
+eṣēlu		paralyse; 		0.580758
+lilītu		(a demon); (a storm demon); 		0.579057
+mešrêtu		limbs; 		0.578734
+labāṣu		(a disease demon); 		0.578163
+dabtu		a slab used in glass-making; 		0.576442
+kalbu		dog; 		0.573322
+
+šahātu	armpit; be(come) afraid; wash (off);
+šūnuhu		much troubled; 		0.73484
+lānu		form; 		0.722126
+katāmu		cover; 		0.702393
+puluhtu		awesomeness; fear(someness); 		0.697388
+ēpištu		she who acts; sorceress; work team; 		0.697167
+mû		water; 		0.693428
+dalālu		praise; 		0.69099
+muštēpištu		enchantress; sorceress; 		0.690506
+kaššaptu		sorceress; 		0.689699
+tû		incantation(-formula); 		0.682233
+lemnu		bad; bad one; evil; evil one; 		0.676789
+musâtu		(used) washing water; 		0.673496
+mašlu		equal; half; 		0.672494
+kaššāpu		sorcerer; sorceror; 		0.669584
+dalīlu		(a type of frog)?; praise; 		0.669508
+qibītu		speech; 		0.666167
+kullatu		clay pit; totality; 		0.665868
+ramāku		bathe; bathe oneself; 		0.665757
+zumru		body; 		0.664844
+kamāsu		gather in; kneel; squat; 		0.663469
+hayyattu		(pathological) terror; terror; 		0.659255
+KA.INIM.MA		wording of (label); 		0.65704
+nâhu		(meaning unknown); rest; 		0.65664
+tarāru		tremble; 		0.651991
+hiāru		choose; 		0.651926
+kišpu		sorcery; 		0.651693
+ipšu		deed; 		0.651405
+belû		be(come) extinguished; 		0.650949
+eʾiltu		bond; 		0.649321
+šumruṣu		very painful; 		0.648041
+naquttu		critical situation; 		0.647017
+ruhû		sorcery; 		0.646331
+epištu		deed; 		0.645579
+ṣalmu		black; black one; effigy; image; 		0.644121
+lemuttu		evil; 		0.642882
+ṣalālu		lie (down); 		0.639556
+anhu		(meaning unknown); tired; tired one; 		0.638573
+malû		abundance; be(come) full; full; matted (body) hair; matted hair; 		0.636836
+šiptu		incantation; 		0.635138
+habû		draw (water); 		0.634529
+narbû		greatness; 		0.634392
+našpartu		message; 		0.63414
+arnu		guilt; sin; 		0.633243
+mūšu		night; 		0.631693
+dipāru		torch; 		0.63037
+nâlu		lie down; lie down (to sleep); 		0.628591
+bāštu		dignity; 		0.627688
+šamāmu		injure; 		0.627628
+muhru		(an offering); 		0.626453
+šêtu		be remaining; be(come) remaining; 		0.622968
+
+šahtu	reverent; reverent one;
+naʾdu		attentive; praised; 		0.851909
+mušteʾʾû		one who keeps searching; repeatedly searching; repeatedly searching one; who visits assiduously; 		0.839679
+wašru		submissive; submissive one; 		0.83778
+narāmu		loved; loved one; 		0.834399
+migru		consent; 		0.816037
+kašūšu		(divine weapon); 		0.801815
+zāninu		providing; provisioner; 		0.799755
+mumtalku		counsellor; deliberate; deliberate one; 		0.794877
+mutnennû		one who prays much; pious; who prays much; 		0.777908
+nišītu		lifting; 		0.777787
+šurruhu		very proud; 		0.772955
+kibru		bank; riverbank; 		0.771321
+pālihu		guardian; one who reveres; reverent one; 		0.764213
+šakkanakku		(military) governor; 		0.763029
+putuqqu		constantly attentive; regularly attentive; 		0.760477
+terṣu		pointing; stretching out; 		0.75114
+muddišu		one who renews; restorer; 		0.747462
+Ninmena		 		0.747306
+iltu		chaff; goddess; 		0.741893
+šanānu		equal; rival; 		0.73939
+ešertu		chapel; group of ten; 		0.738526
+muṭibbu		one who pleases; one who satisfies; 		0.736245
+qardu		hero; valiant; valiant one; 		0.732722
+ušumgallu		great dragon; lion-dragon; 		0.728809
+Dagan		 		0.7282
+lābu		lion; 		0.725693
+muṭahhidu		one who brings abundance; one who enriches; 		0.719374
+ilittu		birth; 		0.716231
+watû		find; 		0.713687
+mušaklilu		completer; perfecter; 		0.711501
+zinnātu		support; 		0.708003
+itpēšu		expert; expert one; 		0.705096
+mubbibu		census official; one who keeps pure; one who purifies; 		0.704899
+Šumeru_P		 		0.700565
+kullatu		clay pit; totality; 		0.698595
+muttarrû		guide; 		0.697752
+šitrāhu		very proud; very proud one; 		0.695132
+Ezida_P		 		0.690608
+malku		prince; 		0.688927
+šarhu		proud; proud one; 		0.688478
+rēʾûtu		shepherdship; 		0.687913
+uršānu		warrior; 		0.687639
+rēʾû		shepherd; 		0.686465
+wālidu		begetting; one who begets; 		0.68556
+tizqāru		exalted; supreme; supreme one; 		0.684483
+Esagil_P		 		0.683489
+gašru		strong; strong one; very strong; very strong one; 		0.681595
+rāʾimu		loving; one who loves; 		0.679828
+šūturu		very great; 		0.677528
+šurbû		very great; very great one; 		0.674685
+

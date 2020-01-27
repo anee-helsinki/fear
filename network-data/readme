@@ -1,8 +1,8 @@
 FastText_networks.gephi and PMI_networks.gephi
 Gephi project files containing the networks created with fastText and PMI
 
-level1_PMI_50_lazyfilter_onlyFear.csv, level2_PMI_50_lazyfilter_onlyFear.csv
+level1_PMI_50_lazyfilter_gephi.csv, level2_PMI_50_lazyfilter_gephi.csv
 Raw PMI data used for creating the graphs
 
-fastText_level1_50_onlyFear.txt, fastText_level2_50_onlyFear.txt
+fastText_level1_50.txt, fastText_level2_50.txt
 Raw fastText data used for creating the graphs

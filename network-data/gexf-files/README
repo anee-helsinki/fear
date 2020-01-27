@@ -8,7 +8,7 @@ FastText:
 The cosine distance value supplied by fastText * 10.
 
 PMI:
-Score_trimmed value + 0.001 * 1000. The 0.001 was added to all values in order to prevent value 0 which is ignored by Gephi.
+(Score_trimmed value + 0.001) * 1000. The 0.001 was added to all values in order to prevent value 0 which is ignored by Gephi.
 
 All the nodes have an attribute called ‘size’ which is set to 1.0 for all the emotion words under scrutiny and to 0.0 for all other words.
 

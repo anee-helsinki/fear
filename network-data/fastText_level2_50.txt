@@ -1,0 +1,728 @@
+râmu_1 love
+migru_1	consent 	0.827069
+ilu_1	god 	0.794596
+epištu_1	deed 	0.79295
+kittu_1	steadiness 	0.787493
+palāsu_1	look 	0.782627
+qibītu_1	speech 	0.7788
+šangûtu_1	priest 	0.778759
+hīrtu_1	equal ranking wife 	0.77739
+Dagan	equal ranking wife 	0.775575
+maštaku_1	chamber 	0.763508
+Zarpanitu	chamber 	0.763273
+mīšaru_1	justice 	0.760734
+šahātu_2	be afraid 	0.760678
+iltu_1	goddess 	0.760648
+bēltu_1	lady 	0.75942
+hašāhu_1	need 	0.758878
+damqu_1	good 	0.757684
+pālihu_1	who reveres 	0.755872
+qardu_1	valiant 	0.754955
+eṭlu_1	manly 	0.749635
+naʾdu_1	attentive 	0.744818
+nāṣiru_1	guard 	0.74456
+šiāmu_1	fix 	0.74372
+gašru_1	strong 	0.741474
+ṣīru_1	exalted 	0.738501
+šarratu_1	queen 	0.734898
+mušteʾʾû_1	who keeps searching 	0.727551
+šūturu_1	very great 	0.724615
+hišihtu_1	requirement 	0.724042
+itpēšu_1	expert 	0.723805
+mutnennû_1	pious 	0.721685
+mušallimu_1	that delivers safely 	0.720853
+mahru_1	front 	0.713204
+sullû_1	appeal 	0.713013
+ešertu_1	chapel 	0.711465
+rašubbu_1	awesome 	0.711067
+šīmtu_1	fate 	0.710251
+awātu_1	word 	0.709563
+Annunitu	word 	0.708238
+šeʾû_1	seek 	0.706335
+āliku_1	goer 	0.706067
+wašru_1	submissive 	0.705703
+etellu_1	lord 	0.704288
+ūsu_2	straight path 	0.702174
+zakāru_1	speak 	0.70189
+šarāku_1	present 	0.701196
+naʾādu_1	attentive 	0.699078
+tizqāru_1	exalted 	0.698538
+agāgu_1	be furious 	0.696708
+hāwiru_1	husband 	0.69595
+
+adāru_2 be afraid
+ezēzu_1	be angry 	0.798462
+tuqumtu_1	battle 	0.775068
+šuttinnu_1	bat 	0.753013
+išû_1	have 	0.745814
+palāhu_1	afraid 	0.74462
+māhiru_1	opponent 	0.742384
+rēṣūtu_1	help 	0.741678
+tāhāzu_1	battle 	0.731986
+maqātu_1	fall 	0.730461
+tību_1	attack 	0.726502
+tarbuʾtu_1	dust 	0.717083
+malû_1	full 	0.71566
+šamāru_1	rage 	0.709659
+šadû_1	mountain 	0.70939
+šalummatu_1	radiance 	0.707455
+galātu_1	tremble 	0.699983
+wašṭu_1	obdurate 	0.696882
+anantu_1	battle 	0.694162
+ṣimittu_1	binding 	0.693099
+ahītu_1	side 	0.692661
+lābu_1	lion 	0.692199
+mūtu_1	death 	0.692084
+alāku_1	go 	0.691762
+supû_1	prayer 	0.688501
+gapšu_1	arisen 	0.688044
+urru_1	day 	0.685443
+hātu_1	terror 	0.685318
+kakku_1	stick 	0.684673
+šēpu_1	foot 	0.684128
+šarhu_1	proud 	0.683346
+ummānu_1	military force 	0.683014
+kibru_1	bank 	0.682475
+ṣāltu_1	combat 	0.680617
+sipittu_1	mourning rites 	0.679002
+malku_1	prince 	0.678321
+huliam_1	helmet 	0.677459
+namurratu_1	aweinspiring radiance 	0.67622
+ezēbu_1	leave 	0.676064
+dadmū_1	villages 	0.674566
+abūbu_1	flood 	0.674508
+bâʾu_1	go along 	0.674243
+šapṣu_1	recalcitrant 	0.672426
+pašqu_1	narrow 	0.669416
+sahāpu_1	envelop 	0.668001
+lemnu_1	bad 	0.665124
+qibītu_1	speech 	0.664109
+sariyam_1	coat of armour 	0.662792
+imtu_1	poison 	0.66183
+marṣu_1	sick 	0.660882
+šāninu_1	rival 	0.660498
+
+galātu_1 tremble
+parādu_1	be scared 	0.813584
+šupêlu_1	exchange 	0.728184
+labšu_1	clothed 	0.719464
+enû_1	change 	0.706181
+urru_1	day 	0.704973
+adāru_2	be afraid 	0.699983
+māru&&bārû_1	sondiviner 	0.697035
+akālu_1	eat 	0.685767
+šatû_1	drink 	0.679494
+ašuštu_1	affliction 	0.669427
+arurtu_1	famine 	0.668454
+šahātu_1	armpit 	0.667574
+tarbuʾtu_1	dust 	0.665664
+maqātu_1	fall 	0.664405
+muštahmiṭu_1	blazing 	0.658054
+hātu_1	terror 	0.654965
+mūšu_1	night 	0.653495
+šittu_1	sleep 	0.652474
+kūnu_1	firm 	0.651263
+hīpu_2	break 	0.651176
+qātu_1	hand 	0.65076
+amāru_1	appear 	0.650024
+ramāku_1	bathe 	0.64996
+ṣamādu_1	tie up 	0.648208
+puhpuhhû_1	squabble 	0.647497
+našpartu_1	message 	0.645299
+lišānu_1	tongue 	0.644965
+aršu_1	dirty 	0.643973
+ṣubātu_1	textile 	0.643391
+zumru_1	body 	0.641681
+wašṭu_1	obdurate 	0.640346
+ṣāltu_1	combat 	0.638423
+Badnigerimhuluha_1	Badnigerimhuluha 	0.636137
+lūtu_1	debility 	0.635988
+qūlu_1	silence 	0.635434
+hūṣu_1	pain 	0.635244
+pû_1	mouth 	0.630642
+šaptu_1	lip 	0.629717
+abūbu_1	flood 	0.629238
+diliptu_1	sleeplessnes 	0.627815
+naṣmadu_1	harness 	0.627425
+malû_1	full 	0.627422
+ezēzu_1	be angry 	0.625993
+lābu_1	lion 	0.624597
+nissatu_1	wailing 	0.619359
+ašāšu_1	distressed 	0.618268
+ṣâdu_1	prowl 	0.614618
+erēbu_1	enter 	0.614545
+kabāsu_1	tread 	0.613768
+mayyālu_1	bed 	0.61364
+
+palāhu_1 afraid
+namurratu_1	aweinspiring radiance 	0.850319
+melemmu_1	fearsome radiance 	0.829725
+naquttu_1	critical situation 	0.792403
+sahāpu_1	envelop 	0.79105
+ezēzu_1	be angry 	0.779178
+hurbāšu_1	frost 	0.759871
+qibītu_1	speech 	0.747604
+adāru_2	be afraid 	0.74462
+hātu_1	terror 	0.742867
+suppû_1	pray 	0.741101
+dekû_1	raise 	0.739822
+wâru_1	go up to 	0.732031
+nâhu_1	rest 	0.730634
+ramānu_1	self 	0.727887
+supû_1	prayer 	0.72159
+rêmu_1	merciful 	0.721281
+raʾābu_1	shake from anger 	0.714767
+bēlu_1	lord 	0.710905
+bēlūtu_1	lordship 	0.706108
+agāgu_1	be furious 	0.704102
+ṣullû_1	beseech 	0.703984
+qardūtu_1	heroism 	0.70343
+lābu_1	lion 	0.697806
+kalû_3	hold back 	0.697651
+awātu_1	word 	0.695962
+šemû_1	hear 	0.695168
+rēṣūtu_1	help 	0.694502
+pālihu_1	who reveres 	0.693055
+šaptu_1	lip 	0.692996
+epištu_1	deed 	0.691167
+magāru_1	consent 	0.689547
+hamuttu_1	haste 	0.687758
+ālu_1	city 	0.68407
+takālu_1	trust 	0.683572
+taklu_1	reliable 	0.682026
+tukultu_1	trust 	0.679064
+sullû_1	appeal 	0.67773
+erhu_1	aggressive 	0.677636
+šēpu_1	foot 	0.677109
+šašmu_1	single combat 	0.675982
+rakbû_1	messenger 	0.675171
+nagāšu_1	go towards 	0.673257
+šurruhu_1	very proud 	0.67224
+tuqumtu_1	battle 	0.671259
+wašru_1	submissive 	0.670241
+puhru_1	assembly 	0.669322
+ilu_1	god 	0.667007
+wardūtu_1	slavery 	0.666788
+alāku_1	go 	0.666605
+maqātu_1	fall 	0.666522
+
+parādu_1 be scared
+šupêlu_1	exchange 	0.884091
+māru&&bārû_1	sondiviner 	0.830949
+enû_1	change 	0.819998
+galātu_1	tremble 	0.813584
+nashu_1	torn 	0.757151
+bēru_2	distant 	0.747863
+labšu_1	clothed 	0.747718
+aršu_1	dirty 	0.741499
+kūnu_1	firm 	0.739819
+tamītu_1	oath 	0.669842
+šuttu_1	dream 	0.663701
+šatû_1	drink 	0.66339
+akālu_1	eat 	0.653761
+šâlu_1	ask 	0.650399
+ṣubātu_1	textile 	0.649734
+kirbānu_1	lump 	0.62789
+karṣu_1	slander 	0.62722
+pû_1	mouth 	0.626125
+ilūtu_1	divinity 	0.62463
+nuppuhu_1	swollen 	0.622339
+apālu_1	pay 	0.622026
+lemnu_1	bad 	0.621829
+urru_1	day 	0.61975
+nasāsu_1	lament 	0.619185
+kabāsu_1	tread 	0.618831
+kibrītu_1	sulphur 	0.616427
+Iškuzaya_E	sulphur 	0.616078
+mihhu_1	beer 	0.615889
+ašuštu_1	affliction 	0.610392
+qūlu_1	silence 	0.60494
+annu_1	word of consent 	0.604215
+kīnu_1	correct 	0.599621
+bārû_1	diviner 	0.597394
+supû_1	prayer 	0.593426
+hašuttu_1	plant 	0.592017
+atāru_1	outsize 	0.590917
+bēl-zakār-šumi_1	subject of query 	0.590371
+zumru_1	body 	0.58833
+nahšu_1	thriving 	0.587193
+illātu_1	saliva 	0.586177
+lilītu_1	demon 	0.584328
+naharmuṭu_1	dissolve 	0.583683
+rêqu_1	distant 	0.58213
+haṭû_1	do wrong 	0.580651
+šīru_1	flesh 	0.580352
+nīšu_1	lifting 	0.580295
+ištaru_1	goddess 	0.580252
+tappû_1	companion 	0.580055
+ahītu_1	side 	0.579794
+diliptu_1	sleeplessnes 	0.578894
+
+šahātu_2 be afraid
+mušteʾʾû_1	who keeps searching 	0.805067
+migru_1	consent 	0.788946
+kullatu_1	totality 	0.775719
+zāninu_1	provisioner 	0.770881
+râmu_1	love 	0.760678
+naʾdu_1	attentive 	0.758981
+ešertu_1	chapel 	0.751975
+malku_1	prince 	0.751183
+wašru_1	submissive 	0.750973
+kibru_1	bank 	0.736375
+terṣu_1	pointing 	0.736373
+kanšu_1	submissive 	0.731899
+Dagan	submissive 	0.730986
+qibītu_1	speech 	0.728991
+tukultu_1	trust 	0.72679
+pālihu_1	who reveres 	0.725829
+nišītu_1	lifting 	0.725664
+mutnennû_1	pious 	0.725257
+ilu_1	god 	0.723681
+šanānu_2	rival 	0.723151
+rēštû_1	first 	0.721635
+qurdu_1	warriorhood 	0.72024
+wāšibu_1	inhabitant 	0.719058
+šašmu_1	single combat 	0.714555
+sapānu_1	flatten 	0.710311
+epištu_1	deed 	0.709538
+mumtalku_2	deliberate 	0.704518
+lābu_1	lion 	0.702446
+putuqqu_1	constantly attentive 	0.702171
+Enlil	constantly attentive 	0.701764
+qardu_1	valiant 	0.698797
+zikru_1	utterance 	0.695017
+šanānu_1	equal 	0.694535
+šarratu_1	queen 	0.69423
+šakkanakku_1	military governor 	0.69339
+nibītu_1	naming 	0.69326
+qarrādu_2	warlike 	0.693238
+gašru_1	strong 	0.693078
+itpēšu_1	expert 	0.692312
+nawû_2	turn into desert 	0.692073
+Ebabbar_P	turn into desert 	0.691554
+nakādu_1	beat 	0.690843
+lalû_1	plenty 	0.690102
+māhāzu_1	shrine 	0.689777
+šūturu_1	very great 	0.689489
+šurruhu_1	very proud 	0.685357
+wâru_1	go up to 	0.681865
+muddišu_1	restorer 	0.681075
+alkakātu_1	ways of life 	0.680891
+šurbû_1	very great 	0.678732
+
+agāgu_1 be furious
+nâhu_1	rest 	0.782195
+kabattu_1	liver 	0.756508
+ezēzu_1	be angry 	0.732067
+epištu_1	deed 	0.728862
+pašāhu_2	at rest 	0.725471
+šanû_3	do twice 	0.72427
+ištaru_1	goddess 	0.723122
+hurbāšu_1	frost 	0.705018
+palāhu_1	afraid 	0.704102
+salāmu_1	at peace 	0.701462
+kapādu_1	plan 	0.698829
+ṣāltu_1	combat 	0.698798
+râmu_1	love 	0.696708
+hātu_1	terror 	0.695752
+zaʾānu_1	adorned 	0.683773
+biblu_1	bringing 	0.680785
+lemuttu_1	evil 	0.678681
+qibītu_1	speech 	0.678143
+rēṣūtu_1	help 	0.677405
+dekû_1	raise 	0.673541
+supû_1	prayer 	0.673514
+elēṣu_1	swell 	0.669572
+awātu_1	word 	0.667468
+suppû_1	pray 	0.665757
+zinnātu_1	support 	0.665063
+wâru_1	go up to 	0.657906
+namûtu_1	desolation 	0.657502
+allāku_1	traveller 	0.657266
+ilu_1	god 	0.655189
+arāhu_2	hasten 	0.655169
+isinnu_1	festival 	0.653469
+mêšu_1	disregard 	0.652818
+šukuttu_1	adornment 	0.650665
+šērtu_1	guilt 	0.649406
+Elunu_1	Elunu 	0.649275
+hamṭu_1	quick 	0.649271
+pašāhu_1	cool down 	0.648811
+imtu_1	poison 	0.646729
+šebēru_1	break 	0.646495
+zāʾeru_1	enemy 	0.646294
+sapānu_1	flatten 	0.645504
+tāhāzu_1	battle 	0.645305
+mašû_1	forget 	0.645002
+muṭibbu_1	who pleases 	0.644183
+rêmu_1	merciful 	0.643814
+sullû_1	appeal 	0.643704
+ittu_2	peculiarity 	0.643137
+zummû_1	deprived 	0.641781
+tibûtu_2	levy 	0.638932
+arratu_1	curse 	0.638506
+
+ezēzu_1 be angry
+šamāru_1	rage 	0.884948
+tuqumtu_1	battle 	0.80556
+adāru_2	be afraid 	0.798461
+nêʾu_1	turn back 	0.798345
+gašru_1	strong 	0.797868
+tāhāzu_1	battle 	0.790931
+kakku_1	stick 	0.789063
+qardūtu_1	heroism 	0.787101
+namurratu_1	aweinspiring radiance 	0.781671
+qablu_2	battle 	0.780481
+palāhu_1	afraid 	0.779178
+qurādu_1	hero 	0.777108
+tību_1	attack 	0.775617
+rēṣūtu_1	help 	0.774436
+wašṭu_1	obdurate 	0.766631
+hurbāšu_1	frost 	0.763268
+qardu_1	valiant 	0.762666
+qibītu_1	speech 	0.761969
+abūbu_1	flood 	0.760001
+mehû_1	storm 	0.759196
+lābu_1	lion 	0.751851
+imtu_1	poison 	0.747801
+qarrādu_2	warlike 	0.745433
+hâlu_1	melt away 	0.744664
+nâhu_1	rest 	0.742521
+šāru_1	wind 	0.741531
+kibru_1	bank 	0.739292
+pādû_1	forgiving 	0.738221
+šarhu_1	proud 	0.738198
+nablu_1	flash of fire 	0.73686
+māgiru_1	submissive 	0.736814
+ūmu_2	stormdemon 	0.734552
+maqātu_1	fall 	0.733669
+ayyābu_1	enemy 	0.733052
+mulmullu_1	arrow 	0.732814
+agāgu_1	be furious 	0.732067
+ziāqu_1	blow 	0.731531
+šašmu_1	single combat 	0.730328
+ummānu_1	military force 	0.72863
+hamāṭu_2	burn up 	0.728424
+muštarhu_1	presumptuous 	0.725237
+ilu_1	god 	0.724943
+kamû_1	bind 	0.724522
+huršānu_1	mountain 	0.7233
+tubqu_1	corner 	0.722979
+mušamqitu_1	who overthrows 	0.722379
+kaškaššu_1	allpowerful 	0.722055
+erhu_1	aggressive 	0.721772
+sapānu_1	flatten 	0.720853
+dadmū_1	villages 	0.719559
+
+kamālu_1 be angry
+pašāru_1	release 	0.75514
+aqāru_1	rare 	0.750382
+ištaru_1	goddess 	0.746566
+kadru_1	rearing up 	0.743764
+išdihu_1	profitable business 	0.739552
+rašû_1	acquire 	0.736095
+išallim_1	favourable 	0.735056
+ekēpu_1	come close 	0.72503
+zenû_1	be angry 	0.72243
+salāmu_1	at peace 	0.718396
+ilī_1	god 	0.717148
+lumnu_1	evil 	0.715775
+eʾiltu_1	bond 	0.710743
+šērtu_1	guilt 	0.705776
+namerimburrudû_1	ritual to remove curse 	0.703806
+ūdu_1	distress 	0.702534
+wardatu&&lilî_1	girla demon 	0.70019
+niziqtu_1	worry 	0.69903
+warkatu_1	rear 	0.696021
+šabāsu_1	be angry 	0.693797
+magru_1	agreed 	0.692756
+lupputu_1	tainted 	0.691365
+ittu_1	sign 	0.689395
+mâtu_1	die 	0.688498
+murṣu_1	illness 	0.686715
+rabûti_1	great 	0.68612
+zīru_1	hate 	0.68508
+miqtu&&šamû_1	fallheaven 	0.683598
+mītu_1	dead 	0.683082
+ṭehû_2	approach 	0.681868
+nadnu_1	given 	0.68175
+gamālu_1	do favour 	0.681433
+bibbulu_2	day of New Moon 	0.681083
+mātāti_1	land 	0.680353
+ebēbu_1	bright 	0.680036
+diʾu_1	disease affecting head 	0.678259
+mâdu_1	many 	0.678064
+damiqtu_1	good 	0.677884
+pušqu_2	narrowness 	0.677493
+muballiṭu_1	who keeps alive 	0.67234
+šunūl_1	buried 	0.670283
+kaspi_1	silver 	0.669336
+kikiṭṭû_1	ritual procedures 	0.669154
+mūtu_1	death 	0.668367
+pašhu_1	resting 	0.667653
+šabalbalû_1	psychological confusion 	0.667642
+epuštu_1	deed 	0.665972
+namburbû_1	apotropaic ritual 	0.664297
+hūdu&&libbu_1	happinessinterior 	0.664127
+awīlu_1	man 	0.66376
+
+labābu_1 rage
+dapīnu_1	overbearing 	0.771011
+ilittu_1	birth 	0.753511
+munehhu_1	who repulses 	0.738179
+dandannu_1	allpowerful 	0.734962
+uʾʾurtu_1	commission 	0.732021
+tuqumtu_1	battle 	0.725285
+mūdû_1	knower 	0.723524
+Utulu	knower 	0.717067
+ṣerretu_1	noserope 	0.71642
+gāmilu_1	merciful 	0.711943
+Nudimmud	merciful 	0.711691
+kamû_1	bind 	0.710581
+tappû_1	companion 	0.710195
+nūru_1	light 	0.709164
+iltu_1	goddess 	0.702053
+Gilgameš	goddess 	0.701173
+gašru_1	strong 	0.698767
+anuntu_1	fight 	0.698529
+šarhu_1	proud 	0.698405
+Tiamat	proud 	0.698334
+gummuru_1	complete 	0.698316
+eddēšû_1	constantly selfrenewing 	0.692973
+šuškallu_1	battlenet 	0.692277
+ekletu_1	darkness 	0.691585
+sapāru_1	deitys net 	0.687991
+lābu_1	lion 	0.687958
+rubātu_1	princess 	0.685816
+šitrāhu_1	very proud 	0.685602
+šamāmū_1	heavens 	0.685106
+imhullu_1	destructive wind 	0.684956
+munawwiru_1	brightening 	0.683868
+abbūtu_1	fatherhood 	0.683402
+rasābu_1	smite 	0.681117
+ūdu_1	distress 	0.679032
+Igigi	distress 	0.677572
+kalû_4	held back 	0.674684
+Ekur_P	held back 	0.674568
+Humbaba	held back 	0.674132
+nêʾu_1	turn back 	0.672181
+hāmimu_2	grain gatherer 	0.67191
+šašmu_1	single combat 	0.671903
+lemnu_1	bad 	0.670747
+muhalliqu_1	who destroys 	0.668892
+nâlu_1	lie down 	0.668126
+akāšu_1	go 	0.666466
+Anunnaki	go 	0.663875
+edēqu_1	dress 	0.663086
+gallû_1	demon 	0.662042
+rūʾu_1	colleague 	0.66204
+massû_1	leader 	0.661254
+
+raʾābu_1 shake from anger
+qâlu_1	pay attention 	0.768434
+nanduru_1	very wild 	0.723989
+qarāru_1	writhe 	0.722365
+qarrādu_1	hero 	0.719238
+palāhu_1	afraid 	0.714767
+kamû_1	bind 	0.711591
+ezēzu_1	be angry 	0.708405
+šasû_1	shout 	0.70761
+uššušu_1	very distressed 	0.694524
+šuharruru_1	deathly still 	0.691461
+awātu_1	word 	0.685542
+kalû_3	hold back 	0.684461
+šipṭu_1	judgement 	0.679066
+marṣu_1	sick 	0.677548
+naʾāru_1	roar 	0.677062
+ašāšu_1	distressed 	0.676751
+nazāru_1	curse 	0.676119
+lābu_1	lion 	0.674121
+magāgu_1	spread 	0.668304
+labû_1	howl 	0.666608
+nagāšu_1	go towards 	0.666333
+apluhtu_1	armour 	0.664682
+šūnuhu_1	much troubled 	0.664138
+simmu_1	wound 	0.659732
+wadû_1	know 	0.658144
+nâhu_1	rest 	0.655788
+Anzu	rest 	0.655414
+rêmu_1	merciful 	0.652891
+dandannu_1	allpowerful 	0.650528
+tuqumtu_1	battle 	0.645961
+zību_1	vulture 	0.64487
+šurānu_1	cat 	0.644104
+šumruṣu_1	very painful 	0.643783
+ušultu_1	vein 	0.642939
+maruṣtu_1	evil 	0.639547
+namurratu_1	aweinspiring radiance 	0.639355
+muqqu_1	weakened 	0.637551
+bēlu_1	lord 	0.636647
+ṣâlu_1	fight 	0.636535
+pašāhu_1	cool down 	0.636397
+kāmû_1	conqueror 	0.636381
+anantu_1	battle 	0.635621
+zêru_1	hate 	0.633876
+ubāru_1	resident alien 	0.633436
+talālu_1	stretch 	0.633144
+nêʾu_1	turn back 	0.632834
+gerû_1	hostile 	0.632287
+ellilūtu_1	power of Ellil 	0.631264
+dâlu_1	move 	0.631109
+gallû_1	demon 	0.630911
+
+šabāsu_1 be angry
+ištaru_1	goddess 	0.877384
+zenû_1	be angry 	0.823379
+maruṣtu_1	evil 	0.749436
+šeʾû_1	seek 	0.730979
+ennettu_1	sin 	0.721316
+salāmu_1	at peace 	0.715568
+enēnu_1	punish 	0.707562
+teslītu_1	appeal 	0.703143
+šemû_1	hear 	0.700557
+ešertu_1	chapel 	0.699545
+dikuggallu_1	chief justice 	0.694189
+kamāsu_1	kneel 	0.694125
+kamālu_1	be angry 	0.693798
+āmeru_1	that sees 	0.692477
+kayyānu_1	constant 	0.692284
+mêšu_1	disregard 	0.683808
+ilu_1	god 	0.682462
+awātu_1	word 	0.676948
+supû_1	prayer 	0.676664
+kabattu_1	liver 	0.673349
+ešītu_1	confusion 	0.671315
+Eber-nari_P	confusion 	0.669943
+lemnu_1	bad 	0.669362
+pušqu_2	narrowness 	0.66925
+ewû_1	be 	0.667973
+qibītu_1	speech 	0.665843
+ašāru_2	sink down 	0.665805
+hātu_1	terror 	0.663278
+lemuttu_1	evil 	0.66302
+ekēpu_1	come close 	0.662077
+šunzuru_1	made detestable 	0.661795
+šāʾilu_2	dream interpreter 	0.660255
+rašû_1	acquire 	0.660201
+lupputu_1	tainted 	0.659957
+rêmu_1	merciful 	0.659208
+anhu_1	tired 	0.65865
+naʾādu_1	attentive 	0.65767
+diliptu_1	sleeplessnes 	0.657591
+nakādu_1	beat 	0.656183
+nindabû_1	food offering 	0.656028
+šēmû_1	hearer 	0.654899
+arratu_1	curse 	0.654011
+tēmīqu_2	wellconceived presentation of case 	0.654001
+ikribu_1	prayer 	0.653352
+šanû_3	do twice 	0.652094
+utnēnu_1	pray 	0.650234
+šulû_1	street 	0.648374
+rēmēnû_1	merciful 	0.644696
+nissatu_1	wailing 	0.642289
+purussû_1	decision 	0.641736
+
+šamāru_1 rage
+ezēzu_1	be angry 	0.884948
+tuqumtu_1	battle 	0.802921
+qablu_2	battle 	0.796147
+tāhāzu_1	battle 	0.78905
+qurādu_1	hero 	0.787164
+gašru_1	strong 	0.775069
+tību_1	attack 	0.768431
+abūbu_1	flood 	0.754413
+dadmū_1	villages 	0.74496
+ālilu_1	brave 	0.741316
+parāru_2	break up 	0.740967
+agû_1	wave 	0.735849
+kakku_1	stick 	0.735424
+wašṭu_1	obdurate 	0.734929
+nêʾu_1	turn back 	0.730182
+gapšu_1	arisen 	0.729923
+uršānu_1	warrior 	0.728367
+gipšu_1	uprising 	0.726473
+gallu_1	rolling 	0.718862
+emūqu_1	strength 	0.718224
+qarrādu_2	warlike 	0.713844
+kaškaššu_1	allpowerful 	0.712749
+mehû_1	storm 	0.712677
+rēṣūtu_1	help 	0.711055
+adāru_2	be afraid 	0.709659
+illatu_1	band 	0.705463
+namurratu_1	aweinspiring radiance 	0.701698
+pašāqu_1	narrow 	0.701454
+šāgišu_1	murderer 	0.700995
+ummānu_1	military force 	0.700632
+šāru_1	wind 	0.698055
+narkabtu_1	chariot 	0.696484
+abiktu_1	defeat 	0.696112
+šitmuru_1	very wild 	0.694487
+kibru_1	bank 	0.69123
+qardūtu_1	heroism 	0.689263
+mulmullu_1	arrow 	0.688685
+muštarhu_1	presumptuous 	0.687591
+šākinu_1	who places 	0.685975
+rukūbu_1	vehicle 	0.684329
+šarhu_1	proud 	0.684272
+dabdû_1	defeat 	0.683953
+šuttinnu_1	bat 	0.683784
+Tiamat	bat 	0.683629
+huršānu_1	mountain 	0.679915
+nakru_2	enemy 	0.679673
+mušamqitu_1	who overthrows 	0.679189
+šašmu_1	single combat 	0.678734
+qibītu_1	speech 	0.678429
+kamû_1	bind 	0.678251
+
+zenû_1 be angry
+salāmu_1	at peace 	0.851131
+ištaru_1	goddess 	0.82551
+šabāsu_1	be angry 	0.823379
+tazzimtu_1	complaint 	0.78599
+lumnu_1	evil 	0.744128
+lummunu_1	very bad 	0.724737
+kamālu_1	be angry 	0.72243
+ebēbu_1	bright 	0.722359
+dābibu_1	legal advocate 	0.719288
+išdihu_1	profitable business 	0.702736
+diliptu_1	sleeplessnes 	0.701101
+hūṣu_1	pain 	0.699028
+nindabû_1	food offering 	0.699009
+rašû_1	acquire 	0.698714
+raqqu_1	thin 	0.695774
+ekēpu_1	come close 	0.695524
+sahru_1	turned 	0.692796
+ešertu_1	chapel 	0.689425
+ṭehû_1	near 	0.687593
+damiqtu_1	good 	0.687211
+lapānu_1	poor 	0.686658
+lupputu_1	tainted 	0.684697
+ennettu_1	sin 	0.683384
+nazāqu_1	creak 	0.683128
+ṣerru_1	snake 	0.681158
+ittāti_1	sign 	0.678809
+pušqu_2	narrowness 	0.678162
+ṣētu_1	light 	0.67755
+šunzuru_1	made detestable 	0.675891
+ittu_1	sign 	0.675637
+idāti_1	ominous condition 	0.670727
+ittu_2	peculiarity 	0.670461
+lemuttu_1	evil 	0.668769
+urru_1	day 	0.668527
+lemnu_1	bad 	0.66794
+ukkulu_1	very dark 	0.666615
+nadnu_1	given 	0.662983
+ašuštu_1	affliction 	0.66177
+dalhu_1	troubled 	0.660871
+nulliātu_1	maliciousness 	0.659471
+sullû_1	appeal 	0.658493
+sissiktu_1	hem 	0.656888
+nissatu_1	wailing 	0.656274
+lumnu&&libbu_1	evilinterior 	0.652251
+karmūtu_1	ruination 	0.65072
+ṭāba_1	good 	0.650717
+puhpuhhû_1	squabble 	0.647339
+pārisu_2	who decides 	0.64536
+šeʾû_1	seek 	0.64469
+kayyānu_1	constant 	0.643526
+

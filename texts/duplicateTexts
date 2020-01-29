@@ -1,4 +1,4 @@
-#List of texts that are duplicates of texts in other projects in Oracc
+#List of texts that are duplicates of texts in other projects in Oracc and that have not been used for analysis. In addition to these documents, the documents is the subprojects sources and scores have been left out of our data since they contain only duplicate texts which are available elsewhere in the parent projects. 
 
 ario/Q007285
 ario/Q007286

@@ -1,7 +1,7 @@
 VARIOUS LISTS ABOUT THE DATA USED FOR PRODUCING THE TEXT FILES / RESULTS
 for Svärd et al., "Fear in Akkadian Texts"
 
-Level 1 is done with minimal preprocessing. For level 2, homonymous words have been separated both automatically 
+Level 1 is done with minimal preprocessing. For level 2, homonymous words have been separated automatically 
 based on translations given in Oracc metadata. Words with synonymous translations are kept together automatically 
 and with a handmade list (see lists/notHomonyms). Both files contain one document per line. For the metadata on 
 the documents see texts/documents_used.
@@ -15,10 +15,10 @@ Frequencies_level1.txt and Frequencies_level2.txt
 
 notHomonyms
 = list of word pares that look like homonyms but are not and have synonymous translations, that cannot be 
-combined automatically. These words should be concidered the same word.
+combined automatically. These words should be considered the same word.
 
 gods_combined_variants.txt and places_combined_variants.txt
-= Lists of standardized divine and place names  
+= Lists of standardised divine and place names  
 
 wantedWords_level1 and wantedWords_level2
 = lists of emotion words under scrutiny
@@ -28,7 +28,7 @@ wordsWithTranslations_level1 and wordsWithTranslations_level2
 
 
 Lists of words (with translations) in the analysed text files during the intermediate stages of the text 
-preposessing between levels 1 and 2:
+preprosessing between levels 1 and 2:
 
 words_EmotionDerivativesCombinedToRoot
 = list of all words after the derivatives of emotion verbs had been combined with their verbal root

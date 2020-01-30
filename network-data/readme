@@ -1,8 +1,10 @@
+VARIOUS FILES related to building the graphs for Svärd et al., "Fear in Akkadian Texts".
+
 FastText_networks.gephi and PMI_networks.gephi
-Gephi project files containing the networks created with fastText and PMI
+Gephi project files containing the networks created with the fastText and PMI results. The files can be opened with Gephi, an open source visualisation tool downloadable at https://gephi.org.
 
 level1_PMI_50_lazyfilter_gephi.csv, level2_PMI_50_lazyfilter_gephi.csv
-Raw PMI data used for creating the graphs
+Raw PMI data used for creating the .gexf files to build the graphs with Gephi
 
 fastText_level1_50.txt, fastText_level2_50.txt
-Raw fastText data used for creating the graphs
+Raw fastText data used for creating the .gexf files to build the graphs with Gephi.

@@ -1,4 +1,4 @@
-This folder contains the folders *oracc_data* (with the words extracted from each project in Oracc) and *textsAnalysed* with the text files used for the analyses in the article Svärd et al., Fear in Akkadian Texts.
+This folder contains the folders *oracc_data* (with the words extracted from each project in Oracc) and *textsAnalysed* with the text files used for the analyses in the article Svärd et al., *Fear in Akkadian Texts*.
 
 *documents_used*
 is a list of all the documents used for the text files analysed

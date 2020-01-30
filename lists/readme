@@ -8,13 +8,10 @@ Frequencies_level1.txt and Frequencies_level2.txt
 = Frequencies of the words on Levels 1 and 2
 
 notHomonyms
-= list of word pares that look like homonyms but are not and should be concidered the same word
+= list of word pares that look like homonyms but are not and have synonymous translations, that cannot be combined automatically. These words should be concidered the same word.
 
 gods_combined_variants.txt and places_combined_variants.txt
 = Lists of standardized divine and place names  
-
-synonymsToBeCombined.txt
-= List of words with synonymous translations, that cannot be combined automatically
 
 wantedWords_level1 and wantedWords_level2
 = lists of words under scrutiny

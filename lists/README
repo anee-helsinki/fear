@@ -26,6 +26,10 @@ wantedWords_level1 and wantedWords_level2
 wordsWithTranslations_level1 and wordsWithTranslations_level2
 = lists of all the words in the text files that were analysed with the translations given in Oracc
 
+
+Lists of words (with translations) in the analysed text files during the intermediate stages of the text 
+preposessing between levels 1 and 2:
+
 words_EmotionDerivativesCombinedToRoot
 = list of all words after the derivatives of emotion verbs had been combined with their verbal root
 

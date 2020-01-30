@@ -6,11 +6,11 @@ Each file contains a word per line. Each line starts with the document number wi
 
 E.g. suhu/Q006206.6.2	form:{GIŠ}TUKUL.MEŠ	lemma:kakku	gw:stick	wclass:N	norm:kakkī	sense:weapon 	epos:N	lang:akk	signs:𒄑𒆪𒈨𒌍
 
-lemma = dictionary form
-gw = guide word = translation of the dictionary form
-wclass = wordclass of the dictionary form
-norm = transcription of the word
-sense = translation of the transcription
-epos = wordclass of the transcription
-lang = language of the word
-signs = cuneiform signs forming the word
+lemma = dictionary form;
+gw = guide word = translation of the dictionary form;
+wclass = wordclass of the dictionary form;
+norm = transcription of the word;
+sense = translation of the transcription;
+epos = wordclass of the transcription;
+lang = language of the word;
+signs = cuneiform signs forming the word;

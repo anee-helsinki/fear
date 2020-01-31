@@ -1,0 +1,101 @@
+# Words that have been collapsed to their verbal roots
+
+LOVE
+1. râmu (to love)
+murtâmu_1	loving each other
+narāmtu_1	loved 23
+narāmu_1	loved 134
+raʾīmu_1	loved 11
+rāʾimu_1 == rāʾimu_2 loving, who loves
+rāʾimānu_1	who loves 5
+rāʾimūtu_1	friendship 1
+râmu_1	love
+rāmu_1	loved 6
+rîmu_1	beloved 1
+rûmtu_1	darling 3
+ruʾāmu_1 == ruʾāmu_2 love, charm
+FEAR
+2. adāru (to be afraid)
+adāru_2	afraid 94
+adirtu_2	fear 4
+adīru_1	fear 3
+ādiru_1 == ādiru_2 fearful, full of awe
+adru_2 == adru_3 afraid, scared
+idirtu_1	misery 7
+šutadduru_1	constantly terrified 12
+
+3. galātu (to tremble, be afraid)
+galātu_1	tremble 36
+galtu_1	fearful 7
+gilittu_1	terror 35
+mugallitu_1	troublemaker 7
+šuglutu_1	very frightening 3
+
+4. palāhu (to fear)
+palāhu_1 == palāhu_2 fear, afraid
+palhu_1 == palhu_2 fearful, fearsome
+pulhītu_1	distress 1
+pulhu_1 == pulhu_2 fearsomeness, terror
+puluhtu_1 == puluhtu_2 awesomeness, fearsomeness
+5. parādu (to be scared, fearful)
+parādu_1 == parādu_3 scared, fearful
+pardu_1 == pardu_2,pardu_3 afraid, terrifying, frightened
+pirittu_1	terror 38
+6. šahātu (to be afraid)
+šahātu_2	afraid 19
+šahtu_1	reverent 31
+šihittu_1	fear 1
+
+ANGER
+7. agāgu (to be furious)
+agāgu_1	furious 21
+aggu_1	furious 12
+uggatu_1 == uggatu_2 anger, rage
+uggugu_1 == uggugu_2 very furious, angrynuggatu_1	rage 1aggāgû	furious 1
+
+8. ezēzu (to be angry)
+ezēzu_1	angry 32
+ezzetu_1	fury 4
+ezzu_1	furious 121
+mēzezu_1	wrath 7
+šēzuzu_1	very fierce 1
+šūzuzu_1	very fierce 3
+uzzatu_1	anger 1
+uzzu_1	anger 36
+9. kamālu (to be angry)
+kamālu_1	angry 2
+kamlu_1	angry 3
+kimiltu_1	wrath 21
+
+kitmulu_1       very displeased 3
+
+10. labābu (to rage)
+labābu_1	rage 3
+labbu_1	angry 2
+libbātu_1	rage 9
+nalbubu_1	furious 2
+šalbābu_1 	raging
+šalbubu_1	furious 2
+11. raʾābu (to be angry)
+raʾābu_1 == raʾābu_2 shake, angry
+raʾbu_1	raging 5
+raʾību_1	shivering 10
+rūbu_1	anger 1
+ruʾubtu_1	rage 2
+12. šabāsu (to be angry)
+šabāsu_1	angry 18
+šabbasû_1	very angry 2
+šabsu_1	angry 12
+šibsātu_1	anger 10
+
+13. šamāru (to rage)
+šamāru_2	rage 17
+šamru_1	furious 41
+šitmāru_1	very wild 2
+šumru_1	fury 5
+14. zenû (to be angry)
+zenû_1	angry 70
+zenûtu_1	anger 2
+
+
+

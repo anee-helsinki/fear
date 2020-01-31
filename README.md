@@ -1,4 +1,4 @@
-This repository contains the data used for and generated during our research for the article "Fear in Akkadian Texts." 
+This repository contains the data used for and generated during our research for the article Svärd et al., "Fear in Akkadian Texts." 
 
 <b>network-data:</b> Gephi datasets and raw data used to create the graphs
 

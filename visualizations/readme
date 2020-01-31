@@ -2,6 +2,9 @@ Graphs produced using PMI and fastText scores as tie strength.
 
 Level 1 shows verbs and their derivatives (e.g. adāru, ādiru and adru).
 
-On Level 2, the derivatives are combined into a single word (e.g. the word adāru includes words adāru, ādiru and adru).
+On Level 2, the derivatives are combined into a single word (e.g. the word adāru includes words adāru, ādiru and adru). 
+Homonymous words are kept separate using the translations in the Oracc metadata. Synonymous translations are 
+combined both automatically and manually. Different homonyms are indicated by a number at the end of each word 
+(e.g. adāru_1 dark, adāru_2 be afraid, and adāru_3 tree).
 
 Numbers 10 and 50 indicate the number of context words connected to each emotion word in the graph.

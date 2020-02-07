@@ -1,10 +1,16 @@
 Graphs produced with Gephi (https://gephi.org) using PMI and fastText scores as tie strength.
 
-Level 1 shows the networks for emotion verbs and their derivatives (e.g. adāru, ādiru and adru) as well as their “closest” words according to the PMI and fastText results.
+Level 1 shows the networks for emotion verbs and their derivatives (e.g. adāru, ādiru and adru) as well as their 
+“closest” words according to the PMI and fastText results.
 
-On Level 2, homonymous words are kept separate using the translations in the Oracc metadata. Synonymous translations are combined both automatically and manually. Different homonyms are indicated by a number at the end of each word (e.g. adāru_1 dark, adāru_2 be afraid, and adāru_3 tree). The derivatives are also combined into a single word (e.g. the word adāru_2 includes words adāru "be afraid", ādiru, and adru "afraid").
+On Level 2, homonymous words are kept separate using the translations in the Oracc metadata. Synonymous translations 
+are combined both automatically and manually. Different homonyms are indicated by a number at the end of each word 
+(e.g. adāru_1 dark, adāru_2 be afraid, and adāru_3 tree). The derivatives are also combined into a single word 
+(e.g. the word adāru_2 includes words adāru "be afraid", ādiru, and adru "afraid").
 
-Numbers 10 and 50 indicate the number of context words connected to each emotion word in the graph. Some emotion words have only 9 words connected to them in the PMI graphs of 10 words, as in the PMI results the word can occur together with itself.
+Numbers 10 and 50 indicate the number of context words connected to each emotion word in the graph. Some emotion words 
+have only 9 words connected to them in the PMI graphs of 10 words, as in the PMI results the word can occur together 
+with itself.
 
 The colours indicate communities within each network and have been produced using the modularity algorithm in Gephi.
 
